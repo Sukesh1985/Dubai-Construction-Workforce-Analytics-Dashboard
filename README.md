@@ -6,7 +6,7 @@
 [![DAX](https://img.shields.io/badge/DAX-50%2B%20Measures-orange?style=for-the-badge)](https://dax.guide/)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)]()
 
-![Executive Dashboard](screenshots/01_Executive_Dashboard.png)
+<img width="1277" height="720" alt="Page 1 Executive Dashboard" src="https://github.com/user-attachments/assets/28f268f1-ca4c-4cdc-8ea5-e9ae008ae22e" />
 
 ---
 
