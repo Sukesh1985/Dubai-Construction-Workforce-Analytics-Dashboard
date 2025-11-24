@@ -49,7 +49,7 @@ Strategic workforce overview with real-time KPIs and interactive filtering
 - 7.75% Attrition Rate
 - 15 Active Projects
 
-[Executive Dashboard](screenshots/01_Executive_Dashboard.png)
+<img width="1277" height="720" alt="Page 1 Executive Dashboard" src="https://github.com/user-attachments/assets/08f58911-9992-4431-b658-c763a10ad087" />
 
 ---
 
@@ -61,7 +61,7 @@ MOHRE regulatory tracking ensuring 10% target compliance
 - Department-level gap analysis
 - Compliance status tracking (✅ COMPLIANT | ⚠️ NEAR TARGET)
 
-[Emiratization Dashboard](screenshots/02_Emiratization_Compliance.png)
+<img width="1280" height="720" alt="Page 2 Emiratization Compliance" src="https://github.com/user-attachments/assets/00ad62f8-6fb4-49fc-88a4-94f6c04f9d6f" />
 
 ---
 
@@ -73,7 +73,7 @@ Comprehensive diversity analysis and talent composition
 - Gender distribution by department
 - Education level analysis
 
-![Demographics Dashboard](screenshots/03_Workforce_Demographics.png)
+<img width="1281" height="724" alt="Page 3 Workforce Demographics" src="https://github.com/user-attachments/assets/50bcc0c6-1636-4106-b5ad-929efc35a9b0" />
 
 ---
 
@@ -85,7 +85,7 @@ Turnover cost management with predictive analytics
 - Exit reason analysis
 - Tenure distribution tracking
 
-![Attrition Dashboard](screenshots/04_Attrition_Retention.png)
+<img width="1281" height="723" alt="Page 4 Attrition   Retention" src="https://github.com/user-attachments/assets/40629b3a-ae38-4f04-aed0-3500002f970e" />
 
 ---
 
@@ -97,7 +97,7 @@ Workplace safety monitoring and incident prevention
 - **17,494** Total days lost
 - Incident severity distribution
 
-![Safety Dashboard](screenshots/05_Safety_Compliance.png)
+<img width="1280" height="725" alt="Page 5 Safety   Compliance" src="https://github.com/user-attachments/assets/aa9b1c67-21b3-4a73-8df3-7a03894c1eb4" />
 
 ---
 
@@ -109,7 +109,7 @@ Workforce output analysis and efficiency tracking
 - Performance rating distribution
 - Top performers identification
 
-![Productivity Dashboard](screenshots/06_Productivity_Performance.png)
+<img width="1280" height="725" alt="Page 6 Productivity   Performance" src="https://github.com/user-attachments/assets/6ae47e4e-fafa-4031-8eb9-65f99149d495" />
 
 ---
 
@@ -121,7 +121,7 @@ Dubai mega-projects budget tracking and resource allocation
 - **3,070** Average workers per project
 - Budget vs. resource optimization
 
-![Project Dashboard](screenshots/07_Project_Analytics.png)
+<img width="1282" height="725" alt="Page 7 Project Analytics" src="https://github.com/user-attachments/assets/02ae7986-f0f4-44d2-b17e-3ef0ea171d12" />
 
 ---
 
@@ -133,7 +133,7 @@ Payroll analysis and cost management
 - Salary distribution by band
 - Cost breakdown by department and nationality
 
-![Financial Dashboard](screenshots/08_Financial_Overview.png)
+<img width="1280" height="720" alt="Page 8 Financial Overview" src="https://github.com/user-attachments/assets/2b155ca0-4155-4061-923d-4d63af045fec" />
 
 ---
 
