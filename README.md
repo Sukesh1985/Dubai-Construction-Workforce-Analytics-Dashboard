@@ -49,7 +49,7 @@ Strategic workforce overview with real-time KPIs and interactive filtering
 - 7.75% Attrition Rate
 - 15 Active Projects
 
-![Executive Dashboard](screenshots/01_Executive_Dashboard.png)
+(screenshots/01_Executive_Dashboard.png)
 
 ---
 
