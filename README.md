@@ -49,7 +49,7 @@ Strategic workforce overview with real-time KPIs and interactive filtering
 - 7.75% Attrition Rate
 - 15 Active Projects
 
-(screenshots/01_Executive_Dashboard.png)
+[Executive Dashboard](screenshots/01_Executive_Dashboard.png)
 
 ---
 
@@ -61,7 +61,7 @@ MOHRE regulatory tracking ensuring 10% target compliance
 - Department-level gap analysis
 - Compliance status tracking (✅ COMPLIANT | ⚠️ NEAR TARGET)
 
-![Emiratization Dashboard](screenshots/02_Emiratization_Compliance.png)
+[Emiratization Dashboard](screenshots/02_Emiratization_Compliance.png)
 
 ---
 
