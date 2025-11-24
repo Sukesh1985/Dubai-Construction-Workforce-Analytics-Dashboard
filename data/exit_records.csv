@@ -1,0 +1,3877 @@
+EmployeeID,ExitDate,ExitReason,TenureAtExit_Months,RehireEligible
+EMP1002,2025-01-08,End of Contract,40,Yes
+EMP1043,2025-02-26,Work Conditions,28,No
+EMP1075,2025-05-20,Better Opportunity,36,Yes
+EMP1079,2025-09-01,End of Contract,30,Yes
+EMP1080,2024-10-25,Work Conditions,19,No
+EMP1084,2023-06-02,Salary Issues,44,No
+EMP1088,2024-08-24,Health Issues,19,No
+EMP1091,2025-03-20,Better Opportunity,12,Yes
+EMP1097,2023-01-22,End of Contract,35,Yes
+EMP1098,2024-07-01,End of Contract,32,Yes
+EMP1134,2025-11-02,Work Conditions,4,No
+EMP1137,2022-09-29,Better Opportunity,46,Yes
+EMP1142,2025-03-04,Better Opportunity,41,Yes
+EMP1157,2025-02-24,Better Opportunity,10,Yes
+EMP1168,2025-06-18,Salary Issues,9,No
+EMP1172,2025-08-29,Better Opportunity,31,Yes
+EMP1177,2024-11-08,End of Contract,17,Yes
+EMP1183,2024-11-28,Work Conditions,13,No
+EMP1238,2025-04-10,Health Issues,8,No
+EMP1240,2025-08-17,End of Contract,37,Yes
+EMP1298,2023-10-07,Better Opportunity,41,Yes
+EMP1309,2025-05-10,End of Contract,27,Yes
+EMP1310,2025-10-23,Work Conditions,15,No
+EMP1329,2025-11-02,Work Conditions,22,No
+EMP1341,2023-05-29,Family Reasons,40,Yes
+EMP1342,2025-05-11,Better Opportunity,14,Yes
+EMP1357,2024-06-25,Better Opportunity,37,Yes
+EMP1370,2024-10-21,Better Opportunity,19,Yes
+EMP1389,2025-10-12,End of Contract,9,Yes
+EMP1394,2025-04-23,Work Conditions,10,No
+EMP1409,2024-09-24,Salary Issues,15,No
+EMP1425,2022-10-16,Family Reasons,46,Yes
+EMP1433,2025-09-08,End of Contract,21,Yes
+EMP1454,2025-03-03,End of Contract,15,Yes
+EMP1469,2025-08-23,Salary Issues,22,No
+EMP1471,2025-04-15,Better Opportunity,11,Yes
+EMP1499,2025-08-09,Better Opportunity,8,Yes
+EMP1517,2025-06-05,Better Opportunity,23,Yes
+EMP1526,2025-10-04,Family Reasons,11,Yes
+EMP1555,2025-02-23,Work Conditions,14,No
+EMP1573,2024-11-09,Better Opportunity,17,Yes
+EMP1577,2024-04-23,Better Opportunity,41,Yes
+EMP1579,2024-08-19,Better Opportunity,17,Yes
+EMP1601,2023-12-13,Better Opportunity,32,Yes
+EMP1607,2022-10-02,Salary Issues,44,No
+EMP1620,2025-03-15,End of Contract,24,Yes
+EMP1622,2024-11-12,Better Opportunity,17,Yes
+EMP1623,2025-01-11,End of Contract,27,Yes
+EMP1626,2025-09-24,Better Opportunity,47,Yes
+EMP1635,2023-08-26,Better Opportunity,37,Yes
+EMP1640,2024-09-29,Salary Issues,23,No
+EMP1647,2025-09-30,Better Opportunity,8,Yes
+EMP1653,2025-07-13,End of Contract,41,Yes
+EMP1679,2023-10-25,Better Opportunity,30,Yes
+EMP1683,2024-01-25,Better Opportunity,42,Yes
+EMP1707,2025-09-06,Better Opportunity,22,Yes
+EMP1714,2023-12-11,End of Contract,25,Yes
+EMP1718,2025-04-26,End of Contract,11,Yes
+EMP1739,2023-07-04,Better Opportunity,36,Yes
+EMP1741,2023-04-22,Better Opportunity,35,Yes
+EMP1752,2025-09-12,End of Contract,28,Yes
+EMP1771,2025-10-24,Family Reasons,28,Yes
+EMP1790,2024-11-06,End of Contract,26,Yes
+EMP1793,2025-11-09,Family Reasons,12,Yes
+EMP1814,2025-05-25,Better Opportunity,32,Yes
+EMP1845,2024-09-04,Better Opportunity,24,Yes
+EMP1851,2025-09-13,Salary Issues,8,No
+EMP1872,2023-06-19,Better Opportunity,39,Yes
+EMP1883,2025-03-14,End of Contract,16,Yes
+EMP1888,2025-11-15,Family Reasons,7,Yes
+EMP1889,2025-10-22,Family Reasons,10,Yes
+EMP1923,2025-04-19,End of Contract,29,Yes
+EMP1959,2024-03-27,Better Opportunity,22,Yes
+EMP1978,2025-03-27,Family Reasons,29,Yes
+EMP1990,2022-02-28,Family Reasons,46,Yes
+EMP2005,2025-10-11,End of Contract,6,Yes
+EMP2036,2025-08-31,Better Opportunity,10,Yes
+EMP2048,2024-07-21,End of Contract,25,Yes
+EMP2050,2022-12-16,End of Contract,43,Yes
+EMP2057,2024-10-13,Health Issues,37,No
+EMP2070,2025-01-14,Better Opportunity,35,Yes
+EMP2081,2024-06-06,Health Issues,46,No
+EMP2097,2024-03-03,Better Opportunity,30,Yes
+EMP2098,2025-03-11,Work Conditions,44,No
+EMP2101,2025-11-02,Salary Issues,9,No
+EMP2102,2023-10-22,End of Contract,33,Yes
+EMP2109,2025-10-09,Better Opportunity,10,Yes
+EMP2127,2024-12-23,Family Reasons,20,Yes
+EMP2128,2023-05-11,Family Reasons,32,Yes
+EMP2160,2023-10-12,Better Opportunity,36,Yes
+EMP2177,2022-10-31,Better Opportunity,39,Yes
+EMP2205,2025-09-20,Health Issues,3,No
+EMP2209,2025-05-31,Salary Issues,14,No
+EMP2217,2025-09-27,Better Opportunity,8,Yes
+EMP2218,2024-11-09,Work Conditions,44,No
+EMP2223,2024-02-17,Family Reasons,27,Yes
+EMP2231,2023-03-23,Salary Issues,36,No
+EMP2250,2025-02-03,Salary Issues,28,No
+EMP2257,2023-05-23,Salary Issues,31,No
+EMP2258,2025-10-23,End of Contract,15,Yes
+EMP2272,2025-10-22,End of Contract,4,Yes
+EMP2275,2025-04-16,Work Conditions,13,No
+EMP2276,2023-11-19,End of Contract,26,Yes
+EMP2281,2024-04-26,Better Opportunity,33,Yes
+EMP2304,2025-04-11,End of Contract,27,Yes
+EMP2315,2025-10-09,End of Contract,6,Yes
+EMP2359,2024-05-04,End of Contract,23,Yes
+EMP2371,2025-05-29,End of Contract,42,Yes
+EMP2374,2025-11-10,Terminated,6,No
+EMP2387,2025-10-11,Better Opportunity,45,Yes
+EMP2395,2025-10-21,End of Contract,23,Yes
+EMP2404,2025-06-01,Salary Issues,10,No
+EMP2408,2025-07-08,Family Reasons,26,Yes
+EMP2422,2025-11-08,Better Opportunity,6,Yes
+EMP2433,2024-07-23,Better Opportunity,39,Yes
+EMP2445,2024-01-29,End of Contract,32,Yes
+EMP2451,2023-05-17,Family Reasons,46,Yes
+EMP2455,2025-08-28,End of Contract,19,Yes
+EMP2493,2025-04-08,Family Reasons,24,Yes
+EMP2496,2022-12-18,Work Conditions,44,No
+EMP2498,2024-06-16,End of Contract,24,Yes
+EMP2515,2025-09-08,Better Opportunity,46,Yes
+EMP2519,2025-09-18,End of Contract,42,Yes
+EMP2539,2023-08-01,Health Issues,37,No
+EMP2550,2025-06-11,Family Reasons,11,Yes
+EMP2556,2025-04-20,Better Opportunity,25,Yes
+EMP2563,2023-02-24,Better Opportunity,39,Yes
+EMP2583,2025-11-09,Better Opportunity,20,Yes
+EMP2648,2025-07-10,Better Opportunity,16,Yes
+EMP2658,2024-09-29,Work Conditions,15,No
+EMP2677,2024-11-14,End of Contract,24,Yes
+EMP2711,2025-02-25,Better Opportunity,11,Yes
+EMP2713,2025-09-24,End of Contract,38,Yes
+EMP2724,2022-04-04,End of Contract,45,Yes
+EMP2771,2024-07-05,End of Contract,31,Yes
+EMP2774,2025-06-04,Better Opportunity,11,Yes
+EMP2778,2025-04-14,End of Contract,18,Yes
+EMP2787,2023-09-09,End of Contract,45,Yes
+EMP2789,2025-04-06,End of Contract,43,Yes
+EMP2813,2025-07-13,End of Contract,8,Yes
+EMP2827,2024-05-25,Family Reasons,19,Yes
+EMP2833,2024-02-25,Better Opportunity,26,Yes
+EMP2839,2022-10-03,Better Opportunity,45,Yes
+EMP2845,2024-07-20,End of Contract,35,Yes
+EMP2869,2023-09-22,Family Reasons,42,Yes
+EMP2872,2025-07-27,End of Contract,16,Yes
+EMP2880,2024-02-05,End of Contract,25,Yes
+EMP2908,2025-07-20,Work Conditions,8,No
+EMP2929,2025-06-21,Salary Issues,32,No
+EMP2932,2025-06-03,End of Contract,15,Yes
+EMP2935,2023-10-31,Salary Issues,33,No
+EMP2936,2024-11-28,Salary Issues,21,No
+EMP2943,2025-05-06,Better Opportunity,12,Yes
+EMP2951,2024-03-10,End of Contract,36,Yes
+EMP2981,2024-10-04,Better Opportunity,17,Yes
+EMP2990,2024-06-04,End of Contract,19,Yes
+EMP3030,2025-06-17,End of Contract,21,Yes
+EMP3033,2024-05-18,Better Opportunity,35,Yes
+EMP3053,2022-06-07,Salary Issues,44,No
+EMP3059,2024-09-14,End of Contract,35,Yes
+EMP3073,2025-07-12,End of Contract,31,Yes
+EMP3085,2024-01-06,Better Opportunity,25,Yes
+EMP3086,2025-08-10,Family Reasons,24,Yes
+EMP3087,2025-10-25,Family Reasons,5,Yes
+EMP3096,2024-07-12,Better Opportunity,24,Yes
+EMP3100,2025-09-18,Better Opportunity,6,Yes
+EMP3117,2025-02-09,Better Opportunity,43,Yes
+EMP3160,2023-07-23,Better Opportunity,42,Yes
+EMP3178,2024-07-07,Better Opportunity,34,Yes
+EMP3184,2025-10-31,Health Issues,37,No
+EMP3192,2024-04-18,Better Opportunity,30,Yes
+EMP3193,2025-10-18,Family Reasons,27,Yes
+EMP3208,2025-08-15,Work Conditions,9,No
+EMP3223,2025-09-01,Work Conditions,18,No
+EMP3228,2025-08-29,Better Opportunity,5,Yes
+EMP3237,2025-10-02,Better Opportunity,14,Yes
+EMP3244,2025-09-03,End of Contract,12,Yes
+EMP3249,2024-03-19,Family Reasons,28,Yes
+EMP3270,2022-12-11,Family Reasons,39,Yes
+EMP3280,2025-02-20,Family Reasons,23,Yes
+EMP3308,2025-09-11,Work Conditions,15,No
+EMP3310,2025-09-26,End of Contract,3,Yes
+EMP3311,2025-11-10,Better Opportunity,3,Yes
+EMP3342,2025-05-10,Health Issues,26,No
+EMP3353,2025-04-29,Better Opportunity,15,Yes
+EMP3364,2025-08-12,Better Opportunity,28,Yes
+EMP3372,2022-12-22,End of Contract,37,Yes
+EMP3378,2025-08-06,End of Contract,6,Yes
+EMP3380,2025-08-15,End of Contract,26,Yes
+EMP3382,2024-10-15,End of Contract,18,Yes
+EMP3394,2024-12-23,Family Reasons,21,Yes
+EMP3417,2025-09-17,End of Contract,45,Yes
+EMP3422,2025-10-23,Better Opportunity,6,Yes
+EMP3430,2025-10-21,Better Opportunity,27,Yes
+EMP3434,2025-11-01,Better Opportunity,8,Yes
+EMP3436,2024-09-18,Work Conditions,27,No
+EMP3443,2023-01-29,Terminated,40,No
+EMP3463,2025-07-29,Better Opportunity,7,Yes
+EMP3470,2023-08-19,End of Contract,43,Yes
+EMP3485,2025-10-28,Better Opportunity,19,Yes
+EMP3506,2025-08-16,End of Contract,24,Yes
+EMP3510,2024-10-08,Better Opportunity,17,Yes
+EMP3513,2025-03-17,Better Opportunity,23,Yes
+EMP3518,2023-11-02,End of Contract,36,Yes
+EMP3523,2025-10-29,End of Contract,27,Yes
+EMP3527,2025-09-08,Better Opportunity,3,Yes
+EMP3566,2024-10-31,Salary Issues,36,No
+EMP3572,2024-10-15,Better Opportunity,19,Yes
+EMP3582,2025-03-02,Salary Issues,11,No
+EMP3583,2025-08-15,End of Contract,4,Yes
+EMP3617,2024-07-11,Better Opportunity,20,Yes
+EMP3645,2022-05-21,Family Reasons,45,Yes
+EMP3662,2025-07-18,Family Reasons,6,Yes
+EMP3679,2025-10-19,Better Opportunity,12,Yes
+EMP3695,2025-08-08,Work Conditions,8,No
+EMP3707,2025-04-01,End of Contract,16,Yes
+EMP3718,2025-08-06,Terminated,33,No
+EMP3721,2025-03-11,End of Contract,29,Yes
+EMP3730,2024-10-26,Health Issues,31,No
+EMP3732,2025-01-20,Better Opportunity,25,Yes
+EMP3766,2025-08-23,End of Contract,44,Yes
+EMP3774,2025-07-25,Terminated,9,No
+EMP3806,2025-02-02,End of Contract,46,Yes
+EMP3814,2023-03-28,Salary Issues,45,No
+EMP3823,2025-10-12,Salary Issues,5,No
+EMP3827,2022-09-05,End of Contract,41,Yes
+EMP3843,2025-09-27,Work Conditions,25,No
+EMP3864,2023-05-15,Salary Issues,40,No
+EMP3874,2024-09-28,Better Opportunity,18,Yes
+EMP3878,2025-05-26,End of Contract,13,Yes
+EMP3895,2022-07-11,Better Opportunity,44,Yes
+EMP3920,2025-01-07,End of Contract,13,Yes
+EMP3956,2025-04-26,Better Opportunity,13,Yes
+EMP3961,2025-08-20,Family Reasons,36,Yes
+EMP3967,2025-06-01,Better Opportunity,23,Yes
+EMP3972,2025-07-19,End of Contract,39,Yes
+EMP4012,2024-01-16,Better Opportunity,33,Yes
+EMP4020,2025-04-02,Better Opportunity,10,Yes
+EMP4029,2023-12-05,End of Contract,29,Yes
+EMP4031,2025-01-25,Work Conditions,11,No
+EMP4034,2025-08-16,Work Conditions,8,No
+EMP4047,2024-04-03,Family Reasons,44,Yes
+EMP4053,2024-11-06,Better Opportunity,33,Yes
+EMP4058,2025-08-21,Salary Issues,12,No
+EMP4059,2025-10-08,Work Conditions,15,No
+EMP4065,2025-06-08,Better Opportunity,38,Yes
+EMP4071,2025-10-07,Better Opportunity,29,Yes
+EMP4074,2024-12-27,End of Contract,35,Yes
+EMP4129,2024-07-19,End of Contract,28,Yes
+EMP4142,2025-10-16,Work Conditions,15,No
+EMP4145,2024-10-14,End of Contract,36,Yes
+EMP4152,2023-08-08,Work Conditions,36,No
+EMP4166,2025-11-05,Better Opportunity,4,Yes
+EMP4173,2025-09-06,Salary Issues,31,No
+EMP4190,2025-01-01,End of Contract,23,Yes
+EMP4193,2025-08-31,Work Conditions,3,No
+EMP4214,2025-06-21,Better Opportunity,16,Yes
+EMP4221,2024-04-26,Family Reasons,43,Yes
+EMP4228,2023-02-06,End of Contract,46,Yes
+EMP4265,2025-02-14,Better Opportunity,35,Yes
+EMP4268,2023-12-14,Family Reasons,38,Yes
+EMP4277,2025-08-27,Family Reasons,4,Yes
+EMP4306,2024-09-05,End of Contract,30,Yes
+EMP4313,2025-07-19,End of Contract,23,Yes
+EMP4332,2025-07-16,Salary Issues,26,No
+EMP4348,2023-06-18,End of Contract,36,Yes
+EMP4371,2025-06-14,Better Opportunity,22,Yes
+EMP4375,2025-09-21,End of Contract,3,Yes
+EMP4379,2024-08-02,End of Contract,45,Yes
+EMP4394,2024-11-06,End of Contract,18,Yes
+EMP4405,2025-03-26,End of Contract,12,Yes
+EMP4406,2023-09-14,Better Opportunity,46,Yes
+EMP4426,2025-04-25,Family Reasons,38,Yes
+EMP4449,2025-04-22,Family Reasons,10,Yes
+EMP4499,2023-08-22,Better Opportunity,46,Yes
+EMP4509,2025-01-11,Family Reasons,18,Yes
+EMP4514,2025-09-03,Better Opportunity,14,Yes
+EMP4518,2022-09-04,Better Opportunity,42,Yes
+EMP4532,2025-05-10,End of Contract,11,Yes
+EMP4535,2025-04-15,End of Contract,27,Yes
+EMP4547,2025-10-02,End of Contract,7,Yes
+EMP4555,2024-08-15,Better Opportunity,18,Yes
+EMP4558,2024-12-22,Salary Issues,31,No
+EMP4580,2024-01-27,Better Opportunity,32,Yes
+EMP4600,2023-12-28,Better Opportunity,43,Yes
+EMP4604,2024-08-20,Health Issues,34,No
+EMP4606,2025-07-12,End of Contract,10,Yes
+EMP4625,2025-01-26,Family Reasons,21,Yes
+EMP4626,2025-06-03,Better Opportunity,13,Yes
+EMP4658,2023-12-21,Work Conditions,29,No
+EMP4661,2025-06-29,End of Contract,13,Yes
+EMP4662,2024-09-22,Family Reasons,23,Yes
+EMP4673,2025-09-06,Family Reasons,10,Yes
+EMP4681,2025-07-19,Family Reasons,6,Yes
+EMP4686,2025-04-28,Family Reasons,10,Yes
+EMP4710,2024-07-27,Work Conditions,30,No
+EMP4721,2024-10-29,Better Opportunity,18,Yes
+EMP4723,2025-08-05,Work Conditions,5,No
+EMP4746,2025-09-08,Better Opportunity,3,Yes
+EMP4774,2025-09-26,Better Opportunity,3,Yes
+EMP4790,2024-04-25,Better Opportunity,29,Yes
+EMP4792,2025-06-28,Family Reasons,10,Yes
+EMP4800,2025-05-23,End of Contract,43,Yes
+EMP4810,2023-12-28,Better Opportunity,30,Yes
+EMP4814,2024-11-23,End of Contract,19,Yes
+EMP4829,2022-03-05,Family Reasons,46,Yes
+EMP4849,2024-01-05,Better Opportunity,31,Yes
+EMP4858,2025-07-03,Family Reasons,11,Yes
+EMP4875,2024-03-11,Salary Issues,21,No
+EMP4890,2024-01-23,Work Conditions,36,No
+EMP4912,2023-06-22,End of Contract,39,Yes
+EMP4916,2022-12-19,End of Contract,42,Yes
+EMP4959,2025-11-02,Salary Issues,20,No
+EMP4965,2024-07-04,Better Opportunity,19,Yes
+EMP4989,2025-07-29,Better Opportunity,32,Yes
+EMP4995,2025-05-03,End of Contract,30,Yes
+EMP5004,2024-07-28,End of Contract,45,Yes
+EMP5009,2023-12-14,Salary Issues,38,No
+EMP5021,2024-03-21,Better Opportunity,24,Yes
+EMP5024,2024-10-21,Salary Issues,22,No
+EMP5030,2025-08-06,Family Reasons,5,Yes
+EMP5031,2024-10-11,Health Issues,16,No
+EMP5034,2025-09-26,Terminated,12,No
+EMP5036,2024-11-11,Better Opportunity,18,Yes
+EMP5066,2024-11-24,Better Opportunity,14,Yes
+EMP5075,2025-03-06,Better Opportunity,39,Yes
+EMP5078,2023-06-06,Better Opportunity,37,Yes
+EMP5092,2023-10-03,End of Contract,33,Yes
+EMP5122,2025-04-25,Better Opportunity,9,Yes
+EMP5140,2025-11-02,Better Opportunity,31,Yes
+EMP5157,2022-11-24,End of Contract,42,Yes
+EMP5161,2025-04-17,Better Opportunity,28,Yes
+EMP5195,2024-01-03,Family Reasons,33,Yes
+EMP5196,2025-10-16,Better Opportunity,34,Yes
+EMP5197,2024-05-03,Family Reasons,38,Yes
+EMP5231,2025-06-24,Work Conditions,5,No
+EMP5264,2023-01-10,End of Contract,39,Yes
+EMP5275,2025-04-20,End of Contract,29,Yes
+EMP5278,2025-05-04,Family Reasons,24,Yes
+EMP5291,2025-11-12,Family Reasons,3,Yes
+EMP5307,2024-03-21,Better Opportunity,37,Yes
+EMP5383,2022-12-18,End of Contract,39,Yes
+EMP5439,2023-05-01,Family Reasons,43,Yes
+EMP5446,2025-03-21,Work Conditions,16,No
+EMP5452,2025-09-05,Family Reasons,22,Yes
+EMP5477,2025-09-03,Work Conditions,5,No
+EMP5478,2024-04-24,End of Contract,29,Yes
+EMP5490,2025-06-21,Work Conditions,6,No
+EMP5504,2023-10-17,Work Conditions,45,No
+EMP5512,2024-02-22,Better Opportunity,40,Yes
+EMP5517,2025-09-06,End of Contract,5,Yes
+EMP5522,2023-09-18,Family Reasons,39,Yes
+EMP5544,2023-05-27,Salary Issues,32,No
+EMP5560,2024-04-20,Better Opportunity,20,Yes
+EMP5572,2025-07-16,End of Contract,20,Yes
+EMP5574,2025-01-06,Better Opportunity,22,Yes
+EMP5586,2025-03-29,Better Opportunity,30,Yes
+EMP5617,2023-06-10,End of Contract,40,Yes
+EMP5626,2025-09-05,Better Opportunity,13,Yes
+EMP5634,2025-09-06,Salary Issues,44,No
+EMP5640,2025-07-02,Better Opportunity,27,Yes
+EMP5654,2024-07-27,Family Reasons,27,Yes
+EMP5663,2025-08-24,Health Issues,5,No
+EMP5672,2025-03-18,End of Contract,38,Yes
+EMP5685,2023-10-08,End of Contract,37,Yes
+EMP5686,2025-09-29,Salary Issues,37,No
+EMP5690,2024-08-15,End of Contract,27,Yes
+EMP5721,2025-07-06,Family Reasons,15,Yes
+EMP5724,2025-10-04,Salary Issues,14,No
+EMP5744,2024-08-22,Better Opportunity,28,Yes
+EMP5747,2024-11-25,Better Opportunity,33,Yes
+EMP5750,2025-07-01,Better Opportunity,26,Yes
+EMP5751,2023-03-20,Better Opportunity,40,Yes
+EMP5752,2024-10-22,Better Opportunity,15,Yes
+EMP5806,2022-07-26,End of Contract,44,Yes
+EMP5820,2024-05-16,Better Opportunity,21,Yes
+EMP5836,2025-09-22,Better Opportunity,9,Yes
+EMP5838,2025-11-07,Work Conditions,5,No
+EMP5855,2023-02-06,Salary Issues,43,No
+EMP5863,2025-02-08,End of Contract,17,Yes
+EMP5868,2024-03-14,Better Opportunity,26,Yes
+EMP5878,2023-08-18,Work Conditions,31,No
+EMP5923,2024-02-03,Better Opportunity,26,Yes
+EMP6028,2024-04-14,Salary Issues,36,No
+EMP6044,2024-02-18,End of Contract,45,Yes
+EMP6047,2025-03-12,Salary Issues,42,No
+EMP6062,2025-07-26,Work Conditions,5,No
+EMP6063,2024-09-15,Family Reasons,39,Yes
+EMP6070,2024-03-17,Better Opportunity,31,Yes
+EMP6101,2025-05-30,Better Opportunity,15,Yes
+EMP6106,2024-02-21,Better Opportunity,42,Yes
+EMP6129,2024-06-04,End of Contract,24,Yes
+EMP6140,2024-08-17,Work Conditions,25,No
+EMP6141,2025-09-16,Salary Issues,3,No
+EMP6151,2025-11-03,Salary Issues,9,No
+EMP6166,2025-09-26,Better Opportunity,12,Yes
+EMP6218,2024-09-17,Work Conditions,35,No
+EMP6260,2025-10-30,Better Opportunity,31,Yes
+EMP6270,2023-11-23,Family Reasons,40,Yes
+EMP6275,2024-12-02,Better Opportunity,18,Yes
+EMP6301,2025-05-15,Family Reasons,26,Yes
+EMP6308,2025-08-10,Better Opportunity,7,Yes
+EMP6313,2022-04-25,Work Conditions,46,No
+EMP6353,2025-04-21,End of Contract,13,Yes
+EMP6370,2025-10-16,Salary Issues,26,No
+EMP6373,2025-07-20,Salary Issues,5,No
+EMP6385,2025-03-23,Salary Issues,45,No
+EMP6390,2025-01-15,Family Reasons,35,Yes
+EMP6404,2025-07-12,Work Conditions,6,No
+EMP6430,2025-03-09,End of Contract,11,Yes
+EMP6462,2025-01-22,End of Contract,13,Yes
+EMP6478,2025-07-28,End of Contract,45,Yes
+EMP6488,2025-09-29,Better Opportunity,21,Yes
+EMP6489,2025-06-12,Family Reasons,9,Yes
+EMP6493,2025-09-03,End of Contract,3,Yes
+EMP6502,2025-07-22,Family Reasons,23,Yes
+EMP6505,2025-09-21,End of Contract,3,Yes
+EMP6519,2023-12-21,Better Opportunity,35,Yes
+EMP6520,2025-06-01,Better Opportunity,31,Yes
+EMP6525,2025-07-06,Work Conditions,8,No
+EMP6531,2025-07-20,Family Reasons,14,Yes
+EMP6544,2023-08-09,Better Opportunity,31,Yes
+EMP6595,2023-07-27,Work Conditions,33,No
+EMP6599,2025-09-17,End of Contract,12,Yes
+EMP6606,2023-07-31,Terminated,45,No
+EMP6615,2025-05-22,End of Contract,15,Yes
+EMP6621,2023-10-07,Better Opportunity,45,Yes
+EMP6629,2025-09-02,End of Contract,3,Yes
+EMP6649,2025-05-03,Salary Issues,9,No
+EMP6674,2025-04-09,Better Opportunity,19,Yes
+EMP6675,2023-09-05,Better Opportunity,40,Yes
+EMP6682,2025-08-01,Family Reasons,27,Yes
+EMP6698,2025-01-23,Salary Issues,10,No
+EMP6707,2024-12-10,Better Opportunity,21,Yes
+EMP6733,2025-10-07,End of Contract,6,Yes
+EMP6737,2024-12-29,Better Opportunity,33,Yes
+EMP6743,2024-02-20,Better Opportunity,46,Yes
+EMP6762,2024-10-11,Better Opportunity,32,Yes
+EMP6771,2025-08-01,Better Opportunity,27,Yes
+EMP6772,2025-08-20,Family Reasons,5,Yes
+EMP6791,2023-07-26,Salary Issues,33,No
+EMP6803,2023-04-02,Better Opportunity,34,Yes
+EMP6807,2025-01-20,End of Contract,14,Yes
+EMP6809,2024-01-30,Family Reasons,37,Yes
+EMP6812,2025-03-08,Better Opportunity,45,Yes
+EMP6832,2024-10-03,Family Reasons,39,Yes
+EMP6843,2024-11-05,End of Contract,40,Yes
+EMP6864,2025-08-11,Family Reasons,23,Yes
+EMP6871,2025-08-05,Better Opportunity,21,Yes
+EMP6876,2022-12-03,Salary Issues,40,No
+EMP6906,2024-05-15,Better Opportunity,23,Yes
+EMP6909,2024-07-27,End of Contract,31,Yes
+EMP6926,2025-07-26,Better Opportunity,5,Yes
+EMP6968,2025-08-29,Work Conditions,4,No
+EMP6971,2025-09-23,Family Reasons,18,Yes
+EMP6974,2025-08-25,Better Opportunity,18,Yes
+EMP6986,2023-09-26,Better Opportunity,39,Yes
+EMP6990,2025-07-02,End of Contract,5,Yes
+EMP6995,2025-08-21,End of Contract,5,Yes
+EMP7000,2025-06-04,Better Opportunity,23,Yes
+EMP7007,2023-05-15,End of Contract,33,Yes
+EMP7019,2023-09-11,End of Contract,29,Yes
+EMP7021,2025-08-12,Salary Issues,10,No
+EMP7067,2025-09-16,Family Reasons,5,Yes
+EMP7069,2025-03-16,Work Conditions,10,No
+EMP7071,2025-09-19,Better Opportunity,26,Yes
+EMP7076,2024-11-27,End of Contract,17,Yes
+EMP7078,2025-03-25,Work Conditions,31,No
+EMP7080,2024-10-29,Better Opportunity,42,Yes
+EMP7115,2025-10-31,Family Reasons,46,Yes
+EMP7122,2025-08-13,Better Opportunity,30,Yes
+EMP7137,2024-09-24,Terminated,19,No
+EMP7139,2024-12-27,End of Contract,14,Yes
+EMP7157,2023-07-31,Family Reasons,34,Yes
+EMP7166,2025-10-01,Salary Issues,7,No
+EMP7168,2025-11-06,End of Contract,6,Yes
+EMP7174,2024-08-27,Family Reasons,45,Yes
+EMP7184,2024-07-26,End of Contract,36,Yes
+EMP7195,2025-08-17,Better Opportunity,24,Yes
+EMP7201,2024-07-02,Work Conditions,47,No
+EMP7210,2024-06-09,Family Reasons,20,Yes
+EMP7215,2024-08-10,Salary Issues,20,No
+EMP7231,2025-09-08,Salary Issues,6,No
+EMP7232,2024-12-15,Salary Issues,18,No
+EMP7239,2025-06-04,Family Reasons,10,Yes
+EMP7244,2023-09-12,Work Conditions,43,No
+EMP7247,2023-10-15,End of Contract,27,Yes
+EMP7266,2025-05-04,Better Opportunity,20,Yes
+EMP7298,2023-01-02,Family Reasons,46,Yes
+EMP7315,2025-07-31,Better Opportunity,11,Yes
+EMP7317,2025-08-11,End of Contract,7,Yes
+EMP7322,2024-09-13,End of Contract,21,Yes
+EMP7335,2024-06-15,End of Contract,34,Yes
+EMP7372,2025-07-01,Family Reasons,12,Yes
+EMP7397,2025-07-29,Salary Issues,13,No
+EMP7420,2025-05-17,Better Opportunity,23,Yes
+EMP7425,2023-11-30,Better Opportunity,42,Yes
+EMP7432,2024-10-23,Family Reasons,46,Yes
+EMP7441,2023-04-23,Better Opportunity,32,Yes
+EMP7449,2024-11-08,Better Opportunity,25,Yes
+EMP7486,2025-07-08,Better Opportunity,6,Yes
+EMP7503,2025-08-31,Salary Issues,13,No
+EMP7515,2025-09-01,Better Opportunity,40,Yes
+EMP7539,2024-05-09,End of Contract,28,Yes
+EMP7557,2024-08-25,End of Contract,32,Yes
+EMP7584,2024-03-03,Better Opportunity,40,Yes
+EMP7593,2025-11-04,Work Conditions,23,No
+EMP7595,2024-11-06,End of Contract,39,Yes
+EMP7599,2024-05-19,Better Opportunity,20,Yes
+EMP7600,2023-08-02,Better Opportunity,37,Yes
+EMP7643,2025-05-02,Salary Issues,40,No
+EMP7649,2025-07-29,Family Reasons,13,Yes
+EMP7657,2024-03-15,Work Conditions,21,No
+EMP7702,2025-04-07,Better Opportunity,32,Yes
+EMP7720,2025-08-01,Better Opportunity,15,Yes
+EMP7731,2024-11-06,End of Contract,18,Yes
+EMP7743,2024-07-09,Better Opportunity,20,Yes
+EMP7753,2025-04-15,Salary Issues,8,No
+EMP7759,2025-03-10,Better Opportunity,27,Yes
+EMP7766,2023-02-16,Salary Issues,45,No
+EMP7771,2024-06-10,Family Reasons,27,Yes
+EMP7775,2024-09-26,Better Opportunity,18,Yes
+EMP7787,2024-01-16,Family Reasons,37,Yes
+EMP7793,2025-07-27,Salary Issues,5,No
+EMP7812,2025-10-17,Salary Issues,17,No
+EMP7818,2025-06-04,Work Conditions,19,No
+EMP7855,2023-04-29,End of Contract,38,Yes
+EMP7858,2025-03-28,Work Conditions,27,No
+EMP7861,2025-06-15,Better Opportunity,31,Yes
+EMP7867,2025-02-27,Salary Issues,30,No
+EMP7877,2024-04-25,Family Reasons,42,Yes
+EMP7884,2025-05-01,Family Reasons,9,Yes
+EMP7887,2025-10-01,End of Contract,5,Yes
+EMP7899,2023-12-06,Health Issues,25,No
+EMP7905,2024-12-25,Better Opportunity,24,Yes
+EMP7921,2025-07-31,Better Opportunity,7,Yes
+EMP7932,2025-01-05,Family Reasons,37,Yes
+EMP7933,2025-02-05,End of Contract,27,Yes
+EMP7942,2024-05-23,Health Issues,27,No
+EMP7952,2025-01-08,End of Contract,25,Yes
+EMP7959,2024-07-08,End of Contract,24,Yes
+EMP7968,2025-01-16,End of Contract,30,Yes
+EMP7976,2024-12-19,Work Conditions,13,No
+EMP8021,2022-11-13,Better Opportunity,39,Yes
+EMP8022,2023-12-30,Better Opportunity,43,Yes
+EMP8024,2024-01-28,Better Opportunity,29,Yes
+EMP8034,2023-11-03,Better Opportunity,43,Yes
+EMP8057,2025-03-30,End of Contract,15,Yes
+EMP8079,2025-01-19,End of Contract,18,Yes
+EMP8081,2024-01-29,Better Opportunity,36,Yes
+EMP8094,2024-10-21,Salary Issues,16,No
+EMP8112,2025-01-02,Family Reasons,21,Yes
+EMP8114,2024-07-10,End of Contract,22,Yes
+EMP8126,2025-10-04,Salary Issues,36,No
+EMP8147,2025-02-16,Better Opportunity,20,Yes
+EMP8150,2025-05-13,Work Conditions,8,No
+EMP8162,2023-07-23,Better Opportunity,31,Yes
+EMP8165,2025-02-23,Better Opportunity,31,Yes
+EMP8203,2025-05-13,End of Contract,14,Yes
+EMP8207,2023-11-07,Terminated,45,No
+EMP8276,2023-06-22,End of Contract,37,Yes
+EMP8290,2025-08-24,Better Opportunity,17,Yes
+EMP8303,2024-01-27,Better Opportunity,39,Yes
+EMP8335,2025-11-11,Better Opportunity,3,Yes
+EMP8351,2025-08-09,Better Opportunity,17,Yes
+EMP8354,2024-01-12,Better Opportunity,47,Yes
+EMP8366,2024-05-16,Better Opportunity,28,Yes
+EMP8373,2025-10-22,Better Opportunity,16,Yes
+EMP8383,2022-08-13,Family Reasons,46,Yes
+EMP8390,2022-09-10,Better Opportunity,40,Yes
+EMP8403,2025-09-05,End of Contract,31,Yes
+EMP8409,2024-09-11,Better Opportunity,32,Yes
+EMP8418,2025-01-13,Health Issues,39,No
+EMP8423,2025-10-15,Better Opportunity,18,Yes
+EMP8434,2024-11-14,Better Opportunity,35,Yes
+EMP8454,2025-10-31,Family Reasons,13,Yes
+EMP8467,2024-12-03,Terminated,46,No
+EMP8472,2024-01-21,End of Contract,24,Yes
+EMP8473,2024-07-02,Better Opportunity,25,Yes
+EMP8474,2025-04-02,End of Contract,14,Yes
+EMP8482,2023-01-24,Better Opportunity,39,Yes
+EMP8508,2024-08-01,Work Conditions,27,No
+EMP8510,2023-07-26,End of Contract,35,Yes
+EMP8524,2025-03-20,Better Opportunity,18,Yes
+EMP8529,2023-05-11,Better Opportunity,38,Yes
+EMP8537,2025-05-29,Better Opportunity,21,Yes
+EMP8544,2023-09-24,Family Reasons,31,Yes
+EMP8570,2025-08-05,Better Opportunity,6,Yes
+EMP8576,2025-06-29,Work Conditions,29,No
+EMP8581,2025-02-28,Family Reasons,11,Yes
+EMP8587,2025-08-17,Family Reasons,13,Yes
+EMP8599,2024-08-18,Better Opportunity,38,Yes
+EMP8612,2025-08-07,Better Opportunity,6,Yes
+EMP8615,2025-09-21,Work Conditions,15,No
+EMP8621,2025-05-26,Family Reasons,19,Yes
+EMP8627,2025-03-26,Better Opportunity,16,Yes
+EMP8642,2025-04-22,Work Conditions,18,No
+EMP8646,2023-05-30,End of Contract,32,Yes
+EMP8650,2025-04-15,Salary Issues,12,No
+EMP8656,2025-06-27,Better Opportunity,44,Yes
+EMP8675,2025-10-26,Salary Issues,7,No
+EMP8683,2022-11-19,Better Opportunity,43,Yes
+EMP8698,2025-02-11,Better Opportunity,12,Yes
+EMP8701,2025-10-25,End of Contract,10,Yes
+EMP8702,2025-04-06,Better Opportunity,10,Yes
+EMP8705,2024-02-09,End of Contract,43,Yes
+EMP8713,2023-11-03,Better Opportunity,43,Yes
+EMP8719,2023-12-03,End of Contract,35,Yes
+EMP8732,2024-04-29,Salary Issues,30,No
+EMP8753,2025-02-23,Better Opportunity,31,Yes
+EMP8762,2025-09-26,Better Opportunity,5,Yes
+EMP8769,2024-05-23,Salary Issues,29,No
+EMP8804,2023-12-17,Better Opportunity,36,Yes
+EMP8822,2025-08-11,Salary Issues,28,No
+EMP8847,2023-05-21,Better Opportunity,33,Yes
+EMP8852,2024-11-06,Family Reasons,18,Yes
+EMP8853,2025-08-23,Family Reasons,20,Yes
+EMP8859,2025-09-08,Better Opportunity,6,Yes
+EMP8862,2024-02-14,End of Contract,44,Yes
+EMP8866,2023-11-19,Better Opportunity,37,Yes
+EMP8871,2022-09-01,Work Conditions,45,No
+EMP8875,2024-01-08,Better Opportunity,42,Yes
+EMP8907,2025-09-24,Family Reasons,10,Yes
+EMP8928,2023-10-10,End of Contract,27,Yes
+EMP8934,2024-12-26,Better Opportunity,21,Yes
+EMP8951,2022-05-21,Better Opportunity,46,Yes
+EMP8980,2025-06-25,Family Reasons,11,Yes
+EMP8993,2025-09-28,Better Opportunity,39,Yes
+EMP8995,2023-09-22,Better Opportunity,47,Yes
+EMP8999,2023-10-25,Family Reasons,30,Yes
+EMP9013,2024-06-17,End of Contract,31,Yes
+EMP9079,2023-10-09,Work Conditions,36,No
+EMP9080,2024-03-11,Better Opportunity,35,Yes
+EMP9082,2022-04-12,Better Opportunity,45,Yes
+EMP9109,2025-08-17,Better Opportunity,17,Yes
+EMP9112,2024-10-30,Better Opportunity,14,Yes
+EMP9137,2023-11-04,Better Opportunity,26,Yes
+EMP9140,2024-10-31,Salary Issues,15,No
+EMP9180,2025-11-15,Salary Issues,27,No
+EMP9182,2024-04-16,Salary Issues,26,No
+EMP9237,2025-11-13,Family Reasons,25,Yes
+EMP9241,2025-11-01,Family Reasons,17,Yes
+EMP9242,2025-07-01,Better Opportunity,8,Yes
+EMP9256,2025-01-05,Better Opportunity,29,Yes
+EMP9272,2025-08-18,End of Contract,13,Yes
+EMP9293,2022-06-06,End of Contract,45,Yes
+EMP9326,2025-04-06,Salary Issues,13,No
+EMP9332,2023-08-29,End of Contract,37,Yes
+EMP9336,2025-09-25,Salary Issues,14,No
+EMP9350,2025-06-07,Better Opportunity,11,Yes
+EMP9353,2023-08-23,Salary Issues,30,No
+EMP9375,2025-08-16,Better Opportunity,17,Yes
+EMP9385,2023-09-24,Better Opportunity,37,Yes
+EMP9399,2023-08-02,Salary Issues,38,No
+EMP9436,2024-03-14,End of Contract,27,Yes
+EMP9446,2022-03-31,Better Opportunity,45,Yes
+EMP9449,2023-12-03,Health Issues,26,No
+EMP9483,2025-09-06,Better Opportunity,15,Yes
+EMP9491,2025-10-13,Family Reasons,22,Yes
+EMP9496,2025-06-27,End of Contract,5,Yes
+EMP9502,2025-10-06,Better Opportunity,15,Yes
+EMP9505,2025-09-09,Salary Issues,41,No
+EMP9513,2025-04-10,Better Opportunity,15,Yes
+EMP9527,2024-09-21,Better Opportunity,17,Yes
+EMP9537,2025-04-01,Work Conditions,18,No
+EMP9542,2023-05-22,Terminated,32,No
+EMP9549,2022-12-03,Health Issues,43,No
+EMP9562,2025-06-04,Better Opportunity,8,Yes
+EMP9581,2022-06-16,Health Issues,46,No
+EMP9596,2023-01-19,End of Contract,37,Yes
+EMP9611,2025-03-05,Better Opportunity,17,Yes
+EMP9624,2024-05-24,End of Contract,24,Yes
+EMP9625,2023-02-05,End of Contract,38,Yes
+EMP9644,2025-03-02,End of Contract,22,Yes
+EMP9656,2023-09-17,Terminated,39,No
+EMP9676,2024-10-10,Work Conditions,15,No
+EMP9709,2024-11-01,End of Contract,34,Yes
+EMP9714,2025-08-25,End of Contract,15,Yes
+EMP9720,2024-07-21,Salary Issues,18,No
+EMP9743,2025-10-03,Better Opportunity,13,Yes
+EMP9773,2024-10-04,End of Contract,25,Yes
+EMP9776,2023-09-28,End of Contract,37,Yes
+EMP9797,2024-09-12,Better Opportunity,19,Yes
+EMP9804,2025-03-25,Salary Issues,10,No
+EMP9815,2024-10-12,Work Conditions,29,No
+EMP9821,2025-01-15,Family Reasons,14,Yes
+EMP9846,2023-12-23,Work Conditions,27,No
+EMP9863,2024-09-01,Better Opportunity,27,Yes
+EMP9881,2023-09-14,Salary Issues,36,No
+EMP9893,2024-01-25,Better Opportunity,29,Yes
+EMP9899,2025-08-01,Family Reasons,10,Yes
+EMP9907,2024-09-12,Family Reasons,32,Yes
+EMP9912,2024-09-23,Salary Issues,42,No
+EMP9936,2025-02-11,End of Contract,11,Yes
+EMP9951,2025-05-17,Salary Issues,14,No
+EMP9959,2025-02-18,Better Opportunity,31,Yes
+EMP9961,2025-05-04,Family Reasons,22,Yes
+EMP9979,2025-10-25,Family Reasons,3,Yes
+EMP9984,2024-12-28,Better Opportunity,33,Yes
+EMP9989,2024-06-16,Better Opportunity,36,Yes
+EMP10005,2024-04-09,End of Contract,24,Yes
+EMP10009,2025-10-01,End of Contract,5,Yes
+EMP10029,2023-01-25,Better Opportunity,44,Yes
+EMP10034,2024-05-15,Better Opportunity,22,Yes
+EMP10059,2025-01-11,Better Opportunity,12,Yes
+EMP10064,2025-07-15,Better Opportunity,7,Yes
+EMP10084,2024-07-07,Better Opportunity,22,Yes
+EMP10090,2023-12-09,Terminated,25,No
+EMP10091,2024-03-13,Family Reasons,34,Yes
+EMP10113,2025-09-15,Better Opportunity,4,Yes
+EMP10120,2024-06-25,Health Issues,46,No
+EMP10127,2025-06-14,End of Contract,15,Yes
+EMP10155,2023-10-20,End of Contract,40,Yes
+EMP10158,2025-10-12,Salary Issues,7,No
+EMP10218,2025-10-22,Better Opportunity,14,Yes
+EMP10228,2024-01-20,Terminated,37,No
+EMP10231,2025-11-12,End of Contract,19,Yes
+EMP10251,2025-07-26,End of Contract,12,Yes
+EMP10257,2023-11-04,Salary Issues,43,No
+EMP10263,2024-10-07,End of Contract,23,Yes
+EMP10271,2024-07-10,Family Reasons,29,Yes
+EMP10282,2023-09-26,Family Reasons,31,Yes
+EMP10290,2025-10-30,Better Opportunity,4,Yes
+EMP10298,2025-08-31,End of Contract,4,Yes
+EMP10324,2025-02-17,Family Reasons,21,Yes
+EMP10334,2025-01-08,Better Opportunity,15,Yes
+EMP10339,2025-05-05,Better Opportunity,23,Yes
+EMP10350,2025-09-04,Better Opportunity,9,Yes
+EMP10361,2025-06-11,Better Opportunity,29,Yes
+EMP10366,2025-04-04,Family Reasons,23,Yes
+EMP10388,2024-07-04,Better Opportunity,32,Yes
+EMP10395,2025-04-08,Work Conditions,9,No
+EMP10396,2025-09-04,Family Reasons,3,Yes
+EMP10401,2025-10-10,Family Reasons,19,Yes
+EMP10411,2024-10-29,Family Reasons,39,Yes
+EMP10414,2024-07-22,End of Contract,31,Yes
+EMP10446,2024-08-21,Salary Issues,39,No
+EMP10458,2025-09-30,End of Contract,44,Yes
+EMP10476,2025-03-28,Work Conditions,20,No
+EMP10493,2024-10-03,Health Issues,27,No
+EMP10504,2023-11-25,Better Opportunity,34,Yes
+EMP10514,2025-11-04,End of Contract,12,Yes
+EMP10518,2025-05-13,Better Opportunity,10,Yes
+EMP10552,2023-05-11,Better Opportunity,32,Yes
+EMP10581,2025-09-10,Better Opportunity,15,Yes
+EMP10583,2024-06-26,End of Contract,45,Yes
+EMP10588,2025-10-09,End of Contract,3,Yes
+EMP10590,2025-11-05,Health Issues,14,No
+EMP10617,2025-09-14,End of Contract,19,Yes
+EMP10622,2025-08-09,Better Opportunity,42,Yes
+EMP10625,2022-11-19,End of Contract,38,Yes
+EMP10629,2024-10-26,Health Issues,24,No
+EMP10630,2024-10-28,Better Opportunity,27,Yes
+EMP10648,2023-11-14,Family Reasons,28,Yes
+EMP10663,2025-09-28,Family Reasons,14,Yes
+EMP10670,2024-12-30,End of Contract,20,Yes
+EMP10707,2024-09-06,Better Opportunity,17,Yes
+EMP10721,2025-08-11,Terminated,15,No
+EMP10723,2025-07-06,Family Reasons,6,Yes
+EMP10730,2025-09-22,End of Contract,12,Yes
+EMP10743,2023-01-25,Better Opportunity,43,Yes
+EMP10750,2025-08-12,End of Contract,9,Yes
+EMP10755,2025-11-05,End of Contract,4,Yes
+EMP10773,2025-05-11,End of Contract,26,Yes
+EMP10795,2025-02-11,Work Conditions,12,No
+EMP10808,2024-12-18,End of Contract,21,Yes
+EMP10832,2024-06-05,Salary Issues,30,No
+EMP10836,2024-07-30,Family Reasons,33,Yes
+EMP10847,2025-10-08,End of Contract,5,Yes
+EMP10848,2025-11-09,Terminated,18,No
+EMP10862,2025-08-04,End of Contract,8,Yes
+EMP10875,2025-04-12,Family Reasons,19,Yes
+EMP10884,2024-09-25,End of Contract,17,Yes
+EMP10908,2025-03-14,End of Contract,38,Yes
+EMP10923,2025-04-09,Work Conditions,9,No
+EMP10926,2025-01-04,Salary Issues,14,No
+EMP10936,2025-01-17,Better Opportunity,22,Yes
+EMP10953,2024-11-17,End of Contract,19,Yes
+EMP10962,2025-02-16,Health Issues,17,No
+EMP10969,2025-04-25,Salary Issues,7,No
+EMP10980,2023-12-21,Better Opportunity,26,Yes
+EMP11000,2025-03-08,Family Reasons,39,Yes
+EMP11076,2024-05-11,Salary Issues,37,No
+EMP11111,2025-05-16,End of Contract,27,Yes
+EMP11129,2025-04-21,Better Opportunity,10,Yes
+EMP11133,2025-09-20,Terminated,10,No
+EMP11134,2023-05-11,End of Contract,45,Yes
+EMP11136,2025-11-03,Better Opportunity,13,Yes
+EMP11143,2025-01-22,Better Opportunity,15,Yes
+EMP11148,2025-07-12,Family Reasons,40,Yes
+EMP11166,2025-06-27,Family Reasons,7,Yes
+EMP11167,2024-11-09,Better Opportunity,34,Yes
+EMP11184,2024-09-25,Salary Issues,33,No
+EMP11188,2023-11-09,Better Opportunity,45,Yes
+EMP11191,2025-07-23,End of Contract,41,Yes
+EMP11212,2025-02-10,Better Opportunity,41,Yes
+EMP11220,2024-12-17,Better Opportunity,23,Yes
+EMP11241,2025-03-07,Work Conditions,25,No
+EMP11244,2025-08-30,Better Opportunity,13,Yes
+EMP11245,2024-11-18,Better Opportunity,15,Yes
+EMP11273,2025-01-08,End of Contract,30,Yes
+EMP11275,2025-04-01,Family Reasons,19,Yes
+EMP11284,2025-10-14,Better Opportunity,4,Yes
+EMP11289,2025-02-02,Work Conditions,14,No
+EMP11305,2024-08-29,End of Contract,20,Yes
+EMP11314,2023-07-02,Better Opportunity,39,Yes
+EMP11369,2025-01-08,End of Contract,25,Yes
+EMP11385,2025-05-17,Family Reasons,27,Yes
+EMP11387,2025-06-06,Family Reasons,7,Yes
+EMP11395,2023-12-29,End of Contract,46,Yes
+EMP11399,2025-03-20,Better Opportunity,38,Yes
+EMP11413,2025-01-03,Better Opportunity,12,Yes
+EMP11418,2023-02-09,End of Contract,36,Yes
+EMP11428,2025-01-25,Better Opportunity,29,Yes
+EMP11467,2025-11-11,End of Contract,4,Yes
+EMP11468,2024-09-05,Terminated,46,No
+EMP11493,2023-05-22,Better Opportunity,34,Yes
+EMP11503,2025-09-09,Family Reasons,44,Yes
+EMP11520,2023-07-06,Better Opportunity,44,Yes
+EMP11540,2025-02-17,Better Opportunity,38,Yes
+EMP11550,2025-05-02,Better Opportunity,17,Yes
+EMP11554,2024-12-18,End of Contract,17,Yes
+EMP11572,2025-09-30,Salary Issues,5,No
+EMP11575,2025-01-22,End of Contract,18,Yes
+EMP11580,2025-07-05,Better Opportunity,7,Yes
+EMP11606,2025-11-08,Salary Issues,8,No
+EMP11614,2025-03-11,End of Contract,32,Yes
+EMP11618,2025-04-03,Better Opportunity,34,Yes
+EMP11629,2024-06-16,Family Reasons,31,Yes
+EMP11651,2025-10-02,End of Contract,7,Yes
+EMP11701,2025-07-28,Better Opportunity,30,Yes
+EMP11705,2024-07-19,Family Reasons,45,Yes
+EMP11710,2024-05-06,End of Contract,23,Yes
+EMP11720,2022-11-26,Salary Issues,42,No
+EMP11726,2025-03-27,Better Opportunity,17,Yes
+EMP11728,2025-10-03,Work Conditions,7,No
+EMP11750,2025-05-22,End of Contract,35,Yes
+EMP11763,2024-04-08,End of Contract,30,Yes
+EMP11805,2025-11-13,End of Contract,20,Yes
+EMP11834,2024-12-24,Salary Issues,18,No
+EMP11858,2023-06-03,Better Opportunity,44,Yes
+EMP11891,2025-06-14,Salary Issues,8,No
+EMP11911,2024-07-01,Salary Issues,30,No
+EMP11913,2023-12-04,Better Opportunity,46,Yes
+EMP11914,2025-01-22,Better Opportunity,27,Yes
+EMP11922,2025-09-06,Family Reasons,6,Yes
+EMP11944,2024-07-13,End of Contract,18,Yes
+EMP11948,2025-05-07,End of Contract,10,Yes
+EMP11975,2025-03-19,Salary Issues,23,No
+EMP11982,2024-08-03,Terminated,23,No
+EMP12001,2025-07-05,Family Reasons,23,Yes
+EMP12008,2025-10-27,End of Contract,12,Yes
+EMP12024,2022-10-28,Better Opportunity,44,Yes
+EMP12026,2024-09-02,Health Issues,37,No
+EMP12032,2024-01-30,Family Reasons,43,Yes
+EMP12046,2022-10-13,Better Opportunity,45,Yes
+EMP12061,2024-03-23,End of Contract,36,Yes
+EMP12095,2024-12-26,Work Conditions,11,No
+EMP12109,2025-07-10,End of Contract,23,Yes
+EMP12120,2025-05-18,Better Opportunity,39,Yes
+EMP12126,2025-11-02,Better Opportunity,10,Yes
+EMP12142,2024-12-11,Salary Issues,33,No
+EMP12209,2025-08-22,End of Contract,39,Yes
+EMP12210,2025-10-26,Better Opportunity,6,Yes
+EMP12211,2025-08-07,Salary Issues,25,No
+EMP12229,2025-03-29,Better Opportunity,23,Yes
+EMP12247,2024-07-22,End of Contract,21,Yes
+EMP12300,2023-03-11,Better Opportunity,36,Yes
+EMP12344,2025-06-06,Better Opportunity,33,Yes
+EMP12353,2025-10-03,Work Conditions,26,No
+EMP12357,2023-05-20,Better Opportunity,38,Yes
+EMP12380,2024-10-08,Better Opportunity,25,Yes
+EMP12382,2024-06-13,Family Reasons,47,Yes
+EMP12408,2025-04-27,Better Opportunity,24,Yes
+EMP12431,2025-07-06,Better Opportunity,11,Yes
+EMP12435,2024-07-07,Better Opportunity,22,Yes
+EMP12453,2025-07-08,End of Contract,20,Yes
+EMP12481,2025-05-31,Better Opportunity,44,Yes
+EMP12525,2025-07-01,Better Opportunity,9,Yes
+EMP12527,2025-09-25,Health Issues,14,No
+EMP12541,2024-04-26,End of Contract,26,Yes
+EMP12552,2024-05-09,Family Reasons,19,Yes
+EMP12592,2025-05-17,Family Reasons,11,Yes
+EMP12600,2025-08-21,Family Reasons,22,Yes
+EMP12619,2022-12-19,Terminated,43,No
+EMP12655,2025-08-17,Terminated,36,No
+EMP12674,2023-11-27,Terminated,32,No
+EMP12688,2024-05-19,Family Reasons,41,Yes
+EMP12712,2025-08-08,Better Opportunity,34,Yes
+EMP12713,2023-12-20,End of Contract,36,Yes
+EMP12722,2025-07-08,Salary Issues,7,No
+EMP12733,2025-05-19,End of Contract,7,Yes
+EMP12734,2024-08-12,Health Issues,46,No
+EMP12735,2023-07-31,End of Contract,33,Yes
+EMP12761,2025-10-24,End of Contract,30,Yes
+EMP12769,2024-11-03,Salary Issues,17,No
+EMP12780,2024-11-10,End of Contract,25,Yes
+EMP12797,2022-08-22,Work Conditions,43,No
+EMP12803,2025-05-16,Work Conditions,24,No
+EMP12805,2025-05-04,Salary Issues,14,No
+EMP12812,2023-04-30,Better Opportunity,34,Yes
+EMP12813,2025-03-20,Family Reasons,10,Yes
+EMP12828,2024-07-05,End of Contract,38,Yes
+EMP12840,2025-02-12,Better Opportunity,16,Yes
+EMP12864,2023-07-12,Health Issues,42,No
+EMP12914,2024-05-31,Salary Issues,39,No
+EMP12916,2024-12-04,Family Reasons,44,Yes
+EMP12917,2024-04-24,Better Opportunity,34,Yes
+EMP12921,2025-04-14,Family Reasons,46,Yes
+EMP12935,2025-10-30,Better Opportunity,18,Yes
+EMP12956,2024-10-21,Salary Issues,27,No
+EMP12972,2025-08-27,Health Issues,6,No
+EMP12978,2025-09-20,Family Reasons,15,Yes
+EMP12992,2023-09-21,Salary Issues,37,No
+EMP13007,2024-07-19,Work Conditions,27,No
+EMP13040,2024-04-16,Better Opportunity,21,Yes
+EMP13041,2024-09-28,Family Reasons,21,Yes
+EMP13042,2024-08-12,Salary Issues,19,No
+EMP13045,2022-12-16,Better Opportunity,41,Yes
+EMP13063,2024-03-21,End of Contract,29,Yes
+EMP13086,2024-11-24,End of Contract,21,Yes
+EMP13092,2024-08-15,Salary Issues,16,No
+EMP13101,2025-06-20,Better Opportunity,40,Yes
+EMP13122,2024-07-31,End of Contract,26,Yes
+EMP13143,2023-05-16,Salary Issues,34,No
+EMP13144,2024-07-05,Health Issues,43,No
+EMP13145,2025-04-22,Salary Issues,13,No
+EMP13164,2025-01-22,Better Opportunity,36,Yes
+EMP13165,2025-07-30,Family Reasons,19,Yes
+EMP13191,2024-11-24,Work Conditions,17,No
+EMP13205,2024-08-20,Salary Issues,27,No
+EMP13212,2025-04-11,Health Issues,43,No
+EMP13221,2024-09-22,Better Opportunity,36,Yes
+EMP13243,2025-07-20,Family Reasons,8,Yes
+EMP13244,2025-04-03,Better Opportunity,37,Yes
+EMP13259,2022-10-24,Work Conditions,46,No
+EMP13261,2022-12-01,Work Conditions,43,No
+EMP13292,2025-10-02,Work Conditions,28,No
+EMP13297,2025-07-20,End of Contract,15,Yes
+EMP13299,2025-04-29,Family Reasons,43,Yes
+EMP13311,2024-10-26,End of Contract,43,Yes
+EMP13317,2025-09-10,Family Reasons,5,Yes
+EMP13320,2024-11-16,End of Contract,15,Yes
+EMP13324,2025-05-07,Work Conditions,8,No
+EMP13335,2024-12-20,Better Opportunity,16,Yes
+EMP13343,2025-08-20,Family Reasons,31,Yes
+EMP13360,2022-12-12,End of Contract,36,Yes
+EMP13394,2024-11-19,Better Opportunity,15,Yes
+EMP13395,2024-01-09,End of Contract,32,Yes
+EMP13407,2024-10-25,End of Contract,17,Yes
+EMP13439,2025-03-13,End of Contract,44,Yes
+EMP13440,2025-01-26,Salary Issues,36,No
+EMP13443,2025-01-02,End of Contract,12,Yes
+EMP13453,2022-04-11,Salary Issues,45,No
+EMP13483,2025-05-26,Work Conditions,16,No
+EMP13566,2024-02-06,Salary Issues,34,No
+EMP13575,2024-12-25,Family Reasons,35,Yes
+EMP13583,2025-08-16,Family Reasons,8,Yes
+EMP13616,2025-11-15,End of Contract,3,Yes
+EMP13619,2023-07-04,Better Opportunity,42,Yes
+EMP13630,2025-02-18,End of Contract,11,Yes
+EMP13646,2025-03-05,Salary Issues,26,No
+EMP13655,2023-07-10,Better Opportunity,32,Yes
+EMP13660,2025-10-14,End of Contract,23,Yes
+EMP13662,2025-06-19,Better Opportunity,8,Yes
+EMP13666,2023-05-11,Better Opportunity,40,Yes
+EMP13674,2025-02-05,End of Contract,25,Yes
+EMP13686,2025-10-12,Better Opportunity,3,Yes
+EMP13692,2025-01-22,End of Contract,40,Yes
+EMP13700,2023-01-04,Better Opportunity,44,Yes
+EMP13702,2025-03-16,Better Opportunity,12,Yes
+EMP13704,2025-06-01,End of Contract,14,Yes
+EMP13719,2025-11-03,Better Opportunity,18,Yes
+EMP13729,2025-07-15,End of Contract,31,Yes
+EMP13733,2025-08-31,Better Opportunity,41,Yes
+EMP13734,2023-12-04,Family Reasons,46,Yes
+EMP13745,2025-07-20,End of Contract,26,Yes
+EMP13751,2025-05-31,Better Opportunity,19,Yes
+EMP13765,2024-08-25,Better Opportunity,19,Yes
+EMP13781,2024-01-26,End of Contract,30,Yes
+EMP13782,2024-12-26,Health Issues,18,No
+EMP13792,2023-09-24,End of Contract,45,Yes
+EMP13799,2024-10-15,Work Conditions,28,No
+EMP13807,2025-02-27,Better Opportunity,15,Yes
+EMP13819,2025-11-12,Better Opportunity,13,Yes
+EMP13826,2025-02-27,Better Opportunity,34,Yes
+EMP13829,2024-12-16,Work Conditions,20,No
+EMP13861,2025-10-05,Better Opportunity,10,Yes
+EMP13866,2025-11-01,Salary Issues,38,No
+EMP13881,2024-09-03,Family Reasons,41,Yes
+EMP13893,2022-04-08,Better Opportunity,46,Yes
+EMP13943,2023-04-21,Better Opportunity,45,Yes
+EMP13945,2024-09-30,End of Contract,20,Yes
+EMP13946,2022-11-07,Better Opportunity,40,Yes
+EMP13947,2024-07-24,Better Opportunity,43,Yes
+EMP13958,2025-10-09,Salary Issues,10,No
+EMP13965,2025-08-13,Better Opportunity,10,Yes
+EMP13982,2024-05-23,Better Opportunity,23,Yes
+EMP13983,2025-10-05,Better Opportunity,3,Yes
+EMP14000,2025-02-22,Family Reasons,46,Yes
+EMP14016,2025-10-29,Work Conditions,3,No
+EMP14049,2025-01-26,Better Opportunity,38,Yes
+EMP14080,2024-05-07,Family Reasons,35,Yes
+EMP14085,2025-06-26,Better Opportunity,39,Yes
+EMP14114,2022-06-23,End of Contract,42,Yes
+EMP14115,2023-09-23,End of Contract,38,Yes
+EMP14137,2025-08-22,Family Reasons,15,Yes
+EMP14140,2025-08-04,Better Opportunity,5,Yes
+EMP14164,2025-08-15,End of Contract,4,Yes
+EMP14187,2025-10-21,Family Reasons,23,Yes
+EMP14211,2024-03-06,Work Conditions,28,No
+EMP14220,2025-06-12,Better Opportunity,25,Yes
+EMP14225,2025-09-21,Better Opportunity,4,Yes
+EMP14237,2024-04-25,End of Contract,23,Yes
+EMP14259,2025-03-12,Better Opportunity,20,Yes
+EMP14274,2025-08-12,End of Contract,8,Yes
+EMP14276,2024-08-08,Work Conditions,23,No
+EMP14300,2023-01-30,Family Reasons,36,Yes
+EMP14313,2024-12-16,Better Opportunity,27,Yes
+EMP14316,2025-07-03,Salary Issues,9,No
+EMP14329,2025-03-03,End of Contract,10,Yes
+EMP14362,2024-04-17,Salary Issues,38,No
+EMP14383,2025-10-06,Better Opportunity,22,Yes
+EMP14404,2024-04-12,Work Conditions,33,No
+EMP14412,2023-09-10,Better Opportunity,45,Yes
+EMP14438,2025-06-21,Work Conditions,11,No
+EMP14443,2025-02-10,Better Opportunity,30,Yes
+EMP14445,2022-10-29,Salary Issues,42,No
+EMP14446,2023-11-15,End of Contract,35,Yes
+EMP14452,2025-09-17,Family Reasons,30,Yes
+EMP14480,2022-07-10,Work Conditions,42,No
+EMP14483,2025-08-30,End of Contract,12,Yes
+EMP14484,2024-01-01,Better Opportunity,32,Yes
+EMP14502,2025-08-18,Terminated,11,No
+EMP14525,2025-09-24,Family Reasons,12,Yes
+EMP14535,2025-04-07,End of Contract,12,Yes
+EMP14536,2025-10-05,End of Contract,15,Yes
+EMP14541,2025-07-05,Salary Issues,10,No
+EMP14549,2025-01-21,Family Reasons,18,Yes
+EMP14560,2023-11-24,End of Contract,31,Yes
+EMP14563,2025-02-28,Better Opportunity,27,Yes
+EMP14567,2023-04-25,Family Reasons,42,Yes
+EMP14578,2024-12-27,End of Contract,44,Yes
+EMP14581,2024-01-03,Better Opportunity,32,Yes
+EMP14611,2024-11-06,End of Contract,23,Yes
+EMP14659,2025-05-12,Better Opportunity,10,Yes
+EMP14665,2025-03-16,Better Opportunity,14,Yes
+EMP14670,2025-02-12,Salary Issues,17,No
+EMP14694,2024-10-13,Family Reasons,19,Yes
+EMP14716,2025-10-31,End of Contract,32,Yes
+EMP14731,2025-08-05,Salary Issues,45,No
+EMP14756,2023-12-13,Work Conditions,29,No
+EMP14759,2024-10-27,Work Conditions,24,No
+EMP14771,2025-06-04,Family Reasons,25,Yes
+EMP14799,2025-07-24,Health Issues,32,No
+EMP14813,2023-03-19,Family Reasons,38,Yes
+EMP14851,2025-08-17,Better Opportunity,19,Yes
+EMP14859,2023-03-10,Family Reasons,41,Yes
+EMP14860,2025-09-06,End of Contract,19,Yes
+EMP14868,2023-12-01,End of Contract,25,Yes
+EMP14872,2024-05-20,End of Contract,21,Yes
+EMP14912,2024-01-11,Better Opportunity,28,Yes
+EMP14919,2025-01-11,Salary Issues,39,No
+EMP14936,2024-12-02,End of Contract,37,Yes
+EMP14938,2025-08-01,End of Contract,6,Yes
+EMP14946,2025-03-01,Better Opportunity,15,Yes
+EMP14961,2024-11-08,Family Reasons,19,Yes
+EMP14965,2025-06-21,Salary Issues,7,No
+EMP14966,2023-03-12,Better Opportunity,38,Yes
+EMP14985,2023-09-06,Better Opportunity,39,Yes
+EMP14992,2025-07-05,End of Contract,13,Yes
+EMP15007,2024-01-01,Work Conditions,33,No
+EMP15012,2025-02-05,Better Opportunity,27,Yes
+EMP15025,2024-03-15,Salary Issues,29,No
+EMP15076,2024-01-10,Family Reasons,45,Yes
+EMP15089,2025-06-09,End of Contract,29,Yes
+EMP15110,2025-06-14,Better Opportunity,20,Yes
+EMP15127,2022-12-05,Work Conditions,41,No
+EMP15130,2025-05-26,Better Opportunity,24,Yes
+EMP15134,2025-03-28,Work Conditions,10,No
+EMP15179,2024-08-28,Work Conditions,16,No
+EMP15193,2023-10-31,Salary Issues,43,No
+EMP15196,2023-11-03,Better Opportunity,39,Yes
+EMP15209,2024-12-19,End of Contract,14,Yes
+EMP15235,2024-02-03,Salary Issues,23,No
+EMP15257,2025-10-02,Work Conditions,10,No
+EMP15269,2025-06-17,End of Contract,23,Yes
+EMP15270,2025-10-16,Salary Issues,17,No
+EMP15293,2024-08-26,Better Opportunity,37,Yes
+EMP15318,2024-04-01,Salary Issues,32,No
+EMP15342,2024-10-08,Better Opportunity,17,Yes
+EMP15347,2025-07-19,Family Reasons,20,Yes
+EMP15360,2023-08-30,Work Conditions,28,No
+EMP15365,2025-09-26,Better Opportunity,3,Yes
+EMP15372,2024-11-16,Better Opportunity,23,Yes
+EMP15385,2023-08-23,Better Opportunity,39,Yes
+EMP15411,2025-08-07,Better Opportunity,7,Yes
+EMP15412,2024-05-10,End of Contract,40,Yes
+EMP15423,2025-09-23,End of Contract,5,Yes
+EMP15425,2025-10-29,End of Contract,14,Yes
+EMP15448,2024-01-27,Work Conditions,38,No
+EMP15453,2025-01-28,Better Opportunity,33,Yes
+EMP15468,2025-06-10,Work Conditions,35,No
+EMP15476,2024-07-24,Better Opportunity,32,Yes
+EMP15488,2025-10-01,Better Opportunity,7,Yes
+EMP15494,2023-07-15,Family Reasons,34,Yes
+EMP15516,2025-03-27,End of Contract,29,Yes
+EMP15518,2025-05-03,Salary Issues,28,No
+EMP15565,2025-06-18,Better Opportunity,6,Yes
+EMP15594,2023-10-24,Better Opportunity,41,Yes
+EMP15604,2024-05-17,Health Issues,41,No
+EMP15611,2024-01-16,Work Conditions,27,No
+EMP15619,2024-11-21,Family Reasons,33,Yes
+EMP15642,2025-01-22,Better Opportunity,20,Yes
+EMP15674,2025-04-22,End of Contract,9,Yes
+EMP15676,2025-07-20,Better Opportunity,16,Yes
+EMP15700,2025-03-30,End of Contract,39,Yes
+EMP15702,2024-04-03,Salary Issues,21,No
+EMP15711,2024-12-08,Better Opportunity,19,Yes
+EMP15729,2023-06-06,End of Contract,33,Yes
+EMP15751,2023-07-18,Salary Issues,35,No
+EMP15754,2025-10-14,Better Opportunity,4,Yes
+EMP15765,2025-10-13,Salary Issues,15,No
+EMP15769,2025-04-14,Work Conditions,17,No
+EMP15781,2022-12-25,Work Conditions,46,No
+EMP15813,2025-05-17,End of Contract,33,Yes
+EMP15876,2025-07-28,Better Opportunity,43,Yes
+EMP15881,2025-07-18,Salary Issues,16,No
+EMP15906,2025-07-25,Better Opportunity,24,Yes
+EMP15913,2022-11-20,Work Conditions,40,No
+EMP15914,2025-09-03,Health Issues,18,No
+EMP15926,2023-10-18,End of Contract,33,Yes
+EMP15928,2025-10-20,Better Opportunity,3,Yes
+EMP15941,2024-07-01,Better Opportunity,37,Yes
+EMP15944,2024-09-29,End of Contract,23,Yes
+EMP15954,2023-04-30,Work Conditions,36,No
+EMP15993,2024-10-05,End of Contract,28,Yes
+EMP16007,2023-12-30,Better Opportunity,24,Yes
+EMP16055,2025-03-20,Family Reasons,43,Yes
+EMP16067,2024-09-11,Better Opportunity,15,Yes
+EMP16091,2024-12-12,Salary Issues,42,No
+EMP16125,2023-11-19,Better Opportunity,44,Yes
+EMP16128,2025-02-01,Work Conditions,21,No
+EMP16143,2023-06-18,Salary Issues,41,No
+EMP16144,2025-06-28,Better Opportunity,23,Yes
+EMP16146,2025-10-24,Better Opportunity,3,Yes
+EMP16167,2024-07-10,Work Conditions,21,No
+EMP16171,2025-07-30,Family Reasons,4,Yes
+EMP16178,2025-08-13,Family Reasons,22,Yes
+EMP16194,2024-06-30,Better Opportunity,43,Yes
+EMP16197,2023-06-29,End of Contract,32,Yes
+EMP16200,2024-05-08,Better Opportunity,43,Yes
+EMP16221,2025-10-14,Better Opportunity,33,Yes
+EMP16241,2025-03-31,Better Opportunity,12,Yes
+EMP16258,2024-12-16,Better Opportunity,18,Yes
+EMP16267,2024-12-17,Better Opportunity,13,Yes
+EMP16273,2025-06-19,End of Contract,44,Yes
+EMP16290,2024-12-31,Terminated,27,No
+EMP16308,2024-03-04,Health Issues,23,No
+EMP16311,2025-09-27,Work Conditions,8,No
+EMP16318,2025-06-16,Better Opportunity,35,Yes
+EMP16321,2025-07-21,End of Contract,44,Yes
+EMP16333,2023-08-16,End of Contract,32,Yes
+EMP16347,2025-09-26,Better Opportunity,5,Yes
+EMP16354,2024-12-28,Better Opportunity,43,Yes
+EMP16375,2024-11-01,Salary Issues,24,No
+EMP16388,2024-11-21,Better Opportunity,44,Yes
+EMP16392,2025-05-26,Work Conditions,45,No
+EMP16399,2025-06-26,End of Contract,13,Yes
+EMP16425,2022-10-15,End of Contract,43,Yes
+EMP16427,2024-11-27,Health Issues,15,No
+EMP16428,2025-03-08,Better Opportunity,31,Yes
+EMP16437,2025-07-09,Family Reasons,7,Yes
+EMP16445,2024-10-29,End of Contract,29,Yes
+EMP16455,2025-10-28,Work Conditions,32,No
+EMP16456,2023-03-16,Better Opportunity,41,Yes
+EMP16495,2024-10-03,Family Reasons,41,Yes
+EMP16539,2024-04-11,End of Contract,27,Yes
+EMP16542,2024-07-25,Salary Issues,21,No
+EMP16543,2025-10-02,Work Conditions,40,No
+EMP16570,2025-03-27,Salary Issues,32,No
+EMP16581,2023-02-22,Better Opportunity,43,Yes
+EMP16584,2023-07-19,Work Conditions,42,No
+EMP16602,2025-08-02,Better Opportunity,10,Yes
+EMP16609,2025-09-17,Family Reasons,9,Yes
+EMP16622,2023-09-16,Better Opportunity,40,Yes
+EMP16626,2025-08-11,Better Opportunity,20,Yes
+EMP16643,2024-12-09,Salary Issues,39,No
+EMP16644,2023-06-17,Salary Issues,45,No
+EMP16651,2024-11-25,Better Opportunity,27,Yes
+EMP16675,2025-07-13,Better Opportunity,12,Yes
+EMP16679,2023-12-09,Family Reasons,26,Yes
+EMP16693,2025-03-07,End of Contract,34,Yes
+EMP16727,2025-08-06,End of Contract,24,Yes
+EMP16743,2024-09-21,Better Opportunity,16,Yes
+EMP16746,2024-10-31,Better Opportunity,45,Yes
+EMP16748,2025-05-04,Health Issues,18,No
+EMP16749,2024-08-31,Better Opportunity,18,Yes
+EMP16752,2024-11-15,End of Contract,29,Yes
+EMP16770,2025-02-03,Family Reasons,11,Yes
+EMP16782,2023-08-08,End of Contract,34,Yes
+EMP16785,2025-11-08,Salary Issues,13,No
+EMP16788,2023-11-04,Better Opportunity,25,Yes
+EMP16799,2025-09-06,Salary Issues,7,No
+EMP16801,2024-10-15,Better Opportunity,18,Yes
+EMP16818,2025-08-16,Better Opportunity,15,Yes
+EMP16841,2024-07-29,Terminated,43,No
+EMP16842,2025-02-13,Family Reasons,31,Yes
+EMP16846,2023-11-20,Work Conditions,40,No
+EMP16850,2024-06-05,End of Contract,25,Yes
+EMP16859,2025-01-29,Better Opportunity,22,Yes
+EMP16874,2024-06-09,Better Opportunity,25,Yes
+EMP16875,2025-07-12,Better Opportunity,39,Yes
+EMP16880,2025-09-21,Better Opportunity,30,Yes
+EMP16883,2025-07-02,Salary Issues,8,No
+EMP16899,2023-07-01,Better Opportunity,31,Yes
+EMP16901,2025-03-29,Better Opportunity,13,Yes
+EMP16902,2023-01-17,Better Opportunity,39,Yes
+EMP16909,2025-07-20,End of Contract,29,Yes
+EMP16918,2025-08-07,Work Conditions,9,No
+EMP16925,2025-05-07,Better Opportunity,23,Yes
+EMP16937,2025-10-04,End of Contract,4,Yes
+EMP16943,2025-01-30,End of Contract,17,Yes
+EMP16944,2024-08-30,Better Opportunity,24,Yes
+EMP16967,2025-02-25,Terminated,18,No
+EMP16991,2024-12-08,Better Opportunity,19,Yes
+EMP17028,2024-01-06,Family Reasons,30,Yes
+EMP17045,2025-08-18,Better Opportunity,10,Yes
+EMP17072,2022-11-30,Family Reasons,38,Yes
+EMP17074,2023-01-21,Better Opportunity,47,Yes
+EMP17075,2024-12-24,End of Contract,34,Yes
+EMP17077,2025-08-19,Better Opportunity,5,Yes
+EMP17093,2023-02-09,Better Opportunity,35,Yes
+EMP17149,2023-04-05,Work Conditions,40,No
+EMP17177,2025-08-02,Better Opportunity,4,Yes
+EMP17191,2025-06-25,End of Contract,32,Yes
+EMP17199,2025-04-08,Better Opportunity,12,Yes
+EMP17206,2024-03-28,Better Opportunity,23,Yes
+EMP17208,2022-07-29,Better Opportunity,42,Yes
+EMP17222,2025-05-06,Better Opportunity,14,Yes
+EMP17250,2024-12-21,End of Contract,15,Yes
+EMP17264,2024-09-06,Salary Issues,20,No
+EMP17267,2024-11-26,Better Opportunity,37,Yes
+EMP17296,2025-05-04,Salary Issues,13,No
+EMP17338,2023-03-27,Salary Issues,39,No
+EMP17352,2025-10-15,End of Contract,37,Yes
+EMP17361,2025-02-08,Better Opportunity,17,Yes
+EMP17368,2024-02-07,Better Opportunity,34,Yes
+EMP17369,2025-06-30,Better Opportunity,6,Yes
+EMP17391,2025-11-04,Health Issues,19,No
+EMP17398,2024-07-13,End of Contract,17,Yes
+EMP17443,2023-11-05,Better Opportunity,28,Yes
+EMP17444,2025-05-07,Better Opportunity,38,Yes
+EMP17458,2025-01-24,Work Conditions,20,No
+EMP17491,2023-09-23,End of Contract,36,Yes
+EMP17492,2024-02-05,Salary Issues,31,No
+EMP17497,2024-02-03,Work Conditions,35,No
+EMP17522,2025-03-04,End of Contract,15,Yes
+EMP17557,2025-11-11,Better Opportunity,17,Yes
+EMP17558,2025-11-03,Family Reasons,8,Yes
+EMP17565,2025-08-26,End of Contract,4,Yes
+EMP17572,2025-09-16,Better Opportunity,7,Yes
+EMP17593,2025-08-09,Terminated,15,No
+EMP17599,2024-11-17,End of Contract,31,Yes
+EMP17609,2023-06-03,Salary Issues,33,No
+EMP17619,2025-08-21,Better Opportunity,35,Yes
+EMP17620,2024-10-17,Better Opportunity,41,Yes
+EMP17622,2025-05-11,Better Opportunity,8,Yes
+EMP17629,2025-05-14,End of Contract,8,Yes
+EMP17630,2025-02-10,Better Opportunity,13,Yes
+EMP17647,2023-03-07,End of Contract,45,Yes
+EMP17650,2025-07-13,Better Opportunity,41,Yes
+EMP17655,2023-12-27,Salary Issues,42,No
+EMP17673,2024-10-24,Better Opportunity,17,Yes
+EMP17681,2025-09-17,End of Contract,15,Yes
+EMP17699,2025-07-06,Better Opportunity,29,Yes
+EMP17710,2025-06-13,Better Opportunity,6,Yes
+EMP17739,2025-04-27,Family Reasons,11,Yes
+EMP17774,2024-05-29,End of Contract,31,Yes
+EMP17784,2024-09-25,Better Opportunity,27,Yes
+EMP17785,2024-04-05,End of Contract,22,Yes
+EMP17829,2024-07-11,Work Conditions,32,No
+EMP17837,2023-12-22,Better Opportunity,38,Yes
+EMP17848,2024-10-14,End of Contract,24,Yes
+EMP17857,2025-05-28,Family Reasons,9,Yes
+EMP17858,2024-10-05,Salary Issues,45,No
+EMP17892,2025-03-20,Better Opportunity,35,Yes
+EMP17893,2022-11-23,Work Conditions,43,No
+EMP17896,2024-04-21,Work Conditions,24,No
+EMP17899,2023-05-29,Salary Issues,38,No
+EMP17903,2025-11-03,Health Issues,30,No
+EMP17913,2025-08-11,End of Contract,25,Yes
+EMP17917,2025-05-29,Family Reasons,7,Yes
+EMP17944,2023-12-16,Better Opportunity,31,Yes
+EMP17946,2025-07-24,End of Contract,25,Yes
+EMP17950,2023-07-27,Better Opportunity,29,Yes
+EMP17953,2024-11-20,Terminated,46,No
+EMP17994,2023-03-28,Family Reasons,36,Yes
+EMP17997,2025-07-13,Better Opportunity,16,Yes
+EMP18001,2024-11-28,End of Contract,25,Yes
+EMP18011,2023-05-18,Health Issues,33,No
+EMP18079,2025-10-03,Better Opportunity,20,Yes
+EMP18092,2025-06-08,Better Opportunity,6,Yes
+EMP18101,2024-09-15,Better Opportunity,45,Yes
+EMP18104,2025-11-12,Better Opportunity,25,Yes
+EMP18110,2025-06-03,Better Opportunity,30,Yes
+EMP18123,2025-03-21,Better Opportunity,11,Yes
+EMP18126,2022-12-13,Better Opportunity,46,Yes
+EMP18140,2025-08-07,Family Reasons,6,Yes
+EMP18163,2024-08-02,Better Opportunity,26,Yes
+EMP18186,2025-04-15,Family Reasons,28,Yes
+EMP18200,2024-08-29,Better Opportunity,16,Yes
+EMP18206,2025-05-07,Better Opportunity,10,Yes
+EMP18216,2023-04-04,Better Opportunity,40,Yes
+EMP18238,2025-01-20,End of Contract,20,Yes
+EMP18253,2025-04-04,End of Contract,45,Yes
+EMP18272,2024-10-26,Work Conditions,17,No
+EMP18287,2025-10-28,Salary Issues,14,No
+EMP18295,2025-03-13,Salary Issues,17,No
+EMP18300,2024-05-16,Better Opportunity,23,Yes
+EMP18311,2025-05-01,Better Opportunity,36,Yes
+EMP18314,2024-09-07,Family Reasons,21,Yes
+EMP18340,2025-06-12,Terminated,37,No
+EMP18342,2024-12-31,End of Contract,28,Yes
+EMP18350,2024-12-21,Salary Issues,32,No
+EMP18358,2025-06-14,Work Conditions,8,No
+EMP18364,2025-11-09,Better Opportunity,6,Yes
+EMP18406,2025-03-08,Better Opportunity,30,Yes
+EMP18450,2025-08-22,Salary Issues,4,No
+EMP18451,2025-06-24,Family Reasons,7,Yes
+EMP18466,2024-12-02,Salary Issues,20,No
+EMP18471,2023-08-06,Better Opportunity,39,Yes
+EMP18474,2025-05-06,Better Opportunity,31,Yes
+EMP18488,2024-09-08,End of Contract,32,Yes
+EMP18530,2024-03-20,End of Contract,43,Yes
+EMP18538,2024-01-14,Better Opportunity,31,Yes
+EMP18554,2024-01-05,End of Contract,34,Yes
+EMP18595,2023-01-30,Better Opportunity,41,Yes
+EMP18600,2024-08-18,Salary Issues,16,No
+EMP18618,2023-06-28,Family Reasons,39,Yes
+EMP18636,2025-07-17,End of Contract,12,Yes
+EMP18644,2024-02-13,Better Opportunity,37,Yes
+EMP18654,2025-06-02,Salary Issues,8,No
+EMP18661,2025-09-04,Better Opportunity,5,Yes
+EMP18675,2024-08-09,Salary Issues,20,No
+EMP18697,2024-08-13,End of Contract,23,Yes
+EMP18700,2025-03-12,Better Opportunity,15,Yes
+EMP18701,2024-07-09,Salary Issues,18,No
+EMP18706,2025-07-25,End of Contract,16,Yes
+EMP18723,2024-10-17,Better Opportunity,18,Yes
+EMP18731,2024-06-30,Better Opportunity,27,Yes
+EMP18735,2025-03-15,Better Opportunity,9,Yes
+EMP18746,2025-06-20,Salary Issues,13,No
+EMP18762,2024-12-12,Work Conditions,21,No
+EMP18776,2023-04-19,Family Reasons,41,Yes
+EMP18792,2024-07-25,End of Contract,39,Yes
+EMP18819,2024-11-29,Better Opportunity,45,Yes
+EMP18844,2024-05-04,Better Opportunity,19,Yes
+EMP18848,2025-08-02,Health Issues,5,No
+EMP18869,2024-10-14,Better Opportunity,17,Yes
+EMP18873,2025-09-01,Better Opportunity,5,Yes
+EMP18879,2025-04-12,End of Contract,28,Yes
+EMP18880,2024-11-11,Health Issues,21,No
+EMP18902,2024-04-16,Better Opportunity,38,Yes
+EMP18911,2024-03-20,Salary Issues,26,No
+EMP18930,2023-12-15,Better Opportunity,26,Yes
+EMP18931,2025-09-25,Family Reasons,20,Yes
+EMP18932,2024-06-24,End of Contract,25,Yes
+EMP18939,2022-12-23,Work Conditions,42,No
+EMP18946,2025-02-03,Family Reasons,19,Yes
+EMP18948,2024-09-05,End of Contract,20,Yes
+EMP18974,2022-12-14,Better Opportunity,47,Yes
+EMP19006,2025-01-05,Better Opportunity,22,Yes
+EMP19010,2024-02-23,Work Conditions,30,No
+EMP19012,2024-03-23,End of Contract,31,Yes
+EMP19040,2025-09-25,Family Reasons,4,Yes
+EMP19043,2025-04-28,Salary Issues,18,No
+EMP19047,2023-12-18,Better Opportunity,44,Yes
+EMP19065,2025-11-10,Family Reasons,6,Yes
+EMP19091,2024-10-06,Family Reasons,37,Yes
+EMP19100,2025-09-27,Salary Issues,30,No
+EMP19121,2025-02-10,Better Opportunity,30,Yes
+EMP19124,2023-11-29,Better Opportunity,35,Yes
+EMP19145,2023-08-07,Better Opportunity,43,Yes
+EMP19157,2024-05-17,Terminated,42,No
+EMP19159,2023-10-05,Family Reasons,37,Yes
+EMP19169,2025-10-31,Better Opportunity,11,Yes
+EMP19186,2025-05-24,End of Contract,11,Yes
+EMP19190,2023-02-04,Family Reasons,41,Yes
+EMP19210,2025-08-23,End of Contract,10,Yes
+EMP19235,2025-05-10,End of Contract,10,Yes
+EMP19277,2025-10-15,End of Contract,42,Yes
+EMP19289,2025-03-26,End of Contract,16,Yes
+EMP19326,2024-10-22,End of Contract,27,Yes
+EMP19328,2025-09-21,End of Contract,8,Yes
+EMP19332,2024-07-25,Salary Issues,19,No
+EMP19358,2024-03-23,Better Opportunity,42,Yes
+EMP19377,2024-11-21,End of Contract,28,Yes
+EMP19390,2023-12-31,End of Contract,23,Yes
+EMP19417,2025-04-17,End of Contract,31,Yes
+EMP19420,2025-10-09,Better Opportunity,6,Yes
+EMP19422,2025-07-05,Salary Issues,29,No
+EMP19432,2025-11-14,Better Opportunity,4,Yes
+EMP19437,2025-01-27,Better Opportunity,29,Yes
+EMP19458,2025-08-28,Better Opportunity,5,Yes
+EMP19463,2025-11-13,Better Opportunity,22,Yes
+EMP19464,2025-03-06,Family Reasons,12,Yes
+EMP19480,2025-09-24,End of Contract,17,Yes
+EMP19486,2023-07-16,Salary Issues,46,No
+EMP19491,2025-06-11,Health Issues,24,No
+EMP19545,2025-10-17,Family Reasons,12,Yes
+EMP19579,2024-04-10,Salary Issues,26,No
+EMP19596,2025-04-28,Health Issues,17,No
+EMP19598,2023-03-17,Better Opportunity,40,Yes
+EMP19605,2024-09-23,Health Issues,19,No
+EMP19606,2025-03-31,Health Issues,21,No
+EMP19612,2025-06-20,Better Opportunity,17,Yes
+EMP19619,2025-09-23,Terminated,7,No
+EMP19625,2025-03-16,Better Opportunity,23,Yes
+EMP19641,2025-10-25,Family Reasons,14,Yes
+EMP19646,2022-08-19,End of Contract,42,Yes
+EMP19651,2023-05-24,Salary Issues,35,No
+EMP19655,2025-11-07,End of Contract,7,Yes
+EMP19660,2025-01-19,Salary Issues,24,No
+EMP19661,2023-11-22,Better Opportunity,32,Yes
+EMP19679,2024-06-08,Work Conditions,31,No
+EMP19712,2023-05-24,Family Reasons,33,Yes
+EMP19714,2023-10-05,Salary Issues,32,No
+EMP19715,2023-05-12,Family Reasons,36,Yes
+EMP19719,2025-04-23,Health Issues,8,No
+EMP19733,2024-07-06,Better Opportunity,19,Yes
+EMP19739,2024-09-27,End of Contract,34,Yes
+EMP19746,2025-10-04,Work Conditions,5,No
+EMP19765,2024-01-09,Better Opportunity,46,Yes
+EMP19767,2024-12-15,End of Contract,22,Yes
+EMP19778,2024-11-04,Family Reasons,22,Yes
+EMP19782,2024-04-14,Work Conditions,24,No
+EMP19785,2025-09-12,End of Contract,15,Yes
+EMP19787,2023-12-09,Family Reasons,40,Yes
+EMP19792,2025-07-11,Family Reasons,35,Yes
+EMP19802,2024-09-09,End of Contract,17,Yes
+EMP19806,2023-08-26,Work Conditions,39,No
+EMP19811,2025-02-23,Better Opportunity,16,Yes
+EMP19831,2024-10-13,Family Reasons,24,Yes
+EMP19854,2024-08-08,Family Reasons,37,Yes
+EMP19863,2025-03-31,Family Reasons,12,Yes
+EMP19871,2023-02-12,Better Opportunity,37,Yes
+EMP19877,2025-05-28,End of Contract,20,Yes
+EMP19902,2024-04-12,Family Reasons,43,Yes
+EMP19911,2025-02-06,Better Opportunity,30,Yes
+EMP19916,2023-11-07,Better Opportunity,26,Yes
+EMP19919,2023-04-21,Salary Issues,45,No
+EMP19922,2025-06-14,End of Contract,37,Yes
+EMP19929,2024-12-07,Better Opportunity,23,Yes
+EMP19930,2024-01-30,Work Conditions,33,No
+EMP19934,2025-07-15,Family Reasons,14,Yes
+EMP19939,2025-05-28,Family Reasons,17,Yes
+EMP19958,2023-12-05,Better Opportunity,35,Yes
+EMP19972,2024-04-04,End of Contract,28,Yes
+EMP19975,2024-07-17,End of Contract,17,Yes
+EMP19993,2025-01-31,End of Contract,19,Yes
+EMP19997,2024-06-06,Better Opportunity,22,Yes
+EMP20004,2024-11-05,Better Opportunity,41,Yes
+EMP20019,2025-08-29,Better Opportunity,9,Yes
+EMP20045,2024-10-13,End of Contract,28,Yes
+EMP20050,2024-08-07,Family Reasons,33,Yes
+EMP20063,2023-12-15,Better Opportunity,26,Yes
+EMP20072,2025-08-08,Work Conditions,7,No
+EMP20080,2025-11-11,End of Contract,5,Yes
+EMP20084,2025-02-03,Family Reasons,16,Yes
+EMP20090,2025-06-13,End of Contract,15,Yes
+EMP20095,2022-12-10,End of Contract,44,Yes
+EMP20101,2024-06-08,Terminated,25,No
+EMP20120,2023-09-20,Better Opportunity,41,Yes
+EMP20126,2022-12-17,Family Reasons,45,Yes
+EMP20142,2025-02-18,Work Conditions,27,No
+EMP20146,2025-07-15,Better Opportunity,24,Yes
+EMP20189,2025-07-08,Better Opportunity,24,Yes
+EMP20213,2025-02-04,End of Contract,17,Yes
+EMP20220,2024-02-16,End of Contract,31,Yes
+EMP20230,2025-11-04,Family Reasons,12,Yes
+EMP20233,2025-06-18,End of Contract,8,Yes
+EMP20236,2023-09-24,End of Contract,33,Yes
+EMP20243,2025-05-29,Better Opportunity,7,Yes
+EMP20249,2024-05-23,End of Contract,44,Yes
+EMP20251,2023-08-23,Salary Issues,36,No
+EMP20270,2025-07-31,Health Issues,22,No
+EMP20276,2025-05-25,Family Reasons,35,Yes
+EMP20287,2025-07-02,Better Opportunity,37,Yes
+EMP20288,2022-03-16,Salary Issues,46,No
+EMP20307,2023-09-11,Salary Issues,32,No
+EMP20311,2024-04-07,Better Opportunity,33,Yes
+EMP20312,2023-12-12,Salary Issues,25,No
+EMP20318,2022-10-23,Work Conditions,39,No
+EMP20343,2024-05-28,Better Opportunity,21,Yes
+EMP20366,2025-01-29,Salary Issues,10,No
+EMP20368,2025-10-06,Family Reasons,39,Yes
+EMP20378,2024-05-15,End of Contract,33,Yes
+EMP20379,2024-11-24,Health Issues,27,No
+EMP20407,2022-07-16,Better Opportunity,43,Yes
+EMP20410,2025-10-16,Family Reasons,12,Yes
+EMP20436,2024-12-03,Better Opportunity,34,Yes
+EMP20444,2022-11-05,End of Contract,40,Yes
+EMP20449,2024-04-15,Salary Issues,46,No
+EMP20461,2025-11-08,Family Reasons,5,Yes
+EMP20481,2025-10-30,Family Reasons,21,Yes
+EMP20489,2024-04-15,Better Opportunity,31,Yes
+EMP20514,2025-10-19,Better Opportunity,23,Yes
+EMP20542,2023-10-29,Better Opportunity,38,Yes
+EMP20550,2025-08-01,Family Reasons,10,Yes
+EMP20626,2025-11-03,Better Opportunity,14,Yes
+EMP20673,2025-02-09,End of Contract,24,Yes
+EMP20676,2024-12-17,End of Contract,44,Yes
+EMP20680,2023-09-14,End of Contract,35,Yes
+EMP20747,2025-07-04,Terminated,36,No
+EMP20778,2024-09-02,Work Conditions,45,No
+EMP20782,2025-08-28,End of Contract,8,Yes
+EMP20805,2025-02-15,End of Contract,13,Yes
+EMP20810,2025-10-12,Health Issues,3,No
+EMP20834,2024-12-14,End of Contract,26,Yes
+EMP20839,2023-07-15,Better Opportunity,30,Yes
+EMP20849,2024-10-14,Better Opportunity,44,Yes
+EMP20854,2025-11-05,Better Opportunity,3,Yes
+EMP20867,2025-05-14,Health Issues,12,No
+EMP20879,2025-06-24,Better Opportunity,19,Yes
+EMP20880,2025-10-26,Family Reasons,24,Yes
+EMP20896,2025-10-18,End of Contract,11,Yes
+EMP20929,2025-04-16,Better Opportunity,11,Yes
+EMP20938,2024-10-30,Work Conditions,15,No
+EMP20953,2023-05-09,End of Contract,39,Yes
+EMP20972,2025-08-18,Better Opportunity,6,Yes
+EMP21003,2025-07-04,End of Contract,11,Yes
+EMP21012,2025-06-08,Family Reasons,11,Yes
+EMP21016,2023-12-16,Better Opportunity,27,Yes
+EMP21031,2025-05-04,Better Opportunity,15,Yes
+EMP21040,2024-11-08,Terminated,26,No
+EMP21079,2025-09-17,End of Contract,16,Yes
+EMP21135,2024-06-24,End of Contract,24,Yes
+EMP21139,2024-11-24,Better Opportunity,33,Yes
+EMP21140,2025-06-28,Better Opportunity,29,Yes
+EMP21158,2023-02-20,Better Opportunity,43,Yes
+EMP21166,2025-07-01,End of Contract,9,Yes
+EMP21179,2025-09-14,Family Reasons,3,Yes
+EMP21185,2025-01-04,Family Reasons,39,Yes
+EMP21203,2025-08-07,End of Contract,20,Yes
+EMP21204,2023-08-12,Health Issues,37,No
+EMP21205,2024-06-27,Health Issues,35,No
+EMP21223,2025-02-16,End of Contract,38,Yes
+EMP21232,2024-12-13,Salary Issues,12,No
+EMP21234,2025-04-03,Health Issues,9,No
+EMP21246,2023-04-30,Better Opportunity,42,Yes
+EMP21257,2025-09-29,Salary Issues,6,No
+EMP21260,2024-06-27,Family Reasons,24,Yes
+EMP21272,2024-04-06,Better Opportunity,37,Yes
+EMP21303,2025-07-22,End of Contract,21,Yes
+EMP21314,2023-06-18,End of Contract,31,Yes
+EMP21321,2024-06-21,Family Reasons,38,Yes
+EMP21333,2025-01-12,End of Contract,38,Yes
+EMP21337,2025-10-05,End of Contract,24,Yes
+EMP21358,2025-04-11,Better Opportunity,27,Yes
+EMP21378,2022-07-19,Salary Issues,44,No
+EMP21382,2025-10-06,End of Contract,6,Yes
+EMP21401,2024-11-01,Family Reasons,28,Yes
+EMP21404,2025-02-04,Salary Issues,10,No
+EMP21443,2024-12-05,Better Opportunity,14,Yes
+EMP21458,2025-06-13,Family Reasons,7,Yes
+EMP21463,2025-05-24,Salary Issues,28,No
+EMP21472,2023-04-26,Better Opportunity,35,Yes
+EMP21477,2025-07-17,End of Contract,6,Yes
+EMP21506,2024-09-09,Better Opportunity,40,Yes
+EMP21517,2025-06-06,Better Opportunity,6,Yes
+EMP21525,2024-04-26,End of Contract,39,Yes
+EMP21529,2025-03-01,Better Opportunity,31,Yes
+EMP21563,2025-10-14,Family Reasons,17,Yes
+EMP21570,2025-05-31,End of Contract,36,Yes
+EMP21605,2025-08-25,Better Opportunity,8,Yes
+EMP21610,2024-10-23,Better Opportunity,26,Yes
+EMP21629,2025-09-14,End of Contract,5,Yes
+EMP21635,2025-04-06,Family Reasons,39,Yes
+EMP21643,2025-09-27,Better Opportunity,35,Yes
+EMP21670,2024-06-22,End of Contract,34,Yes
+EMP21672,2025-03-13,Better Opportunity,11,Yes
+EMP21719,2024-02-16,Family Reasons,23,Yes
+EMP21722,2025-03-10,Better Opportunity,34,Yes
+EMP21735,2024-11-24,Work Conditions,26,No
+EMP21751,2025-10-07,Health Issues,8,No
+EMP21752,2023-02-20,End of Contract,46,Yes
+EMP21758,2025-10-16,Family Reasons,3,Yes
+EMP21771,2025-07-26,End of Contract,9,Yes
+EMP21781,2023-01-24,Work Conditions,38,No
+EMP21794,2025-07-18,Work Conditions,13,No
+EMP21848,2024-12-11,Work Conditions,32,No
+EMP21862,2025-10-27,Work Conditions,27,No
+EMP21867,2025-06-10,Salary Issues,14,No
+EMP21868,2025-11-15,Family Reasons,11,Yes
+EMP21872,2025-07-13,Better Opportunity,33,Yes
+EMP21878,2024-12-11,End of Contract,28,Yes
+EMP21896,2025-06-27,Health Issues,9,No
+EMP21934,2022-04-23,Better Opportunity,44,Yes
+EMP21935,2025-10-22,Better Opportunity,4,Yes
+EMP21957,2025-06-27,Better Opportunity,6,Yes
+EMP21959,2023-07-02,Better Opportunity,32,Yes
+EMP21961,2025-09-26,Family Reasons,46,Yes
+EMP21976,2025-07-01,Terminated,7,No
+EMP21988,2025-06-13,End of Contract,7,Yes
+EMP22001,2023-04-27,Better Opportunity,46,Yes
+EMP22003,2024-12-03,Better Opportunity,37,Yes
+EMP22017,2025-05-26,Better Opportunity,9,Yes
+EMP22026,2025-10-18,Family Reasons,4,Yes
+EMP22039,2025-09-09,Better Opportunity,25,Yes
+EMP22050,2023-10-27,End of Contract,30,Yes
+EMP22052,2025-03-15,Better Opportunity,10,Yes
+EMP22084,2024-11-10,End of Contract,33,Yes
+EMP22102,2024-02-21,End of Contract,28,Yes
+EMP22106,2024-08-20,Better Opportunity,25,Yes
+EMP22107,2025-04-30,Better Opportunity,11,Yes
+EMP22108,2025-01-21,Better Opportunity,31,Yes
+EMP22112,2025-06-16,Better Opportunity,15,Yes
+EMP22113,2024-07-20,Better Opportunity,29,Yes
+EMP22119,2025-10-04,Health Issues,6,No
+EMP22122,2023-11-16,Better Opportunity,34,Yes
+EMP22126,2025-10-15,Terminated,8,No
+EMP22137,2025-11-02,Better Opportunity,16,Yes
+EMP22161,2025-10-15,End of Contract,44,Yes
+EMP22208,2025-03-29,Better Opportunity,9,Yes
+EMP22226,2025-03-07,Work Conditions,27,No
+EMP22229,2025-07-17,Better Opportunity,16,Yes
+EMP22246,2024-01-11,End of Contract,25,Yes
+EMP22249,2025-10-01,Work Conditions,15,No
+EMP22250,2025-06-13,Better Opportunity,37,Yes
+EMP22251,2025-08-12,Family Reasons,12,Yes
+EMP22254,2025-11-01,Work Conditions,4,No
+EMP22310,2025-10-10,Better Opportunity,6,Yes
+EMP22319,2024-07-08,End of Contract,36,Yes
+EMP22366,2024-03-04,End of Contract,26,Yes
+EMP22373,2023-10-15,Family Reasons,26,Yes
+EMP22382,2022-10-01,Better Opportunity,42,Yes
+EMP22406,2025-10-16,End of Contract,5,Yes
+EMP22437,2024-12-24,Better Opportunity,20,Yes
+EMP22441,2025-11-02,Better Opportunity,5,Yes
+EMP22442,2023-09-17,End of Contract,40,Yes
+EMP22469,2024-06-26,End of Contract,38,Yes
+EMP22476,2023-10-27,Better Opportunity,46,Yes
+EMP22489,2024-06-06,Work Conditions,24,No
+EMP22500,2025-08-04,Better Opportunity,9,Yes
+EMP22521,2024-06-17,Work Conditions,41,No
+EMP22535,2025-02-02,Salary Issues,14,No
+EMP22541,2022-09-24,Better Opportunity,41,Yes
+EMP22542,2025-11-14,End of Contract,22,Yes
+EMP22552,2025-01-17,Better Opportunity,23,Yes
+EMP22563,2023-12-05,Family Reasons,31,Yes
+EMP22564,2023-04-04,End of Contract,39,Yes
+EMP22570,2023-06-14,End of Contract,45,Yes
+EMP22574,2025-01-14,Work Conditions,19,No
+EMP22584,2024-04-02,Terminated,29,No
+EMP22601,2023-01-02,End of Contract,43,Yes
+EMP22645,2024-07-13,End of Contract,33,Yes
+EMP22648,2025-04-08,Better Opportunity,31,Yes
+EMP22651,2024-08-23,Salary Issues,24,No
+EMP22661,2025-09-20,Health Issues,24,No
+EMP22673,2025-05-13,End of Contract,12,Yes
+EMP22696,2025-06-05,End of Contract,11,Yes
+EMP22700,2025-09-27,Work Conditions,4,No
+EMP22720,2024-05-17,Work Conditions,41,No
+EMP22729,2023-12-05,Better Opportunity,33,Yes
+EMP22750,2025-04-15,Better Opportunity,20,Yes
+EMP22758,2025-11-14,End of Contract,8,Yes
+EMP22766,2025-09-03,Better Opportunity,4,Yes
+EMP22784,2025-04-07,Better Opportunity,46,Yes
+EMP22798,2025-07-18,Better Opportunity,39,Yes
+EMP22810,2024-12-16,Better Opportunity,12,Yes
+EMP22857,2023-10-17,Better Opportunity,42,Yes
+EMP22872,2023-03-10,Family Reasons,35,Yes
+EMP22886,2025-07-24,End of Contract,6,Yes
+EMP22917,2025-03-20,Better Opportunity,10,Yes
+EMP22946,2024-04-09,Better Opportunity,31,Yes
+EMP22959,2024-10-07,Family Reasons,21,Yes
+EMP22961,2025-07-10,Better Opportunity,14,Yes
+EMP22981,2023-10-05,End of Contract,30,Yes
+EMP22986,2025-10-08,Better Opportunity,3,Yes
+EMP23008,2024-01-15,Better Opportunity,25,Yes
+EMP23028,2025-02-16,Better Opportunity,15,Yes
+EMP23030,2025-04-07,Family Reasons,14,Yes
+EMP23043,2022-11-22,Better Opportunity,45,Yes
+EMP23089,2025-11-01,Salary Issues,3,No
+EMP23102,2025-02-24,Better Opportunity,39,Yes
+EMP23108,2024-05-22,Better Opportunity,29,Yes
+EMP23109,2024-07-20,Better Opportunity,45,Yes
+EMP23133,2024-11-12,Work Conditions,39,No
+EMP23153,2025-07-21,End of Contract,10,Yes
+EMP23159,2024-07-26,End of Contract,46,Yes
+EMP23184,2024-12-22,Salary Issues,14,No
+EMP23197,2025-10-15,Better Opportunity,19,Yes
+EMP23208,2024-05-18,Better Opportunity,27,Yes
+EMP23223,2025-09-28,Work Conditions,16,No
+EMP23271,2024-09-30,Better Opportunity,35,Yes
+EMP23290,2023-09-24,Better Opportunity,45,Yes
+EMP23326,2024-12-27,Family Reasons,24,Yes
+EMP23332,2023-10-26,Work Conditions,45,No
+EMP23333,2025-07-10,End of Contract,26,Yes
+EMP23334,2024-12-28,Family Reasons,45,Yes
+EMP23357,2025-06-24,Better Opportunity,40,Yes
+EMP23362,2024-11-19,Better Opportunity,27,Yes
+EMP23371,2025-06-21,Work Conditions,15,No
+EMP23407,2025-03-15,Better Opportunity,11,Yes
+EMP23410,2022-11-19,Salary Issues,42,No
+EMP23420,2024-09-24,End of Contract,47,Yes
+EMP23436,2025-11-04,Health Issues,20,No
+EMP23445,2024-01-21,Salary Issues,46,No
+EMP23459,2025-06-17,End of Contract,8,Yes
+EMP23465,2025-01-13,End of Contract,14,Yes
+EMP23476,2023-04-11,Better Opportunity,32,Yes
+EMP23478,2025-05-08,Work Conditions,15,No
+EMP23524,2025-10-29,Terminated,17,No
+EMP23533,2022-08-03,Family Reasons,42,Yes
+EMP23578,2024-02-03,Better Opportunity,28,Yes
+EMP23591,2025-07-14,Better Opportunity,9,Yes
+EMP23602,2025-02-23,Family Reasons,16,Yes
+EMP23632,2025-02-22,Better Opportunity,23,Yes
+EMP23646,2024-01-16,Salary Issues,43,No
+EMP23657,2025-09-19,Salary Issues,20,No
+EMP23662,2024-03-09,Family Reasons,28,Yes
+EMP23675,2025-05-22,Better Opportunity,9,Yes
+EMP23677,2025-09-09,Better Opportunity,3,Yes
+EMP23678,2025-03-04,Better Opportunity,16,Yes
+EMP23688,2025-09-29,Better Opportunity,11,Yes
+EMP23709,2025-10-12,Salary Issues,42,No
+EMP23725,2024-10-12,End of Contract,30,Yes
+EMP23729,2022-03-07,Salary Issues,46,No
+EMP23754,2025-09-12,Better Opportunity,5,Yes
+EMP23758,2024-12-19,Better Opportunity,44,Yes
+EMP23785,2025-05-11,Better Opportunity,11,Yes
+EMP23803,2024-12-03,Better Opportunity,14,Yes
+EMP23835,2024-10-28,Better Opportunity,15,Yes
+EMP23843,2024-03-08,End of Contract,32,Yes
+EMP23845,2025-06-08,Better Opportunity,30,Yes
+EMP23849,2025-03-22,Work Conditions,34,No
+EMP23894,2024-12-06,Better Opportunity,31,Yes
+EMP23929,2025-03-19,End of Contract,36,Yes
+EMP23951,2025-08-20,Salary Issues,5,No
+EMP23964,2025-06-30,Health Issues,8,No
+EMP24021,2025-07-04,Better Opportunity,7,Yes
+EMP24023,2025-07-03,Family Reasons,24,Yes
+EMP24026,2025-02-27,Better Opportunity,29,Yes
+EMP24034,2024-01-05,End of Contract,30,Yes
+EMP24053,2024-10-04,Work Conditions,45,No
+EMP24061,2025-06-05,Family Reasons,6,Yes
+EMP24092,2024-02-19,End of Contract,23,Yes
+EMP24111,2024-07-13,Better Opportunity,28,Yes
+EMP24118,2025-06-07,End of Contract,34,Yes
+EMP24122,2024-04-05,End of Contract,31,Yes
+EMP24130,2022-07-02,Salary Issues,47,No
+EMP24144,2025-01-27,Salary Issues,45,No
+EMP24170,2024-11-18,End of Contract,31,Yes
+EMP24186,2025-09-12,Work Conditions,7,No
+EMP24198,2025-07-15,End of Contract,7,Yes
+EMP24202,2025-08-11,Better Opportunity,12,Yes
+EMP24217,2022-06-24,Salary Issues,45,No
+EMP24218,2024-04-10,Better Opportunity,29,Yes
+EMP24226,2025-09-24,Better Opportunity,41,Yes
+EMP24231,2025-02-02,End of Contract,36,Yes
+EMP24258,2024-08-05,Better Opportunity,39,Yes
+EMP24266,2024-09-23,Better Opportunity,30,Yes
+EMP24285,2023-03-05,End of Contract,38,Yes
+EMP24319,2025-08-30,End of Contract,24,Yes
+EMP24321,2025-06-18,End of Contract,7,Yes
+EMP24333,2023-11-18,Salary Issues,39,No
+EMP24354,2024-06-28,Better Opportunity,34,Yes
+EMP24381,2025-07-05,Health Issues,25,No
+EMP24390,2025-04-19,Better Opportunity,20,Yes
+EMP24392,2024-12-08,End of Contract,44,Yes
+EMP24399,2025-09-28,Salary Issues,7,No
+EMP24415,2024-03-01,End of Contract,34,Yes
+EMP24419,2025-08-19,Work Conditions,13,No
+EMP24427,2024-05-13,Better Opportunity,38,Yes
+EMP24432,2024-07-07,Better Opportunity,41,Yes
+EMP24460,2024-06-17,Family Reasons,43,Yes
+EMP24470,2023-12-30,End of Contract,34,Yes
+EMP24471,2025-06-09,Better Opportunity,21,Yes
+EMP24490,2025-10-06,End of Contract,11,Yes
+EMP24496,2023-10-23,Work Conditions,40,No
+EMP24507,2022-08-21,Health Issues,41,No
+EMP24513,2024-03-05,Family Reasons,41,Yes
+EMP24516,2024-03-07,End of Contract,43,Yes
+EMP24532,2023-12-11,End of Contract,31,Yes
+EMP24556,2024-02-20,Better Opportunity,27,Yes
+EMP24564,2025-09-23,Work Conditions,24,No
+EMP24567,2023-09-15,End of Contract,37,Yes
+EMP24568,2023-09-01,Better Opportunity,44,Yes
+EMP24575,2022-10-25,Family Reasons,41,Yes
+EMP24598,2025-11-01,Better Opportunity,13,Yes
+EMP24614,2025-01-02,End of Contract,11,Yes
+EMP24636,2025-07-28,Better Opportunity,8,Yes
+EMP24643,2025-09-03,End of Contract,19,Yes
+EMP24652,2025-09-13,End of Contract,3,Yes
+EMP24668,2025-08-23,End of Contract,15,Yes
+EMP24690,2024-11-26,Better Opportunity,38,Yes
+EMP24691,2025-07-27,End of Contract,6,Yes
+EMP24717,2025-09-06,Better Opportunity,16,Yes
+EMP24731,2024-01-15,Better Opportunity,24,Yes
+EMP24736,2023-05-07,End of Contract,42,Yes
+EMP24737,2023-08-02,End of Contract,40,Yes
+EMP24741,2025-10-26,Family Reasons,25,Yes
+EMP24746,2025-09-16,Better Opportunity,5,Yes
+EMP24752,2025-10-27,Better Opportunity,15,Yes
+EMP24760,2024-02-20,Work Conditions,22,No
+EMP24786,2025-01-26,Better Opportunity,12,Yes
+EMP24787,2025-05-26,Health Issues,14,No
+EMP24794,2025-02-08,Better Opportunity,16,Yes
+EMP24798,2024-11-16,Better Opportunity,13,Yes
+EMP24800,2025-04-07,Work Conditions,9,No
+EMP24818,2024-06-03,Better Opportunity,25,Yes
+EMP24821,2024-05-24,Better Opportunity,29,Yes
+EMP24845,2025-09-18,Family Reasons,37,Yes
+EMP24847,2025-08-07,End of Contract,35,Yes
+EMP24850,2025-10-11,Better Opportunity,21,Yes
+EMP24884,2025-03-30,Better Opportunity,13,Yes
+EMP24888,2025-10-16,End of Contract,24,Yes
+EMP24926,2025-01-13,End of Contract,23,Yes
+EMP24936,2022-08-27,Better Opportunity,43,Yes
+EMP24943,2025-04-02,Family Reasons,36,Yes
+EMP24973,2025-04-07,End of Contract,13,Yes
+EMP24975,2025-08-25,End of Contract,16,Yes
+EMP25010,2025-05-28,Better Opportunity,39,Yes
+EMP25020,2024-01-18,Better Opportunity,35,Yes
+EMP25027,2025-03-24,Salary Issues,32,No
+EMP25030,2024-02-12,End of Contract,40,Yes
+EMP25056,2025-08-26,Terminated,10,No
+EMP25062,2025-01-14,Better Opportunity,13,Yes
+EMP25065,2024-05-28,End of Contract,24,Yes
+EMP25067,2023-02-13,End of Contract,39,Yes
+EMP25073,2025-10-02,Salary Issues,12,No
+EMP25087,2024-04-23,Salary Issues,36,No
+EMP25088,2025-08-12,Better Opportunity,16,Yes
+EMP25091,2025-07-03,Family Reasons,46,Yes
+EMP25095,2025-03-09,Better Opportunity,26,Yes
+EMP25117,2024-08-09,Family Reasons,38,Yes
+EMP25143,2025-07-26,Better Opportunity,15,Yes
+EMP25144,2024-10-28,Salary Issues,42,No
+EMP25149,2024-10-24,Family Reasons,14,Yes
+EMP25153,2024-06-06,Salary Issues,32,No
+EMP25156,2025-10-05,End of Contract,15,Yes
+EMP25171,2025-04-01,Family Reasons,11,Yes
+EMP25187,2024-04-11,Better Opportunity,39,Yes
+EMP25193,2025-02-10,Salary Issues,16,No
+EMP25211,2025-01-26,Family Reasons,31,Yes
+EMP25233,2025-10-16,Family Reasons,7,Yes
+EMP25258,2025-07-18,Health Issues,7,No
+EMP25277,2024-01-10,End of Contract,47,Yes
+EMP25311,2023-07-01,Work Conditions,38,No
+EMP25312,2025-05-15,Better Opportunity,37,Yes
+EMP25334,2024-10-10,End of Contract,30,Yes
+EMP25338,2023-04-05,End of Contract,42,Yes
+EMP25361,2025-06-27,Better Opportunity,8,Yes
+EMP25374,2023-09-21,Better Opportunity,38,Yes
+EMP25386,2025-07-23,End of Contract,4,Yes
+EMP25406,2025-06-21,Family Reasons,7,Yes
+EMP25415,2025-04-13,Better Opportunity,22,Yes
+EMP25418,2024-12-06,End of Contract,15,Yes
+EMP25420,2023-07-28,End of Contract,40,Yes
+EMP25428,2025-04-19,Better Opportunity,21,Yes
+EMP25448,2025-05-11,Family Reasons,10,Yes
+EMP25454,2023-08-30,End of Contract,30,Yes
+EMP25459,2025-08-23,End of Contract,21,Yes
+EMP25460,2023-12-05,Work Conditions,45,No
+EMP25463,2025-03-20,Better Opportunity,13,Yes
+EMP25468,2023-03-06,Health Issues,46,No
+EMP25480,2025-06-25,Family Reasons,13,Yes
+EMP25481,2025-10-13,Better Opportunity,12,Yes
+EMP25484,2025-10-14,Salary Issues,3,No
+EMP25486,2024-12-03,Health Issues,37,No
+EMP25512,2023-06-02,End of Contract,36,Yes
+EMP25562,2025-08-19,Better Opportunity,14,Yes
+EMP25571,2025-02-10,Family Reasons,15,Yes
+EMP25574,2024-03-24,Salary Issues,40,No
+EMP25575,2025-08-25,Work Conditions,3,No
+EMP25582,2025-09-10,Work Conditions,33,No
+EMP25623,2025-11-01,Better Opportunity,28,Yes
+EMP25656,2025-09-03,Family Reasons,35,Yes
+EMP25666,2024-06-13,Family Reasons,33,Yes
+EMP25675,2025-10-18,Salary Issues,40,No
+EMP25681,2024-10-18,End of Contract,36,Yes
+EMP25695,2025-01-26,Better Opportunity,36,Yes
+EMP25698,2025-04-17,End of Contract,39,Yes
+EMP25711,2025-05-07,Salary Issues,13,No
+EMP25729,2024-05-05,Salary Issues,22,No
+EMP25736,2025-04-26,End of Contract,37,Yes
+EMP25753,2025-11-12,Better Opportunity,8,Yes
+EMP25758,2023-08-12,Salary Issues,39,No
+EMP25785,2023-04-28,Better Opportunity,43,Yes
+EMP25832,2024-10-08,Better Opportunity,22,Yes
+EMP25837,2024-03-09,Family Reasons,26,Yes
+EMP25841,2025-08-27,Better Opportunity,27,Yes
+EMP25858,2025-10-30,Better Opportunity,21,Yes
+EMP25885,2023-09-28,Better Opportunity,44,Yes
+EMP25894,2023-08-15,End of Contract,37,Yes
+EMP25895,2024-11-24,Better Opportunity,22,Yes
+EMP25909,2025-05-22,Salary Issues,24,No
+EMP25915,2025-08-20,Family Reasons,24,Yes
+EMP25929,2024-11-21,Better Opportunity,17,Yes
+EMP25934,2025-02-19,Salary Issues,25,No
+EMP25960,2024-12-06,Salary Issues,19,No
+EMP25971,2025-02-23,Better Opportunity,34,Yes
+EMP25973,2024-10-27,Better Opportunity,20,Yes
+EMP25974,2024-03-29,End of Contract,44,Yes
+EMP25990,2024-09-25,Work Conditions,21,No
+EMP25994,2025-11-13,Better Opportunity,26,Yes
+EMP26004,2025-05-21,Better Opportunity,32,Yes
+EMP26005,2024-12-30,Better Opportunity,12,Yes
+EMP26064,2025-09-25,Better Opportunity,8,Yes
+EMP26069,2025-05-05,Health Issues,18,No
+EMP26072,2023-01-30,End of Contract,38,Yes
+EMP26093,2024-01-19,Better Opportunity,33,Yes
+EMP26097,2023-10-01,End of Contract,30,Yes
+EMP26101,2025-03-01,Better Opportunity,12,Yes
+EMP26108,2025-10-04,Better Opportunity,14,Yes
+EMP26111,2025-01-14,Work Conditions,38,No
+EMP26115,2025-08-14,Better Opportunity,12,Yes
+EMP26118,2024-12-16,Better Opportunity,14,Yes
+EMP26139,2025-08-04,End of Contract,12,Yes
+EMP26213,2025-08-24,Salary Issues,20,No
+EMP26232,2023-09-30,Family Reasons,36,Yes
+EMP26236,2024-08-29,Work Conditions,24,No
+EMP26250,2024-07-03,Better Opportunity,39,Yes
+EMP26265,2024-09-17,End of Contract,19,Yes
+EMP26295,2025-10-24,Better Opportunity,3,Yes
+EMP26296,2024-02-04,End of Contract,26,Yes
+EMP26325,2024-07-17,Salary Issues,18,No
+EMP26333,2025-09-07,End of Contract,33,Yes
+EMP26347,2024-11-20,Health Issues,17,No
+EMP26371,2024-06-12,End of Contract,24,Yes
+EMP26392,2025-10-01,Better Opportunity,5,Yes
+EMP26417,2024-05-29,End of Contract,27,Yes
+EMP26418,2025-10-27,Better Opportunity,4,Yes
+EMP26420,2024-10-15,End of Contract,19,Yes
+EMP26429,2025-10-11,Better Opportunity,43,Yes
+EMP26459,2024-12-21,Family Reasons,17,Yes
+EMP26478,2025-09-18,Salary Issues,8,No
+EMP26498,2025-01-18,End of Contract,24,Yes
+EMP26501,2024-05-10,Salary Issues,23,No
+EMP26509,2025-05-21,End of Contract,7,Yes
+EMP26534,2024-04-30,End of Contract,25,Yes
+EMP26551,2024-08-30,Better Opportunity,24,Yes
+EMP26552,2025-11-04,Family Reasons,3,Yes
+EMP26559,2024-04-12,Better Opportunity,39,Yes
+EMP26574,2023-10-26,End of Contract,34,Yes
+EMP26588,2025-06-14,End of Contract,34,Yes
+EMP26595,2024-02-20,End of Contract,22,Yes
+EMP26598,2024-07-03,Health Issues,22,No
+EMP26624,2025-08-13,Salary Issues,9,No
+EMP26627,2024-12-09,End of Contract,22,Yes
+EMP26630,2024-06-05,Family Reasons,45,Yes
+EMP26647,2024-11-15,End of Contract,16,Yes
+EMP26659,2025-06-02,Better Opportunity,30,Yes
+EMP26671,2025-08-16,End of Contract,9,Yes
+EMP26688,2024-11-06,Family Reasons,33,Yes
+EMP26695,2025-08-25,Better Opportunity,7,Yes
+EMP26730,2025-03-31,End of Contract,16,Yes
+EMP26760,2024-08-05,Family Reasons,21,Yes
+EMP26771,2024-09-11,Health Issues,26,No
+EMP26773,2025-02-28,End of Contract,32,Yes
+EMP26788,2025-04-02,Work Conditions,22,No
+EMP26797,2025-06-05,Work Conditions,9,No
+EMP26801,2025-06-05,Family Reasons,11,Yes
+EMP26806,2025-08-03,Family Reasons,9,Yes
+EMP26821,2023-11-14,Better Opportunity,27,Yes
+EMP26831,2024-08-23,Better Opportunity,20,Yes
+EMP26844,2025-11-09,End of Contract,9,Yes
+EMP26845,2025-11-14,Better Opportunity,3,Yes
+EMP26853,2024-09-10,End of Contract,18,Yes
+EMP26858,2023-07-10,Better Opportunity,31,Yes
+EMP26862,2023-01-30,Work Conditions,40,No
+EMP26882,2025-05-21,Family Reasons,37,Yes
+EMP26888,2024-07-07,Better Opportunity,29,Yes
+EMP26890,2025-10-19,Work Conditions,24,No
+EMP26892,2025-06-13,Better Opportunity,24,Yes
+EMP26928,2024-03-24,Better Opportunity,39,Yes
+EMP26950,2024-10-28,Work Conditions,46,No
+EMP26955,2025-11-14,Better Opportunity,3,Yes
+EMP26960,2024-10-06,Better Opportunity,17,Yes
+EMP26971,2025-09-23,End of Contract,29,Yes
+EMP26974,2025-07-01,End of Contract,21,Yes
+EMP26993,2025-10-15,Terminated,9,No
+EMP27014,2025-08-27,Family Reasons,6,Yes
+EMP27016,2023-11-05,End of Contract,30,Yes
+EMP27019,2024-04-24,Better Opportunity,25,Yes
+EMP27026,2024-05-18,Salary Issues,40,No
+EMP27043,2025-09-22,End of Contract,13,Yes
+EMP27045,2024-06-29,Better Opportunity,42,Yes
+EMP27055,2025-02-24,Better Opportunity,38,Yes
+EMP27075,2025-03-22,Salary Issues,37,No
+EMP27076,2025-10-01,Better Opportunity,6,Yes
+EMP27096,2025-11-10,Better Opportunity,7,Yes
+EMP27115,2023-02-23,End of Contract,36,Yes
+EMP27119,2025-02-13,Family Reasons,10,Yes
+EMP27127,2025-10-31,End of Contract,4,Yes
+EMP27142,2025-04-04,Better Opportunity,16,Yes
+EMP27150,2023-12-27,Health Issues,27,No
+EMP27182,2024-07-06,Better Opportunity,30,Yes
+EMP27196,2024-01-16,End of Contract,38,Yes
+EMP27211,2025-11-07,End of Contract,32,Yes
+EMP27219,2025-05-28,End of Contract,10,Yes
+EMP27220,2025-04-18,End of Contract,47,Yes
+EMP27239,2025-11-12,Better Opportunity,6,Yes
+EMP27287,2025-06-12,Better Opportunity,36,Yes
+EMP27290,2023-05-02,Better Opportunity,37,Yes
+EMP27306,2025-04-18,Better Opportunity,14,Yes
+EMP27316,2024-08-12,End of Contract,23,Yes
+EMP27324,2025-02-22,Salary Issues,23,No
+EMP27340,2024-11-03,Better Opportunity,28,Yes
+EMP27344,2024-09-11,Better Opportunity,16,Yes
+EMP27354,2025-08-03,Work Conditions,21,No
+EMP27369,2025-04-21,Better Opportunity,11,Yes
+EMP27379,2024-06-15,Work Conditions,19,No
+EMP27384,2022-04-29,End of Contract,45,Yes
+EMP27387,2025-08-17,End of Contract,10,Yes
+EMP27389,2024-11-22,Better Opportunity,25,Yes
+EMP27390,2024-11-03,Better Opportunity,28,Yes
+EMP27409,2024-12-11,Work Conditions,14,No
+EMP27411,2024-07-12,Better Opportunity,35,Yes
+EMP27422,2025-10-01,End of Contract,3,Yes
+EMP27436,2025-09-09,Better Opportunity,30,Yes
+EMP27443,2025-02-20,Salary Issues,41,No
+EMP27452,2025-09-27,Salary Issues,9,No
+EMP27461,2025-09-09,Health Issues,3,No
+EMP27523,2023-01-28,Better Opportunity,39,Yes
+EMP27544,2022-10-11,End of Contract,39,Yes
+EMP27576,2024-10-05,Salary Issues,24,No
+EMP27587,2024-10-01,Family Reasons,15,Yes
+EMP27603,2023-11-20,End of Contract,30,Yes
+EMP27607,2025-05-28,Better Opportunity,9,Yes
+EMP27627,2023-08-26,Better Opportunity,42,Yes
+EMP27639,2025-06-21,Work Conditions,30,No
+EMP27672,2024-06-09,Salary Issues,22,No
+EMP27679,2025-01-05,Better Opportunity,36,Yes
+EMP27686,2025-06-07,End of Contract,43,Yes
+EMP27711,2023-12-13,Better Opportunity,26,Yes
+EMP27723,2025-09-13,Better Opportunity,6,Yes
+EMP27725,2025-02-08,Better Opportunity,12,Yes
+EMP27740,2023-07-25,End of Contract,32,Yes
+EMP27748,2025-09-03,Better Opportunity,9,Yes
+EMP27760,2023-05-17,Salary Issues,44,No
+EMP27763,2025-06-29,Family Reasons,39,Yes
+EMP27789,2025-09-30,End of Contract,15,Yes
+EMP27790,2025-06-19,Better Opportunity,9,Yes
+EMP27791,2025-06-03,End of Contract,44,Yes
+EMP27809,2025-11-06,Better Opportunity,14,Yes
+EMP27815,2025-11-09,Salary Issues,3,No
+EMP27821,2025-09-30,Better Opportunity,9,Yes
+EMP27853,2024-03-04,End of Contract,43,Yes
+EMP27854,2022-09-14,End of Contract,43,Yes
+EMP27877,2025-02-08,End of Contract,36,Yes
+EMP27882,2025-02-27,Better Opportunity,11,Yes
+EMP27900,2024-01-09,Work Conditions,33,No
+EMP27902,2022-09-12,Better Opportunity,42,Yes
+EMP27904,2025-06-24,Better Opportunity,14,Yes
+EMP27919,2025-08-21,Salary Issues,6,No
+EMP27944,2024-11-30,Health Issues,19,No
+EMP27952,2025-09-14,Better Opportunity,7,Yes
+EMP27970,2025-04-19,Better Opportunity,43,Yes
+EMP27990,2024-02-18,Better Opportunity,29,Yes
+EMP27996,2024-09-10,End of Contract,19,Yes
+EMP27999,2025-08-21,Better Opportunity,24,Yes
+EMP28014,2024-06-30,Salary Issues,26,No
+EMP28015,2025-04-23,Family Reasons,21,Yes
+EMP28016,2024-05-10,End of Contract,27,Yes
+EMP28027,2025-09-13,End of Contract,37,Yes
+EMP28046,2024-01-23,End of Contract,29,Yes
+EMP28079,2025-01-14,End of Contract,13,Yes
+EMP28086,2025-01-10,End of Contract,16,Yes
+EMP28087,2022-11-03,Salary Issues,42,No
+EMP28093,2024-05-06,Family Reasons,21,Yes
+EMP28141,2025-01-28,Family Reasons,15,Yes
+EMP28153,2025-07-22,Better Opportunity,44,Yes
+EMP28159,2022-12-05,End of Contract,41,Yes
+EMP28162,2024-09-25,Better Opportunity,21,Yes
+EMP28205,2025-01-12,End of Contract,14,Yes
+EMP28211,2025-09-23,Better Opportunity,14,Yes
+EMP28217,2024-12-30,Better Opportunity,35,Yes
+EMP28220,2024-12-19,End of Contract,24,Yes
+EMP28224,2025-10-15,Better Opportunity,5,Yes
+EMP28226,2023-08-12,Better Opportunity,39,Yes
+EMP28227,2023-09-18,End of Contract,45,Yes
+EMP28230,2024-01-28,Salary Issues,38,No
+EMP28235,2024-08-02,Terminated,31,No
+EMP28238,2025-04-04,End of Contract,13,Yes
+EMP28282,2024-07-09,Better Opportunity,19,Yes
+EMP28288,2023-04-23,Family Reasons,34,Yes
+EMP28298,2025-10-08,End of Contract,3,Yes
+EMP28332,2024-11-26,Better Opportunity,32,Yes
+EMP28345,2023-04-18,Family Reasons,42,Yes
+EMP28368,2025-06-04,End of Contract,13,Yes
+EMP28378,2024-06-29,Better Opportunity,28,Yes
+EMP28383,2025-07-16,Family Reasons,8,Yes
+EMP28384,2025-10-23,End of Contract,23,Yes
+EMP28390,2024-10-09,End of Contract,17,Yes
+EMP28393,2024-10-05,Family Reasons,24,Yes
+EMP28396,2024-04-01,Work Conditions,30,No
+EMP28401,2024-12-30,End of Contract,14,Yes
+EMP28426,2024-05-22,Work Conditions,26,No
+EMP28440,2025-08-04,End of Contract,11,Yes
+EMP28445,2025-03-16,Better Opportunity,16,Yes
+EMP28451,2023-11-14,Better Opportunity,45,Yes
+EMP28456,2023-11-19,End of Contract,28,Yes
+EMP28458,2023-05-12,Work Conditions,42,No
+EMP28462,2025-10-10,Salary Issues,10,No
+EMP28463,2024-06-10,End of Contract,29,Yes
+EMP28464,2023-07-31,Health Issues,37,No
+EMP28473,2024-09-21,Work Conditions,16,No
+EMP28495,2023-11-11,Family Reasons,40,Yes
+EMP28513,2024-09-11,Better Opportunity,28,Yes
+EMP28517,2025-03-01,End of Contract,15,Yes
+EMP28532,2025-08-22,Better Opportunity,4,Yes
+EMP28545,2024-06-24,Salary Issues,24,No
+EMP28546,2025-05-13,Family Reasons,8,Yes
+EMP28560,2025-10-11,Better Opportunity,7,Yes
+EMP28565,2025-05-29,Health Issues,12,No
+EMP28580,2023-06-10,Better Opportunity,41,Yes
+EMP28606,2025-10-03,End of Contract,9,Yes
+EMP28653,2025-02-13,Better Opportunity,40,Yes
+EMP28663,2025-04-13,End of Contract,16,Yes
+EMP28701,2025-04-24,End of Contract,22,Yes
+EMP28719,2025-01-12,Salary Issues,19,No
+EMP28762,2024-07-05,Salary Issues,26,No
+EMP28774,2023-01-16,Better Opportunity,44,Yes
+EMP28825,2025-04-03,End of Contract,14,Yes
+EMP28828,2025-04-26,Work Conditions,10,No
+EMP28831,2024-11-22,Better Opportunity,45,Yes
+EMP28833,2025-02-06,Work Conditions,22,No
+EMP28835,2025-11-02,End of Contract,3,Yes
+EMP28842,2024-10-05,Family Reasons,38,Yes
+EMP28844,2025-08-18,End of Contract,4,Yes
+EMP28857,2024-11-26,Better Opportunity,16,Yes
+EMP28870,2025-07-10,Better Opportunity,11,Yes
+EMP28874,2025-06-25,Better Opportunity,8,Yes
+EMP28879,2024-03-27,Family Reasons,24,Yes
+EMP28881,2024-05-03,Better Opportunity,19,Yes
+EMP28890,2024-05-05,End of Contract,26,Yes
+EMP28891,2023-11-25,Family Reasons,26,Yes
+EMP28901,2025-02-11,Family Reasons,31,Yes
+EMP28963,2024-08-21,End of Contract,17,Yes
+EMP28964,2024-10-11,Health Issues,18,No
+EMP28974,2025-04-20,End of Contract,9,Yes
+EMP28985,2023-12-17,Salary Issues,33,No
+EMP29012,2025-08-07,Better Opportunity,5,Yes
+EMP29013,2025-04-13,End of Contract,23,Yes
+EMP29031,2024-07-06,Family Reasons,46,Yes
+EMP29044,2025-03-28,Better Opportunity,17,Yes
+EMP29050,2023-11-23,Better Opportunity,28,Yes
+EMP29057,2023-09-30,Family Reasons,26,Yes
+EMP29082,2025-09-19,Health Issues,3,No
+EMP29094,2025-09-14,Family Reasons,4,Yes
+EMP29108,2025-07-31,Better Opportunity,7,Yes
+EMP29109,2025-07-03,Better Opportunity,9,Yes
+EMP29116,2024-08-22,End of Contract,18,Yes
+EMP29132,2025-08-03,End of Contract,6,Yes
+EMP29151,2024-02-09,Better Opportunity,30,Yes
+EMP29157,2025-10-03,End of Contract,11,Yes
+EMP29165,2025-10-10,Better Opportunity,21,Yes
+EMP29174,2025-03-16,Better Opportunity,19,Yes
+EMP29198,2025-08-17,Better Opportunity,9,Yes
+EMP29211,2025-05-03,Better Opportunity,14,Yes
+EMP29266,2023-04-18,Work Conditions,42,No
+EMP29293,2025-03-23,End of Contract,34,Yes
+EMP29307,2024-07-03,Family Reasons,44,Yes
+EMP29314,2024-12-05,Terminated,17,No
+EMP29369,2025-03-28,End of Contract,20,Yes
+EMP29398,2025-06-07,Salary Issues,15,No
+EMP29409,2025-09-22,Better Opportunity,30,Yes
+EMP29412,2024-11-30,Better Opportunity,17,Yes
+EMP29449,2025-03-12,End of Contract,12,Yes
+EMP29462,2025-05-24,End of Contract,45,Yes
+EMP29465,2025-10-31,Salary Issues,4,No
+EMP29466,2024-05-09,Better Opportunity,37,Yes
+EMP29475,2025-07-04,Salary Issues,9,No
+EMP29476,2025-07-14,End of Contract,17,Yes
+EMP29509,2025-01-31,Family Reasons,14,Yes
+EMP29513,2025-02-01,Better Opportunity,16,Yes
+EMP29519,2023-12-28,Better Opportunity,40,Yes
+EMP29521,2025-10-15,Health Issues,5,No
+EMP29525,2023-10-07,End of Contract,29,Yes
+EMP29556,2025-10-13,End of Contract,6,Yes
+EMP29575,2025-04-17,Better Opportunity,42,Yes
+EMP29579,2023-07-03,Better Opportunity,37,Yes
+EMP29580,2025-10-23,Family Reasons,3,Yes
+EMP29595,2025-07-28,End of Contract,5,Yes
+EMP29644,2025-04-28,End of Contract,41,Yes
+EMP29653,2025-07-22,End of Contract,21,Yes
+EMP29655,2025-10-05,End of Contract,4,Yes
+EMP29656,2022-12-09,Work Conditions,42,No
+EMP29680,2025-10-19,End of Contract,25,Yes
+EMP29697,2024-11-16,Better Opportunity,19,Yes
+EMP29705,2025-09-26,Better Opportunity,3,Yes
+EMP29709,2024-11-17,Better Opportunity,21,Yes
+EMP29731,2025-10-17,Better Opportunity,33,Yes
+EMP29734,2025-03-26,End of Contract,29,Yes
+EMP29744,2025-06-11,Better Opportunity,40,Yes
+EMP29752,2025-07-19,Better Opportunity,20,Yes
+EMP29772,2025-10-14,End of Contract,5,Yes
+EMP29778,2025-08-30,Better Opportunity,14,Yes
+EMP29818,2025-03-04,Work Conditions,31,No
+EMP29823,2025-04-20,Better Opportunity,10,Yes
+EMP29830,2023-10-16,Better Opportunity,40,Yes
+EMP29871,2025-05-04,Salary Issues,22,No
+EMP29872,2024-08-12,Better Opportunity,28,Yes
+EMP29876,2025-01-22,Better Opportunity,19,Yes
+EMP29881,2023-11-26,End of Contract,41,Yes
+EMP29886,2024-09-12,Family Reasons,40,Yes
+EMP29900,2025-07-11,Work Conditions,13,No
+EMP29904,2025-07-03,Better Opportunity,5,Yes
+EMP29914,2025-07-11,End of Contract,17,Yes
+EMP29925,2025-10-15,End of Contract,7,Yes
+EMP29937,2025-07-09,Better Opportunity,7,Yes
+EMP29939,2025-10-25,Better Opportunity,3,Yes
+EMP29949,2024-11-25,Salary Issues,39,No
+EMP29962,2025-10-08,End of Contract,5,Yes
+EMP29963,2024-08-09,End of Contract,39,Yes
+EMP29976,2025-01-28,Family Reasons,24,Yes
+EMP29983,2024-06-14,Better Opportunity,21,Yes
+EMP29993,2024-07-19,Better Opportunity,25,Yes
+EMP30023,2025-06-13,End of Contract,44,Yes
+EMP30026,2023-01-17,Better Opportunity,36,Yes
+EMP30048,2025-09-26,End of Contract,3,Yes
+EMP30054,2025-09-10,Better Opportunity,28,Yes
+EMP30068,2023-01-30,Better Opportunity,43,Yes
+EMP30079,2025-03-02,Terminated,33,No
+EMP30083,2023-03-31,Family Reasons,44,Yes
+EMP30114,2023-04-12,Better Opportunity,37,Yes
+EMP30116,2025-09-20,End of Contract,14,Yes
+EMP30123,2023-02-02,Better Opportunity,39,Yes
+EMP30139,2025-04-25,Family Reasons,21,Yes
+EMP30162,2025-07-27,Salary Issues,26,No
+EMP30175,2022-11-03,End of Contract,40,Yes
+EMP30201,2025-11-10,End of Contract,40,Yes
+EMP30211,2023-12-02,Salary Issues,42,No
+EMP30212,2023-09-20,End of Contract,37,Yes
+EMP30216,2025-07-18,Family Reasons,31,Yes
+EMP30251,2023-07-10,End of Contract,35,Yes
+EMP30278,2024-12-18,End of Contract,20,Yes
+EMP30280,2024-06-06,Family Reasons,39,Yes
+EMP30298,2025-09-08,End of Contract,37,Yes
+EMP30303,2025-11-02,Terminated,5,No
+EMP30319,2024-12-18,Terminated,47,No
+EMP30327,2024-04-25,Better Opportunity,25,Yes
+EMP30331,2022-05-16,End of Contract,45,Yes
+EMP30336,2025-01-30,End of Contract,28,Yes
+EMP30365,2025-09-04,Health Issues,5,No
+EMP30368,2024-12-11,Better Opportunity,18,Yes
+EMP30382,2025-08-18,Better Opportunity,45,Yes
+EMP30401,2022-10-20,Better Opportunity,39,Yes
+EMP30412,2025-06-21,End of Contract,22,Yes
+EMP30414,2024-06-04,End of Contract,42,Yes
+EMP30449,2025-01-03,Family Reasons,18,Yes
+EMP30458,2025-03-30,Work Conditions,25,No
+EMP30471,2024-01-15,Better Opportunity,37,Yes
+EMP30475,2024-05-14,Salary Issues,29,No
+EMP30477,2024-10-19,Salary Issues,18,No
+EMP30482,2024-07-03,Better Opportunity,26,Yes
+EMP30517,2025-10-01,Better Opportunity,3,Yes
+EMP30558,2023-07-16,Better Opportunity,29,Yes
+EMP30559,2025-04-04,Better Opportunity,19,Yes
+EMP30574,2025-10-03,Terminated,3,No
+EMP30579,2023-04-27,Better Opportunity,36,Yes
+EMP30611,2023-12-27,Better Opportunity,43,Yes
+EMP30630,2022-10-22,Health Issues,42,No
+EMP30632,2025-02-14,Salary Issues,14,No
+EMP30654,2024-05-02,End of Contract,26,Yes
+EMP30670,2024-09-03,Better Opportunity,29,Yes
+EMP30676,2023-12-18,End of Contract,34,Yes
+EMP30696,2025-10-27,Better Opportunity,38,Yes
+EMP30708,2025-09-10,Family Reasons,37,Yes
+EMP30724,2024-05-22,Health Issues,22,No
+EMP30764,2025-02-27,Better Opportunity,16,Yes
+EMP30766,2025-10-29,Family Reasons,44,Yes
+EMP30772,2025-08-04,Better Opportunity,30,Yes
+EMP30776,2025-08-18,Work Conditions,18,No
+EMP30797,2025-05-25,End of Contract,31,Yes
+EMP30806,2024-09-20,End of Contract,17,Yes
+EMP30813,2025-03-12,Salary Issues,12,No
+EMP30853,2024-09-25,Better Opportunity,23,Yes
+EMP30863,2024-06-06,Family Reasons,23,Yes
+EMP30883,2024-12-24,Better Opportunity,27,Yes
+EMP30904,2023-04-11,Better Opportunity,33,Yes
+EMP30905,2025-08-04,End of Contract,23,Yes
+EMP30917,2023-10-08,Better Opportunity,46,Yes
+EMP30923,2025-09-20,Work Conditions,29,No
+EMP30947,2024-08-17,Better Opportunity,19,Yes
+EMP30948,2024-03-12,End of Contract,30,Yes
+EMP30953,2025-03-03,Salary Issues,34,No
+EMP30968,2024-08-06,Work Conditions,40,No
+EMP30982,2024-08-28,Salary Issues,16,No
+EMP31029,2022-11-01,Family Reasons,43,Yes
+EMP31043,2025-10-10,Better Opportunity,13,Yes
+EMP31048,2025-08-30,Better Opportunity,11,Yes
+EMP31073,2025-05-12,Salary Issues,27,No
+EMP31074,2024-08-25,Salary Issues,27,No
+EMP31077,2025-10-19,Better Opportunity,6,Yes
+EMP31079,2022-12-29,Salary Issues,45,No
+EMP31084,2025-03-28,Better Opportunity,11,Yes
+EMP31086,2025-07-22,Family Reasons,25,Yes
+EMP31091,2024-07-02,Salary Issues,27,No
+EMP31125,2025-06-09,Work Conditions,37,No
+EMP31129,2025-02-27,Better Opportunity,11,Yes
+EMP31135,2024-03-05,Better Opportunity,36,Yes
+EMP31148,2024-06-07,Better Opportunity,31,Yes
+EMP31150,2024-12-03,Family Reasons,15,Yes
+EMP31172,2025-09-04,Better Opportunity,16,Yes
+EMP31181,2024-06-25,Better Opportunity,41,Yes
+EMP31189,2025-04-05,Better Opportunity,15,Yes
+EMP31208,2023-12-05,Family Reasons,36,Yes
+EMP31217,2025-05-07,Better Opportunity,16,Yes
+EMP31219,2025-07-11,Salary Issues,20,No
+EMP31220,2023-06-27,Salary Issues,39,No
+EMP31223,2025-10-11,Better Opportunity,36,Yes
+EMP31244,2023-06-29,End of Contract,32,Yes
+EMP31251,2024-10-16,Family Reasons,43,Yes
+EMP31254,2024-12-08,End of Contract,20,Yes
+EMP31273,2024-12-13,Family Reasons,13,Yes
+EMP31295,2025-05-26,Family Reasons,7,Yes
+EMP31306,2025-02-01,Better Opportunity,24,Yes
+EMP31308,2024-07-06,Better Opportunity,21,Yes
+EMP31314,2025-10-14,Family Reasons,4,Yes
+EMP31321,2025-05-13,End of Contract,30,Yes
+EMP31339,2024-07-07,End of Contract,40,Yes
+EMP31352,2025-08-22,Salary Issues,5,No
+EMP31355,2024-01-21,End of Contract,43,Yes
+EMP31358,2025-09-07,Work Conditions,19,No
+EMP31365,2025-09-30,Better Opportunity,38,Yes
+EMP31368,2024-02-13,Better Opportunity,36,Yes
+EMP31383,2025-10-25,Better Opportunity,6,Yes
+EMP31388,2025-07-16,End of Contract,5,Yes
+EMP31391,2025-01-06,End of Contract,26,Yes
+EMP31414,2024-07-13,Better Opportunity,36,Yes
+EMP31423,2025-08-13,Work Conditions,6,No
+EMP31433,2025-05-15,Better Opportunity,19,Yes
+EMP31450,2023-05-18,Better Opportunity,34,Yes
+EMP31475,2024-12-16,Work Conditions,24,No
+EMP31478,2025-04-02,Better Opportunity,13,Yes
+EMP31482,2025-11-12,Family Reasons,3,Yes
+EMP31487,2025-05-06,Work Conditions,31,No
+EMP31493,2022-10-01,Salary Issues,41,No
+EMP31506,2025-11-15,End of Contract,3,Yes
+EMP31517,2023-11-30,Better Opportunity,40,Yes
+EMP31531,2025-01-27,Better Opportunity,41,Yes
+EMP31533,2025-05-07,Better Opportunity,9,Yes
+EMP31537,2025-04-28,Work Conditions,33,No
+EMP31561,2025-06-21,End of Contract,24,Yes
+EMP31563,2024-10-25,Better Opportunity,24,Yes
+EMP31564,2025-09-15,Work Conditions,42,No
+EMP31572,2023-12-13,End of Contract,28,Yes
+EMP31583,2024-06-25,Work Conditions,19,No
+EMP31608,2025-08-08,Better Opportunity,7,Yes
+EMP31611,2024-09-18,Terminated,23,No
+EMP31618,2025-08-23,End of Contract,13,Yes
+EMP31633,2022-07-09,Better Opportunity,44,Yes
+EMP31646,2025-10-24,Salary Issues,10,No
+EMP31653,2025-10-13,End of Contract,19,Yes
+EMP31658,2025-10-31,Better Opportunity,5,Yes
+EMP31664,2025-02-03,Health Issues,13,No
+EMP31729,2025-08-17,End of Contract,24,Yes
+EMP31739,2024-07-15,Salary Issues,39,No
+EMP31743,2023-12-21,Better Opportunity,33,Yes
+EMP31747,2023-10-29,Better Opportunity,43,Yes
+EMP31760,2023-06-26,End of Contract,46,Yes
+EMP31779,2024-08-14,End of Contract,31,Yes
+EMP31781,2025-04-03,End of Contract,14,Yes
+EMP31803,2023-12-19,Better Opportunity,33,Yes
+EMP31814,2025-08-28,Terminated,10,No
+EMP31831,2023-03-24,Family Reasons,36,Yes
+EMP31845,2025-09-07,Better Opportunity,10,Yes
+EMP31851,2025-09-28,End of Contract,28,Yes
+EMP31870,2024-07-24,Salary Issues,24,No
+EMP31871,2023-10-28,End of Contract,29,Yes
+EMP31880,2023-06-08,Better Opportunity,31,Yes
+EMP31882,2024-03-02,End of Contract,31,Yes
+EMP31885,2024-08-15,Work Conditions,18,No
+EMP31918,2022-12-10,Work Conditions,37,No
+EMP31924,2024-05-08,End of Contract,36,Yes
+EMP31932,2023-07-10,Better Opportunity,45,Yes
+EMP31942,2025-03-01,Better Opportunity,22,Yes
+EMP31991,2025-03-18,Better Opportunity,19,Yes
+EMP32076,2023-07-09,Better Opportunity,44,Yes
+EMP32099,2022-09-20,Family Reasons,46,Yes
+EMP32117,2024-11-03,Better Opportunity,28,Yes
+EMP32123,2025-05-14,Family Reasons,8,Yes
+EMP32147,2025-10-07,Family Reasons,19,Yes
+EMP32155,2025-08-31,Better Opportunity,18,Yes
+EMP32157,2024-04-14,Family Reasons,28,Yes
+EMP32161,2025-01-17,Better Opportunity,17,Yes
+EMP32191,2025-09-26,End of Contract,5,Yes
+EMP32204,2025-05-26,Better Opportunity,12,Yes
+EMP32229,2024-05-08,Better Opportunity,29,Yes
+EMP32243,2024-06-30,Salary Issues,40,No
+EMP32244,2025-08-06,Better Opportunity,6,Yes
+EMP32250,2023-04-24,Work Conditions,44,No
+EMP32251,2024-01-12,Salary Issues,26,No
+EMP32265,2025-03-29,Work Conditions,31,No
+EMP32274,2024-12-22,Better Opportunity,41,Yes
+EMP32275,2023-12-22,Work Conditions,33,No
+EMP32281,2025-07-05,Salary Issues,23,No
+EMP32284,2023-12-04,End of Contract,39,Yes
+EMP32300,2025-05-05,End of Contract,9,Yes
+EMP32319,2025-03-14,Better Opportunity,18,Yes
+EMP32331,2025-11-07,Family Reasons,3,Yes
+EMP32336,2025-01-14,Better Opportunity,11,Yes
+EMP32346,2024-01-31,End of Contract,30,Yes
+EMP32362,2023-03-27,Family Reasons,39,Yes
+EMP32364,2025-03-17,Family Reasons,32,Yes
+EMP32378,2025-05-29,End of Contract,28,Yes
+EMP32384,2024-09-30,Better Opportunity,18,Yes
+EMP32389,2025-05-22,Terminated,21,No
+EMP32407,2025-08-23,Family Reasons,30,Yes
+EMP32409,2024-11-21,Family Reasons,14,Yes
+EMP32410,2025-05-23,Health Issues,10,No
+EMP32429,2025-10-23,End of Contract,9,Yes
+EMP32445,2024-12-04,End of Contract,23,Yes
+EMP32457,2025-04-20,Salary Issues,44,No
+EMP32470,2025-10-18,Better Opportunity,14,Yes
+EMP32501,2025-03-20,Better Opportunity,31,Yes
+EMP32503,2025-10-28,Better Opportunity,9,Yes
+EMP32516,2023-07-09,Salary Issues,41,No
+EMP32518,2025-09-17,Salary Issues,4,No
+EMP32586,2024-04-27,Health Issues,22,No
+EMP32615,2024-06-22,Better Opportunity,29,Yes
+EMP32618,2025-02-01,Family Reasons,43,Yes
+EMP32628,2025-11-13,Better Opportunity,6,Yes
+EMP32637,2025-04-09,End of Contract,31,Yes
+EMP32653,2025-07-27,Family Reasons,8,Yes
+EMP32668,2025-08-16,Better Opportunity,41,Yes
+EMP32671,2025-08-21,Family Reasons,4,Yes
+EMP32684,2024-04-29,Better Opportunity,35,Yes
+EMP32700,2024-11-26,Work Conditions,36,No
+EMP32718,2025-08-14,Salary Issues,23,No
+EMP32733,2025-06-15,Better Opportunity,40,Yes
+EMP32746,2025-04-22,Salary Issues,14,No
+EMP32755,2025-02-26,Better Opportunity,13,Yes
+EMP32769,2025-10-14,Family Reasons,13,Yes
+EMP32784,2025-03-22,End of Contract,9,Yes
+EMP32791,2024-12-09,End of Contract,16,Yes
+EMP32830,2025-07-30,Salary Issues,24,No
+EMP32836,2023-07-27,Family Reasons,41,Yes
+EMP32837,2025-08-01,Family Reasons,8,Yes
+EMP32847,2025-06-07,Better Opportunity,29,Yes
+EMP32870,2025-09-13,Work Conditions,37,No
+EMP32879,2024-08-04,Terminated,22,No
+EMP32880,2025-07-20,End of Contract,8,Yes
+EMP32890,2023-12-08,End of Contract,42,Yes
+EMP32897,2025-04-01,Work Conditions,35,No
+EMP32926,2025-08-23,Salary Issues,8,No
+EMP32943,2025-04-26,Terminated,37,No
+EMP32946,2025-06-03,Salary Issues,10,No
+EMP32949,2024-07-17,End of Contract,37,Yes
+EMP32956,2025-07-05,End of Contract,31,Yes
+EMP32962,2024-12-04,End of Contract,25,Yes
+EMP32985,2025-08-25,Family Reasons,10,Yes
+EMP33008,2025-08-10,Work Conditions,4,No
+EMP33012,2023-03-10,Terminated,36,No
+EMP33016,2024-05-19,Better Opportunity,20,Yes
+EMP33023,2025-01-23,Better Opportunity,18,Yes
+EMP33051,2025-05-11,Salary Issues,10,No
+EMP33057,2025-10-28,Family Reasons,9,Yes
+EMP33094,2025-07-03,Better Opportunity,19,Yes
+EMP33099,2025-03-06,Better Opportunity,40,Yes
+EMP33103,2024-05-08,End of Contract,37,Yes
+EMP33110,2025-10-09,Family Reasons,4,Yes
+EMP33120,2024-02-16,Better Opportunity,26,Yes
+EMP33123,2025-03-02,Better Opportunity,17,Yes
+EMP33139,2024-07-04,Better Opportunity,20,Yes
+EMP33140,2025-06-17,End of Contract,13,Yes
+EMP33141,2025-07-16,Better Opportunity,8,Yes
+EMP33167,2024-05-23,Family Reasons,43,Yes
+EMP33172,2025-10-25,Family Reasons,27,Yes
+EMP33178,2025-07-12,Better Opportunity,8,Yes
+EMP33192,2024-11-07,Better Opportunity,32,Yes
+EMP33206,2022-10-25,Better Opportunity,40,Yes
+EMP33238,2025-08-26,Better Opportunity,33,Yes
+EMP33250,2023-03-03,End of Contract,43,Yes
+EMP33253,2025-01-03,Family Reasons,24,Yes
+EMP33260,2024-07-27,End of Contract,32,Yes
+EMP33273,2024-06-15,Terminated,33,No
+EMP33278,2024-09-16,Better Opportunity,31,Yes
+EMP33282,2024-12-25,End of Contract,23,Yes
+EMP33283,2025-07-05,End of Contract,5,Yes
+EMP33302,2025-05-04,Salary Issues,10,No
+EMP33305,2025-11-13,Family Reasons,10,Yes
+EMP33328,2023-06-26,End of Contract,41,Yes
+EMP33340,2025-03-15,Better Opportunity,31,Yes
+EMP33357,2025-06-15,Better Opportunity,12,Yes
+EMP33364,2024-11-29,End of Contract,41,Yes
+EMP33416,2024-08-06,Family Reasons,23,Yes
+EMP33452,2023-10-31,End of Contract,34,Yes
+EMP33460,2023-10-02,Better Opportunity,33,Yes
+EMP33470,2025-11-15,End of Contract,5,Yes
+EMP33475,2023-10-31,Salary Issues,28,No
+EMP33478,2024-01-19,End of Contract,42,Yes
+EMP33486,2024-11-07,Better Opportunity,24,Yes
+EMP33503,2025-06-01,Better Opportunity,9,Yes
+EMP33521,2025-06-19,Better Opportunity,20,Yes
+EMP33530,2022-05-11,End of Contract,46,Yes
+EMP33540,2025-04-16,Better Opportunity,11,Yes
+EMP33547,2024-10-28,Terminated,15,No
+EMP33554,2025-03-17,Better Opportunity,36,Yes
+EMP33555,2025-01-02,Salary Issues,14,No
+EMP33568,2024-12-05,Health Issues,13,No
+EMP33576,2024-02-06,End of Contract,39,Yes
+EMP33589,2025-07-08,Family Reasons,16,Yes
+EMP33591,2025-04-17,Better Opportunity,8,Yes
+EMP33623,2024-10-28,End of Contract,14,Yes
+EMP33626,2025-10-16,End of Contract,5,Yes
+EMP33629,2025-09-18,Family Reasons,8,Yes
+EMP33634,2025-11-10,End of Contract,10,Yes
+EMP33652,2024-05-18,End of Contract,32,Yes
+EMP33655,2023-12-23,End of Contract,35,Yes
+EMP33669,2025-06-29,End of Contract,34,Yes
+EMP33701,2025-04-03,Salary Issues,44,No
+EMP33708,2024-10-08,Better Opportunity,16,Yes
+EMP33721,2025-11-10,End of Contract,21,Yes
+EMP33743,2025-04-29,Better Opportunity,46,Yes
+EMP33746,2025-09-15,End of Contract,11,Yes
+EMP33753,2024-03-30,Better Opportunity,42,Yes
+EMP33757,2025-05-26,Salary Issues,26,No
+EMP33776,2025-10-03,Better Opportunity,43,Yes
+EMP33799,2025-03-06,Family Reasons,23,Yes
+EMP33804,2023-11-01,Family Reasons,42,Yes
+EMP33813,2024-09-09,Work Conditions,42,No
+EMP33842,2024-11-09,End of Contract,14,Yes
+EMP33859,2025-01-01,Better Opportunity,24,Yes
+EMP33867,2025-03-06,End of Contract,12,Yes
+EMP33883,2023-01-17,Work Conditions,38,No
+EMP33900,2024-06-09,Family Reasons,21,Yes
+EMP33915,2025-08-24,Family Reasons,33,Yes
+EMP33934,2025-09-12,Health Issues,3,No
+EMP33935,2023-11-23,Better Opportunity,30,Yes
+EMP33956,2025-01-01,Better Opportunity,28,Yes
+EMP33976,2025-07-09,Better Opportunity,15,Yes
+EMP33979,2024-09-14,Family Reasons,20,Yes
+EMP33983,2025-04-09,Better Opportunity,14,Yes
+EMP33985,2023-10-16,End of Contract,41,Yes
+EMP34003,2024-12-09,Better Opportunity,27,Yes
+EMP34014,2024-03-29,Better Opportunity,46,Yes
+EMP34019,2025-08-12,Salary Issues,4,No
+EMP34026,2023-12-18,Better Opportunity,25,Yes
+EMP34029,2024-07-23,Better Opportunity,29,Yes
+EMP34035,2023-12-10,Better Opportunity,30,Yes
+EMP34075,2024-05-11,Better Opportunity,28,Yes
+EMP34113,2024-10-16,End of Contract,16,Yes
+EMP34115,2025-08-27,Better Opportunity,13,Yes
+EMP34143,2024-07-17,End of Contract,32,Yes
+EMP34151,2022-04-14,Better Opportunity,45,Yes
+EMP34159,2025-07-13,End of Contract,29,Yes
+EMP34164,2023-07-28,Better Opportunity,32,Yes
+EMP34177,2022-08-20,Family Reasons,42,Yes
+EMP34193,2025-06-07,Family Reasons,14,Yes
+EMP34196,2025-10-30,Family Reasons,31,Yes
+EMP34198,2025-07-19,Health Issues,8,No
+EMP34202,2025-11-03,End of Contract,11,Yes
+EMP34208,2025-09-22,End of Contract,36,Yes
+EMP34247,2025-10-25,End of Contract,36,Yes
+EMP34250,2024-10-21,Better Opportunity,23,Yes
+EMP34254,2023-05-22,Work Conditions,36,No
+EMP34271,2025-07-27,Better Opportunity,10,Yes
+EMP34326,2025-07-29,Better Opportunity,46,Yes
+EMP34329,2024-02-23,Salary Issues,22,No
+EMP34338,2025-08-22,Family Reasons,38,Yes
+EMP34345,2024-09-03,End of Contract,20,Yes
+EMP34378,2025-10-13,Family Reasons,8,Yes
+EMP34382,2025-08-30,Work Conditions,41,No
+EMP34384,2025-04-12,End of Contract,16,Yes
+EMP34386,2025-11-05,Better Opportunity,35,Yes
+EMP34406,2024-01-21,Better Opportunity,45,Yes
+EMP34407,2024-10-31,Family Reasons,39,Yes
+EMP34414,2025-03-21,Work Conditions,36,No
+EMP34415,2025-01-21,Better Opportunity,24,Yes
+EMP34424,2025-08-08,End of Contract,13,Yes
+EMP34440,2025-10-11,Better Opportunity,13,Yes
+EMP34445,2023-04-21,End of Contract,38,Yes
+EMP34450,2024-10-08,Salary Issues,32,No
+EMP34451,2025-09-20,Salary Issues,39,No
+EMP34465,2025-09-25,Better Opportunity,29,Yes
+EMP34476,2023-09-22,Better Opportunity,44,Yes
+EMP34495,2025-06-02,Better Opportunity,7,Yes
+EMP34508,2023-02-01,Better Opportunity,37,Yes
+EMP34510,2025-09-28,End of Contract,3,Yes
+EMP34519,2025-03-22,Work Conditions,13,No
+EMP34554,2023-07-17,Work Conditions,41,No
+EMP34555,2024-05-11,Better Opportunity,29,Yes
+EMP34564,2025-03-11,Terminated,22,No
+EMP34577,2024-12-11,Better Opportunity,43,Yes
+EMP34588,2025-08-31,Better Opportunity,4,Yes
+EMP34640,2023-12-06,Better Opportunity,42,Yes
+EMP34644,2025-10-06,Family Reasons,35,Yes
+EMP34656,2023-07-02,Better Opportunity,34,Yes
+EMP34664,2025-10-31,Work Conditions,4,No
+EMP34671,2025-07-12,Family Reasons,15,Yes
+EMP34680,2024-12-03,End of Contract,26,Yes
+EMP34705,2025-08-16,Better Opportunity,25,Yes
+EMP34711,2024-12-27,End of Contract,15,Yes
+EMP34719,2024-12-17,End of Contract,38,Yes
+EMP34721,2023-05-10,Family Reasons,38,Yes
+EMP34733,2024-12-21,Salary Issues,46,No
+EMP34741,2024-10-30,Family Reasons,33,Yes
+EMP34758,2025-03-31,Better Opportunity,33,Yes
+EMP34761,2023-12-13,Better Opportunity,26,Yes
+EMP34768,2025-08-20,End of Contract,7,Yes
+EMP34771,2024-12-25,End of Contract,17,Yes
+EMP34779,2024-04-28,End of Contract,44,Yes
+EMP34796,2024-07-27,End of Contract,33,Yes
+EMP34803,2025-06-11,Better Opportunity,31,Yes
+EMP34844,2025-01-05,Better Opportunity,25,Yes
+EMP34864,2025-10-04,Work Conditions,6,No
+EMP34875,2024-08-23,Better Opportunity,31,Yes
+EMP34877,2025-04-08,Better Opportunity,21,Yes
+EMP34894,2024-06-13,Salary Issues,26,No
+EMP34902,2025-05-09,End of Contract,25,Yes
+EMP34914,2025-07-12,Better Opportunity,10,Yes
+EMP34915,2025-04-30,End of Contract,39,Yes
+EMP34925,2024-01-16,Family Reasons,38,Yes
+EMP34938,2024-10-10,Family Reasons,26,Yes
+EMP34961,2025-04-22,Better Opportunity,20,Yes
+EMP34990,2025-08-25,End of Contract,11,Yes
+EMP35000,2025-11-08,End of Contract,32,Yes
+EMP35011,2024-06-24,Better Opportunity,26,Yes
+EMP35017,2024-12-27,End of Contract,46,Yes
+EMP35021,2025-08-04,Better Opportunity,14,Yes
+EMP35029,2025-06-10,Better Opportunity,9,Yes
+EMP35048,2025-07-02,Family Reasons,7,Yes
+EMP35051,2024-12-22,Salary Issues,30,No
+EMP35057,2023-05-23,Better Opportunity,43,Yes
+EMP35061,2025-06-12,Salary Issues,10,No
+EMP35065,2025-10-09,Family Reasons,9,Yes
+EMP35075,2022-10-06,Work Conditions,43,No
+EMP35093,2023-02-02,Family Reasons,41,Yes
+EMP35116,2022-11-02,End of Contract,38,Yes
+EMP35125,2025-07-08,Better Opportunity,22,Yes
+EMP35127,2024-09-19,End of Contract,35,Yes
+EMP35151,2025-07-02,Better Opportunity,26,Yes
+EMP35162,2024-01-07,Better Opportunity,40,Yes
+EMP35175,2024-04-29,Better Opportunity,23,Yes
+EMP35228,2025-07-05,Family Reasons,27,Yes
+EMP35244,2025-07-24,Salary Issues,5,No
+EMP35246,2025-08-21,Salary Issues,9,No
+EMP35257,2025-01-16,Better Opportunity,12,Yes
+EMP35258,2023-06-14,Better Opportunity,39,Yes
+EMP35260,2024-12-27,Family Reasons,12,Yes
+EMP35265,2024-03-21,End of Contract,27,Yes
+EMP35275,2025-09-01,Better Opportunity,6,Yes
+EMP35293,2024-08-18,Family Reasons,44,Yes
+EMP35313,2025-09-07,End of Contract,4,Yes
+EMP35320,2025-08-21,Work Conditions,20,No
+EMP35333,2025-06-26,Work Conditions,14,No
+EMP35335,2025-06-19,Health Issues,10,No
+EMP35340,2024-12-26,Family Reasons,13,Yes
+EMP35357,2025-05-15,End of Contract,45,Yes
+EMP35374,2025-01-08,Better Opportunity,16,Yes
+EMP35381,2025-09-20,Better Opportunity,4,Yes
+EMP35418,2024-07-24,Better Opportunity,17,Yes
+EMP35421,2025-09-19,Terminated,13,No
+EMP35440,2024-02-12,Work Conditions,41,No
+EMP35444,2024-12-16,Better Opportunity,14,Yes
+EMP35454,2025-10-22,Better Opportunity,12,Yes
+EMP35455,2025-10-22,Work Conditions,5,No
+EMP35461,2023-08-14,Family Reasons,28,Yes
+EMP35475,2023-10-20,Health Issues,38,No
+EMP35497,2024-10-23,Better Opportunity,42,Yes
+EMP35504,2023-02-01,Better Opportunity,38,Yes
+EMP35511,2025-08-27,End of Contract,36,Yes
+EMP35530,2023-11-13,Better Opportunity,33,Yes
+EMP35548,2022-06-05,Better Opportunity,44,Yes
+EMP35553,2025-06-15,Family Reasons,7,Yes
+EMP35555,2025-05-13,Better Opportunity,9,Yes
+EMP35585,2024-11-20,Better Opportunity,27,Yes
+EMP35607,2024-09-14,Work Conditions,33,No
+EMP35616,2025-09-01,Better Opportunity,4,Yes
+EMP35634,2023-07-23,Salary Issues,37,No
+EMP35650,2024-01-29,Family Reasons,30,Yes
+EMP35652,2025-05-08,End of Contract,27,Yes
+EMP35668,2025-04-08,Better Opportunity,14,Yes
+EMP35700,2024-03-06,Better Opportunity,25,Yes
+EMP35702,2024-05-16,Salary Issues,19,No
+EMP35703,2025-07-24,Work Conditions,6,No
+EMP35706,2025-09-11,Health Issues,16,No
+EMP35719,2025-07-26,End of Contract,7,Yes
+EMP35762,2022-04-14,Salary Issues,46,No
+EMP35763,2024-12-21,Salary Issues,37,No
+EMP35765,2025-08-12,End of Contract,23,Yes
+EMP35787,2025-08-23,Family Reasons,4,Yes
+EMP35802,2025-05-15,Health Issues,39,No
+EMP35805,2024-06-18,Health Issues,46,No
+EMP35834,2025-06-05,Better Opportunity,40,Yes
+EMP35849,2025-03-11,Salary Issues,30,No
+EMP35851,2025-10-30,End of Contract,9,Yes
+EMP35853,2024-04-09,Better Opportunity,38,Yes
+EMP35857,2025-07-29,Better Opportunity,37,Yes
+EMP35862,2025-07-24,End of Contract,25,Yes
+EMP35868,2025-04-29,Salary Issues,12,No
+EMP35881,2025-06-03,Family Reasons,19,Yes
+EMP35902,2023-09-11,Salary Issues,44,No
+EMP35904,2025-08-22,End of Contract,5,Yes
+EMP35909,2024-09-03,Family Reasons,41,Yes
+EMP35923,2023-11-01,Family Reasons,33,Yes
+EMP35931,2025-08-16,End of Contract,6,Yes
+EMP35941,2024-02-20,End of Contract,30,Yes
+EMP35968,2024-06-10,Better Opportunity,42,Yes
+EMP36001,2025-11-13,Better Opportunity,14,Yes
+EMP36011,2024-10-19,End of Contract,24,Yes
+EMP36032,2025-03-04,Better Opportunity,25,Yes
+EMP36038,2024-02-23,Terminated,30,No
+EMP36046,2025-05-10,Health Issues,15,No
+EMP36091,2025-08-30,Salary Issues,31,No
+EMP36093,2025-01-21,End of Contract,24,Yes
+EMP36098,2025-01-17,Family Reasons,23,Yes
+EMP36104,2025-10-29,Better Opportunity,27,Yes
+EMP36107,2025-06-11,Work Conditions,14,No
+EMP36117,2023-02-21,Salary Issues,42,No
+EMP36152,2024-09-12,Family Reasons,26,Yes
+EMP36157,2024-06-22,Better Opportunity,27,Yes
+EMP36164,2025-05-10,Better Opportunity,34,Yes
+EMP36175,2024-10-07,Salary Issues,36,No
+EMP36186,2025-08-07,Family Reasons,4,Yes
+EMP36204,2025-06-08,Better Opportunity,12,Yes
+EMP36216,2023-10-26,End of Contract,44,Yes
+EMP36218,2025-02-15,Better Opportunity,19,Yes
+EMP36224,2024-01-20,Better Opportunity,40,Yes
+EMP36235,2025-01-08,Work Conditions,33,No
+EMP36247,2024-04-19,Better Opportunity,21,Yes
+EMP36253,2023-12-01,Family Reasons,36,Yes
+EMP36268,2025-04-27,Family Reasons,18,Yes
+EMP36282,2025-07-30,Better Opportunity,8,Yes
+EMP36292,2024-04-15,Family Reasons,35,Yes
+EMP36306,2025-01-16,Terminated,14,No
+EMP36368,2025-03-27,Salary Issues,27,No
+EMP36375,2024-12-14,Salary Issues,24,No
+EMP36392,2024-12-06,End of Contract,22,Yes
+EMP36426,2025-07-04,Work Conditions,29,No
+EMP36480,2025-11-15,Better Opportunity,4,Yes
+EMP36481,2025-02-27,End of Contract,18,Yes
+EMP36483,2024-10-10,Better Opportunity,17,Yes
+EMP36509,2024-11-11,Health Issues,21,No
+EMP36514,2025-09-20,Terminated,25,No
+EMP36529,2025-09-27,Better Opportunity,7,Yes
+EMP36536,2025-06-08,Salary Issues,38,No
+EMP36553,2024-05-28,Family Reasons,46,Yes
+EMP36582,2025-10-24,Better Opportunity,43,Yes
+EMP36597,2025-07-04,End of Contract,34,Yes
+EMP36601,2025-01-17,Family Reasons,32,Yes
+EMP36620,2025-10-26,Better Opportunity,17,Yes
+EMP36624,2024-06-24,Salary Issues,20,No
+EMP36642,2025-04-25,Salary Issues,9,No
+EMP36652,2025-03-19,Family Reasons,41,Yes
+EMP36653,2023-03-20,Better Opportunity,35,Yes
+EMP36655,2024-12-16,End of Contract,14,Yes
+EMP36657,2024-04-24,Family Reasons,45,Yes
+EMP36668,2025-04-23,Salary Issues,24,No
+EMP36673,2022-07-28,Family Reasons,43,Yes
+EMP36677,2024-07-28,Work Conditions,22,No
+EMP36681,2025-03-27,End of Contract,40,Yes
+EMP36688,2024-10-17,End of Contract,29,Yes
+EMP36695,2025-05-27,Family Reasons,7,Yes
+EMP36741,2023-06-23,End of Contract,36,Yes
+EMP36748,2023-08-09,Family Reasons,38,Yes
+EMP36757,2025-10-21,End of Contract,5,Yes
+EMP36794,2024-12-27,Family Reasons,20,Yes
+EMP36816,2025-05-06,Family Reasons,46,Yes
+EMP36818,2025-08-18,Family Reasons,10,Yes
+EMP36825,2025-08-03,Better Opportunity,8,Yes
+EMP36831,2025-08-18,Salary Issues,30,No
+EMP36839,2024-12-30,Family Reasons,11,Yes
+EMP36840,2025-06-10,End of Contract,24,Yes
+EMP36867,2025-11-09,End of Contract,26,Yes
+EMP36893,2025-06-12,Family Reasons,13,Yes
+EMP36896,2025-06-11,Better Opportunity,13,Yes
+EMP36903,2025-10-29,Salary Issues,23,No
+EMP36906,2024-07-07,Better Opportunity,39,Yes
+EMP36918,2025-08-08,Better Opportunity,46,Yes
+EMP36922,2024-12-02,Better Opportunity,36,Yes
+EMP36926,2023-07-22,Work Conditions,30,No
+EMP36937,2024-07-31,End of Contract,35,Yes
+EMP36941,2024-11-20,Family Reasons,35,Yes
+EMP36948,2025-09-03,Family Reasons,4,Yes
+EMP36964,2025-01-01,Better Opportunity,20,Yes
+EMP36981,2025-03-07,Better Opportunity,11,Yes
+EMP36998,2025-06-29,Better Opportunity,33,Yes
+EMP37040,2025-05-09,Family Reasons,13,Yes
+EMP37071,2024-04-20,End of Contract,28,Yes
+EMP37087,2025-03-28,Better Opportunity,24,Yes
+EMP37091,2023-12-13,Salary Issues,38,No
+EMP37109,2025-03-20,Family Reasons,12,Yes
+EMP37137,2023-09-30,Work Conditions,44,No
+EMP37138,2025-08-16,Family Reasons,5,Yes
+EMP37140,2023-12-27,Better Opportunity,47,Yes
+EMP37143,2024-09-16,Better Opportunity,47,Yes
+EMP37152,2025-08-11,Better Opportunity,12,Yes
+EMP37162,2022-12-22,Family Reasons,40,Yes
+EMP37173,2024-08-12,Health Issues,32,No
+EMP37179,2025-09-13,Better Opportunity,16,Yes
+EMP37246,2023-05-31,Better Opportunity,44,Yes
+EMP37298,2025-11-08,Better Opportunity,21,Yes
+EMP37300,2025-08-06,End of Contract,29,Yes
+EMP37314,2024-04-07,End of Contract,28,Yes
+EMP37318,2023-06-28,Better Opportunity,35,Yes
+EMP37321,2025-09-10,Better Opportunity,26,Yes
+EMP37328,2025-07-13,Health Issues,19,No
+EMP37340,2022-07-09,Health Issues,46,No
+EMP37351,2024-12-27,Family Reasons,20,Yes
+EMP37385,2025-10-03,Better Opportunity,15,Yes
+EMP37409,2024-11-28,Family Reasons,22,Yes
+EMP37418,2024-12-18,Family Reasons,33,Yes
+EMP37423,2023-06-09,End of Contract,44,Yes
+EMP37446,2025-07-14,Work Conditions,16,No
+EMP37467,2025-07-19,Family Reasons,18,Yes
+EMP37490,2024-11-17,Salary Issues,22,No
+EMP37491,2024-05-22,Better Opportunity,35,Yes
+EMP37496,2023-06-12,End of Contract,35,Yes
+EMP37502,2024-04-17,Health Issues,21,No
+EMP37510,2025-06-30,End of Contract,20,Yes
+EMP37512,2025-10-08,Better Opportunity,13,Yes
+EMP37521,2025-10-11,Better Opportunity,10,Yes
+EMP37527,2025-09-23,Better Opportunity,20,Yes
+EMP37533,2025-03-07,Family Reasons,11,Yes
+EMP37556,2025-03-15,Salary Issues,26,No
+EMP37613,2025-09-03,Salary Issues,10,No
+EMP37617,2024-11-06,Better Opportunity,16,Yes
+EMP37649,2024-11-08,Better Opportunity,26,Yes
+EMP37651,2024-06-29,Salary Issues,32,No
+EMP37669,2023-03-16,End of Contract,43,Yes
+EMP37681,2025-10-09,Salary Issues,5,No
+EMP37730,2025-07-18,Work Conditions,31,No
+EMP37749,2025-10-04,Better Opportunity,21,Yes
+EMP37758,2024-06-11,Better Opportunity,30,Yes
+EMP37769,2025-09-08,End of Contract,7,Yes
+EMP37772,2024-11-04,Salary Issues,15,No
+EMP37807,2025-03-28,End of Contract,20,Yes
+EMP37846,2023-02-26,Salary Issues,43,No
+EMP37861,2025-03-11,Work Conditions,44,No
+EMP37864,2024-09-19,Family Reasons,23,Yes
+EMP37891,2025-01-01,Health Issues,45,No
+EMP37901,2024-08-06,Better Opportunity,22,Yes
+EMP37905,2025-10-28,Better Opportunity,26,Yes
+EMP37908,2025-07-20,Health Issues,18,No
+EMP37918,2025-10-14,End of Contract,44,Yes
+EMP37975,2024-04-06,Better Opportunity,36,Yes
+EMP37993,2025-10-25,End of Contract,10,Yes
+EMP38003,2024-06-23,Work Conditions,40,No
+EMP38004,2023-04-16,Better Opportunity,38,Yes
+EMP38009,2025-05-25,Family Reasons,8,Yes
+EMP38051,2024-06-15,End of Contract,25,Yes
+EMP38066,2025-09-30,Salary Issues,35,No
+EMP38079,2025-07-25,Family Reasons,15,Yes
+EMP38080,2023-01-24,Better Opportunity,43,Yes
+EMP38081,2024-05-30,Better Opportunity,23,Yes
+EMP38094,2023-09-18,End of Contract,47,Yes
+EMP38114,2025-05-30,Better Opportunity,16,Yes
+EMP38117,2025-10-12,Better Opportunity,41,Yes
+EMP38157,2025-08-10,Family Reasons,18,Yes
+EMP38158,2025-07-03,Salary Issues,10,No
+EMP38201,2023-03-14,Salary Issues,43,No
+EMP38221,2025-09-18,Better Opportunity,3,Yes
+EMP38229,2025-05-31,Family Reasons,26,Yes
+EMP38233,2025-02-02,Family Reasons,27,Yes
+EMP38234,2025-09-13,Better Opportunity,4,Yes
+EMP38262,2025-06-01,Better Opportunity,8,Yes
+EMP38264,2024-07-24,Salary Issues,22,No
+EMP38267,2024-05-14,Better Opportunity,20,Yes
+EMP38271,2024-12-31,Better Opportunity,16,Yes
+EMP38275,2024-06-03,End of Contract,21,Yes
+EMP38283,2022-09-28,Health Issues,40,No
+EMP38291,2025-07-11,Family Reasons,18,Yes
+EMP38292,2025-10-04,Better Opportunity,36,Yes
+EMP38334,2022-12-07,Health Issues,39,No
+EMP38340,2024-01-20,End of Contract,25,Yes
+EMP38344,2024-05-01,Family Reasons,20,Yes
+EMP38349,2025-09-06,Salary Issues,28,No
+EMP38351,2024-08-31,End of Contract,41,Yes
+EMP38355,2025-01-17,Family Reasons,15,Yes
+EMP38357,2025-09-18,End of Contract,5,Yes
+EMP38427,2025-10-02,Work Conditions,3,No
+EMP38437,2025-03-07,Work Conditions,15,No
+EMP38454,2024-07-13,End of Contract,19,Yes
+EMP38460,2024-02-06,End of Contract,34,Yes
+EMP38467,2025-09-05,Better Opportunity,17,Yes
+EMP38472,2025-08-11,Family Reasons,21,Yes
+EMP38488,2023-07-28,Family Reasons,36,Yes
+EMP38515,2025-08-11,Better Opportunity,24,Yes
+EMP38539,2025-06-06,Better Opportunity,40,Yes
+EMP38561,2025-08-20,Work Conditions,11,No
+EMP38568,2022-04-27,Work Conditions,46,No
+EMP38572,2023-01-01,End of Contract,40,Yes
+EMP38578,2025-05-14,Family Reasons,15,Yes
+EMP38602,2024-10-12,Better Opportunity,29,Yes
+EMP38614,2023-11-07,Work Conditions,29,No
+EMP38616,2025-10-16,Better Opportunity,8,Yes
+EMP38632,2025-04-07,Better Opportunity,31,Yes
+EMP38633,2025-04-02,Better Opportunity,46,Yes
+EMP38642,2024-11-30,Salary Issues,16,No
+EMP38643,2024-03-20,Better Opportunity,38,Yes
+EMP38644,2025-09-20,Better Opportunity,27,Yes
+EMP38661,2025-08-23,Better Opportunity,4,Yes
+EMP38670,2024-09-09,Work Conditions,17,No
+EMP38672,2025-05-16,End of Contract,12,Yes
+EMP38697,2024-07-04,Better Opportunity,26,Yes
+EMP38704,2025-07-10,Better Opportunity,5,Yes
+EMP38735,2025-04-12,Salary Issues,14,No
+EMP38762,2024-08-09,Salary Issues,44,No
+EMP38769,2023-12-13,Better Opportunity,32,Yes
+EMP38812,2025-03-07,End of Contract,31,Yes
+EMP38816,2025-07-18,Terminated,14,No
+EMP38827,2025-01-26,End of Contract,39,Yes
+EMP38833,2025-02-26,Salary Issues,24,No
+EMP38842,2025-10-02,Family Reasons,28,Yes
+EMP38872,2025-06-06,Family Reasons,37,Yes
+EMP38878,2024-03-09,Salary Issues,46,No
+EMP38880,2023-03-11,Family Reasons,41,Yes
+EMP38895,2024-09-21,Family Reasons,20,Yes
+EMP38903,2024-01-16,End of Contract,33,Yes
+EMP38914,2025-08-06,Work Conditions,4,No
+EMP38929,2023-09-07,Family Reasons,40,Yes
+EMP38946,2025-08-03,Salary Issues,9,No
+EMP38950,2024-08-31,Better Opportunity,22,Yes
+EMP38953,2024-11-01,Better Opportunity,32,Yes
+EMP38957,2024-10-11,Better Opportunity,21,Yes
+EMP38963,2025-09-20,End of Contract,3,Yes
+EMP38966,2025-02-17,Better Opportunity,14,Yes
+EMP38967,2025-10-15,Better Opportunity,3,Yes
+EMP38969,2024-10-06,Work Conditions,27,No
+EMP38971,2025-06-10,Salary Issues,6,No
+EMP38983,2025-07-25,End of Contract,26,Yes
+EMP39003,2025-05-11,End of Contract,26,Yes
+EMP39005,2025-04-12,Work Conditions,13,No
+EMP39007,2025-09-02,End of Contract,34,Yes
+EMP39010,2023-07-01,Salary Issues,31,No
+EMP39037,2025-09-13,Family Reasons,30,Yes
+EMP39053,2025-04-10,End of Contract,11,Yes
+EMP39056,2025-08-21,Better Opportunity,12,Yes
+EMP39059,2022-12-30,Work Conditions,43,No
+EMP39064,2025-05-01,Better Opportunity,12,Yes
+EMP39078,2025-10-19,Work Conditions,3,No
+EMP39079,2024-08-05,Better Opportunity,33,Yes
+EMP39130,2025-10-18,End of Contract,19,Yes
+EMP39143,2025-09-08,Better Opportunity,29,Yes
+EMP39153,2025-09-11,End of Contract,21,Yes
+EMP39159,2025-03-01,Family Reasons,25,Yes
+EMP39177,2023-03-09,End of Contract,35,Yes
+EMP39186,2024-11-04,Better Opportunity,14,Yes
+EMP39192,2025-09-29,Better Opportunity,10,Yes
+EMP39216,2025-03-14,Better Opportunity,46,Yes
+EMP39220,2023-01-27,Better Opportunity,38,Yes
+EMP39222,2023-06-24,Family Reasons,38,Yes
+EMP39232,2025-10-19,End of Contract,9,Yes
+EMP39234,2025-10-19,Better Opportunity,6,Yes
+EMP39249,2024-10-17,End of Contract,26,Yes
+EMP39253,2024-12-24,Salary Issues,36,No
+EMP39267,2025-08-27,Health Issues,26,No
+EMP39276,2023-11-24,End of Contract,42,Yes
+EMP39283,2025-03-13,Salary Issues,17,No
+EMP39342,2025-11-03,End of Contract,10,Yes
+EMP39362,2025-04-28,Better Opportunity,27,Yes
+EMP39364,2025-09-27,End of Contract,3,Yes
+EMP39379,2024-10-19,Better Opportunity,15,Yes
+EMP39385,2023-04-19,Salary Issues,34,No
+EMP39460,2023-05-07,Salary Issues,33,No
+EMP39463,2025-01-01,Better Opportunity,12,Yes
+EMP39480,2025-08-21,Work Conditions,16,No
+EMP39483,2025-01-22,Better Opportunity,21,Yes
+EMP39494,2025-08-11,Better Opportunity,18,Yes
+EMP39498,2025-03-25,End of Contract,12,Yes
+EMP39523,2022-12-28,Salary Issues,44,No
+EMP39538,2024-05-26,Better Opportunity,28,Yes
+EMP39555,2025-02-08,Better Opportunity,18,Yes
+EMP39566,2025-03-06,Family Reasons,23,Yes
+EMP39578,2022-10-18,Better Opportunity,38,Yes
+EMP39580,2025-03-19,Work Conditions,33,No
+EMP39582,2023-07-22,Work Conditions,42,No
+EMP39590,2025-11-03,Family Reasons,14,Yes
+EMP39596,2025-06-27,Better Opportunity,16,Yes
+EMP39624,2025-08-10,Better Opportunity,46,Yes
+EMP39631,2023-06-13,Salary Issues,31,No
+EMP39632,2023-10-31,Better Opportunity,39,Yes
+EMP39638,2025-03-17,End of Contract,10,Yes
+EMP39645,2023-07-07,Family Reasons,40,Yes
+EMP39655,2023-07-09,Better Opportunity,31,Yes
+EMP39660,2024-05-26,Better Opportunity,37,Yes
+EMP39664,2023-07-26,Family Reasons,31,Yes
+EMP39685,2025-01-18,Work Conditions,14,No
+EMP39694,2025-05-06,End of Contract,30,Yes
+EMP39699,2025-02-22,End of Contract,44,Yes
+EMP39704,2025-04-10,End of Contract,8,Yes
+EMP39725,2025-09-19,End of Contract,3,Yes
+EMP39726,2025-07-01,Better Opportunity,22,Yes
+EMP39733,2025-09-08,Better Opportunity,42,Yes
+EMP39747,2024-09-23,Better Opportunity,23,Yes
+EMP39755,2025-04-06,Salary Issues,31,No
+EMP39770,2023-04-03,Better Opportunity,42,Yes
+EMP39787,2025-04-16,Family Reasons,15,Yes
+EMP39807,2025-08-22,End of Contract,5,Yes
+EMP39823,2024-06-26,Better Opportunity,27,Yes
+EMP39837,2024-09-26,End of Contract,46,Yes
+EMP39849,2022-04-14,End of Contract,46,Yes
+EMP39851,2025-02-19,Work Conditions,19,No
+EMP39852,2025-10-11,Family Reasons,29,Yes
+EMP39873,2024-12-10,Better Opportunity,35,Yes
+EMP39875,2025-05-30,Better Opportunity,18,Yes
+EMP39885,2025-10-16,End of Contract,7,Yes
+EMP39900,2024-10-24,Work Conditions,31,No
+EMP39914,2025-08-21,Family Reasons,5,Yes
+EMP39916,2025-01-04,Salary Issues,15,No
+EMP39924,2023-07-23,End of Contract,36,Yes
+EMP39925,2025-05-23,Family Reasons,19,Yes
+EMP39989,2025-07-24,Salary Issues,17,No
+EMP39994,2024-08-18,End of Contract,31,Yes
+EMP39998,2024-08-14,Family Reasons,30,Yes
+EMP40013,2024-03-28,Family Reasons,40,Yes
+EMP40023,2025-06-19,Better Opportunity,36,Yes
+EMP40062,2024-04-27,Family Reasons,45,Yes
+EMP40066,2022-07-26,Family Reasons,44,Yes
+EMP40075,2025-10-19,End of Contract,33,Yes
+EMP40079,2025-07-16,Better Opportunity,20,Yes
+EMP40142,2025-06-11,End of Contract,19,Yes
+EMP40144,2025-11-09,Better Opportunity,27,Yes
+EMP40173,2024-10-12,Family Reasons,16,Yes
+EMP40194,2022-07-03,Better Opportunity,43,Yes
+EMP40195,2023-07-11,Family Reasons,35,Yes
+EMP40197,2022-05-28,End of Contract,45,Yes
+EMP40252,2025-09-19,End of Contract,33,Yes
+EMP40256,2024-10-29,Family Reasons,25,Yes
+EMP40266,2025-10-26,Better Opportunity,15,Yes
+EMP40283,2025-05-12,Better Opportunity,28,Yes
+EMP40289,2025-11-14,Family Reasons,17,Yes
+EMP40299,2025-04-25,Better Opportunity,26,Yes
+EMP40344,2025-05-09,Better Opportunity,28,Yes
+EMP40359,2025-10-10,Better Opportunity,12,Yes
+EMP40394,2023-07-19,Family Reasons,46,Yes
+EMP40437,2023-08-30,End of Contract,42,Yes
+EMP40441,2025-06-05,Work Conditions,15,No
+EMP40458,2025-07-23,Salary Issues,46,No
+EMP40475,2025-02-01,End of Contract,43,Yes
+EMP40481,2024-10-28,Salary Issues,43,No
+EMP40484,2024-05-16,Better Opportunity,24,Yes
+EMP40493,2024-03-25,Better Opportunity,33,Yes
+EMP40501,2024-04-17,Family Reasons,39,Yes
+EMP40503,2024-09-01,Better Opportunity,28,Yes
+EMP40521,2024-12-09,Salary Issues,24,No
+EMP40531,2024-10-28,End of Contract,21,Yes
+EMP40539,2025-06-26,End of Contract,26,Yes
+EMP40546,2023-05-29,Salary Issues,33,No
+EMP40576,2025-10-19,End of Contract,8,Yes
+EMP40586,2025-10-23,Salary Issues,8,No
+EMP40587,2025-05-20,Work Conditions,10,No
+EMP40593,2025-04-06,Better Opportunity,24,Yes
+EMP40594,2025-10-06,Family Reasons,4,Yes
+EMP40624,2022-11-05,Better Opportunity,42,Yes
+EMP40627,2023-09-10,Family Reasons,28,Yes
+EMP40631,2025-08-29,Better Opportunity,16,Yes
+EMP40669,2025-11-10,End of Contract,11,Yes
+EMP40678,2024-05-22,End of Contract,26,Yes
+EMP40684,2024-02-24,Salary Issues,28,No
+EMP40703,2025-07-02,Better Opportunity,14,Yes
+EMP40742,2024-07-09,Family Reasons,17,Yes
+EMP40752,2025-06-16,Better Opportunity,7,Yes
+EMP40772,2024-03-07,Better Opportunity,39,Yes
+EMP40781,2024-11-09,Salary Issues,16,No
+EMP40793,2025-10-24,End of Contract,3,Yes
+EMP40805,2025-06-12,Salary Issues,6,No
+EMP40823,2025-06-09,End of Contract,10,Yes
+EMP40831,2025-10-21,Salary Issues,35,No
+EMP40847,2023-06-10,Family Reasons,39,Yes
+EMP40857,2025-08-26,Health Issues,10,No
+EMP40877,2024-06-23,Better Opportunity,39,Yes
+EMP40880,2025-09-10,Family Reasons,7,Yes
+EMP40885,2024-02-14,Family Reasons,34,Yes
+EMP40908,2023-11-15,Better Opportunity,27,Yes
+EMP40912,2025-02-03,Better Opportunity,18,Yes
+EMP40920,2025-04-24,Salary Issues,41,No
+EMP40922,2025-02-26,Better Opportunity,30,Yes
+EMP40928,2024-08-26,Better Opportunity,20,Yes
+EMP40929,2023-09-20,Better Opportunity,29,Yes
+EMP40939,2024-06-05,Better Opportunity,36,Yes
+EMP40941,2024-07-07,Family Reasons,27,Yes
+EMP40976,2025-09-18,Salary Issues,12,No
+EMP40987,2024-10-03,Better Opportunity,24,Yes
+EMP40997,2024-08-19,Work Conditions,23,No
+EMP40998,2023-03-20,End of Contract,38,Yes
+EMP41007,2023-08-15,Better Opportunity,29,Yes
+EMP41034,2025-01-03,Salary Issues,35,No
+EMP41065,2023-04-01,Health Issues,38,No
+EMP41071,2025-03-29,Family Reasons,12,Yes
+EMP41083,2025-08-31,Salary Issues,24,No
+EMP41090,2025-01-15,End of Contract,23,Yes
+EMP41097,2025-08-29,Better Opportunity,18,Yes
+EMP41120,2025-04-30,Work Conditions,16,No
+EMP41130,2024-11-15,End of Contract,32,Yes
+EMP41145,2024-03-19,End of Contract,30,Yes
+EMP41152,2022-07-27,Better Opportunity,45,Yes
+EMP41159,2025-09-18,Family Reasons,9,Yes
+EMP41173,2025-01-18,Better Opportunity,22,Yes
+EMP41182,2025-05-14,Salary Issues,14,No
+EMP41190,2025-05-29,Health Issues,11,No
+EMP41193,2025-08-26,Salary Issues,16,No
+EMP41201,2025-09-05,Work Conditions,9,No
+EMP41202,2023-12-14,Family Reasons,28,Yes
+EMP41212,2025-02-09,Salary Issues,42,No
+EMP41222,2025-10-26,Better Opportunity,3,Yes
+EMP41231,2025-08-20,End of Contract,8,Yes
+EMP41248,2024-06-23,End of Contract,28,Yes
+EMP41250,2025-02-01,End of Contract,34,Yes
+EMP41257,2025-07-19,End of Contract,21,Yes
+EMP41272,2024-01-25,End of Contract,46,Yes
+EMP41297,2023-01-05,End of Contract,39,Yes
+EMP41309,2024-04-21,Family Reasons,30,Yes
+EMP41322,2025-02-09,End of Contract,10,Yes
+EMP41332,2025-04-14,Better Opportunity,18,Yes
+EMP41335,2025-04-04,Better Opportunity,8,Yes
+EMP41359,2023-10-03,Terminated,45,No
+EMP41370,2025-05-22,Salary Issues,46,No
+EMP41388,2023-05-14,End of Contract,34,Yes
+EMP41391,2025-03-23,Better Opportunity,9,Yes
+EMP41415,2025-05-26,Family Reasons,22,Yes
+EMP41418,2023-02-11,End of Contract,40,Yes
+EMP41431,2025-05-14,End of Contract,8,Yes
+EMP41445,2025-01-21,Terminated,11,No
+EMP41449,2023-10-27,Better Opportunity,35,Yes
+EMP41453,2025-06-17,Better Opportunity,7,Yes
+EMP41460,2024-09-04,Better Opportunity,43,Yes
+EMP41491,2024-11-28,Better Opportunity,13,Yes
+EMP41494,2025-01-30,Better Opportunity,44,Yes
+EMP41498,2024-07-04,Better Opportunity,24,Yes
+EMP41506,2024-12-02,Salary Issues,31,No
+EMP41521,2024-11-21,End of Contract,42,Yes
+EMP41522,2025-05-07,Terminated,13,No
+EMP41529,2024-05-27,End of Contract,29,Yes
+EMP41569,2025-07-05,Work Conditions,24,No
+EMP41570,2025-10-10,Work Conditions,6,No
+EMP41588,2024-11-02,Better Opportunity,32,Yes
+EMP41627,2025-03-14,Salary Issues,30,No
+EMP41657,2025-06-03,Better Opportunity,18,Yes
+EMP41661,2024-05-18,Better Opportunity,38,Yes
+EMP41671,2024-04-04,Better Opportunity,21,Yes
+EMP41676,2025-05-06,Health Issues,11,No
+EMP41689,2025-05-02,Better Opportunity,39,Yes
+EMP41699,2025-09-24,End of Contract,19,Yes
+EMP41702,2024-07-24,Better Opportunity,26,Yes
+EMP41707,2025-01-16,End of Contract,24,Yes
+EMP41729,2025-03-31,Better Opportunity,42,Yes
+EMP41737,2023-09-25,End of Contract,33,Yes
+EMP41742,2025-02-05,End of Contract,19,Yes
+EMP41750,2023-12-13,Better Opportunity,27,Yes
+EMP41781,2022-10-29,Better Opportunity,44,Yes
+EMP41786,2025-11-12,End of Contract,3,Yes
+EMP41794,2025-02-20,End of Contract,42,Yes
+EMP41795,2025-02-17,Better Opportunity,45,Yes
+EMP41843,2025-09-18,End of Contract,22,Yes
+EMP41866,2025-10-31,Family Reasons,3,Yes
+EMP41880,2025-07-05,Health Issues,19,No
+EMP41905,2025-07-31,End of Contract,10,Yes
+EMP41906,2024-07-12,Better Opportunity,18,Yes
+EMP41915,2025-03-13,Better Opportunity,12,Yes
+EMP41966,2024-09-16,Family Reasons,19,Yes
+EMP41979,2024-11-23,Better Opportunity,21,Yes
+EMP41991,2023-08-28,End of Contract,29,Yes
+EMP41996,2024-09-23,Family Reasons,33,Yes
+EMP42010,2025-07-17,Better Opportunity,22,Yes
+EMP42011,2023-10-18,Terminated,38,No
+EMP42028,2025-08-29,Family Reasons,7,Yes
+EMP42035,2023-07-09,Better Opportunity,31,Yes
+EMP42066,2025-01-09,Better Opportunity,18,Yes
+EMP42072,2023-07-28,End of Contract,42,Yes
+EMP42073,2022-04-27,Salary Issues,44,No
+EMP42078,2025-06-01,Family Reasons,39,Yes
+EMP42087,2024-10-17,Health Issues,29,No
+EMP42089,2024-09-18,End of Contract,15,Yes
+EMP42099,2025-09-06,Health Issues,4,No
+EMP42110,2025-03-09,Better Opportunity,32,Yes
+EMP42116,2025-08-28,Health Issues,20,No
+EMP42121,2025-06-01,Better Opportunity,8,Yes
+EMP42130,2024-10-06,End of Contract,37,Yes
+EMP42135,2024-04-22,Better Opportunity,32,Yes
+EMP42137,2023-09-21,Family Reasons,40,Yes
+EMP42169,2025-03-21,End of Contract,16,Yes
+EMP42170,2024-05-06,Salary Issues,22,No
+EMP42171,2024-05-20,End of Contract,40,Yes
+EMP42187,2022-06-30,Salary Issues,46,No
+EMP42192,2025-08-23,Family Reasons,5,Yes
+EMP42204,2024-04-05,End of Contract,23,Yes
+EMP42233,2022-06-30,Better Opportunity,46,Yes
+EMP42234,2025-05-15,Better Opportunity,8,Yes
+EMP42283,2025-08-14,Better Opportunity,11,Yes
+EMP42292,2025-03-26,Work Conditions,16,No
+EMP42295,2023-09-21,Work Conditions,35,No
+EMP42336,2025-09-06,Family Reasons,3,Yes
+EMP42341,2025-10-17,Salary Issues,3,No
+EMP42355,2025-10-02,Salary Issues,10,No
+EMP42359,2025-10-02,End of Contract,7,Yes
+EMP42384,2025-04-02,Better Opportunity,25,Yes
+EMP42391,2025-06-29,Family Reasons,8,Yes
+EMP42412,2025-06-08,Health Issues,16,No
+EMP42418,2025-02-04,Salary Issues,31,No
+EMP42454,2024-10-14,End of Contract,23,Yes
+EMP42455,2023-04-10,Salary Issues,32,No
+EMP42469,2025-06-24,End of Contract,14,Yes
+EMP42471,2024-09-30,Salary Issues,39,No
+EMP42476,2022-11-04,End of Contract,38,Yes
+EMP42491,2023-12-12,End of Contract,33,Yes
+EMP42503,2023-05-13,Better Opportunity,43,Yes
+EMP42509,2024-11-25,End of Contract,22,Yes
+EMP42525,2024-07-01,Salary Issues,22,No
+EMP42530,2023-08-11,Better Opportunity,32,Yes
+EMP42533,2024-07-25,Family Reasons,21,Yes
+EMP42579,2025-08-24,Better Opportunity,21,Yes
+EMP42581,2025-08-05,Better Opportunity,39,Yes
+EMP42588,2024-10-14,Better Opportunity,21,Yes
+EMP42656,2025-11-06,Salary Issues,9,No
+EMP42664,2025-05-19,Terminated,21,No
+EMP42665,2025-09-13,Better Opportunity,12,Yes
+EMP42666,2024-09-02,Better Opportunity,38,Yes
+EMP42676,2024-12-28,Salary Issues,35,No
+EMP42708,2025-02-01,End of Contract,46,Yes
+EMP42727,2025-11-05,Better Opportunity,5,Yes
+EMP42728,2025-10-13,Better Opportunity,9,Yes
+EMP42733,2024-06-23,End of Contract,44,Yes
+EMP42738,2025-01-27,Better Opportunity,30,Yes
+EMP42742,2025-11-07,Work Conditions,29,No
+EMP42746,2023-11-10,Better Opportunity,44,Yes
+EMP42748,2023-12-07,Better Opportunity,38,Yes
+EMP42771,2024-12-01,Better Opportunity,32,Yes
+EMP42772,2025-08-24,End of Contract,5,Yes
+EMP42785,2025-01-26,Better Opportunity,32,Yes
+EMP42786,2025-11-02,End of Contract,24,Yes
+EMP42792,2023-12-20,End of Contract,40,Yes
+EMP42804,2025-10-31,Better Opportunity,3,Yes
+EMP42808,2024-12-29,Family Reasons,15,Yes
+EMP42810,2025-07-17,Better Opportunity,17,Yes
+EMP42829,2025-11-14,End of Contract,21,Yes
+EMP42843,2025-08-26,Better Opportunity,23,Yes
+EMP42847,2024-05-23,Family Reasons,23,Yes
+EMP42865,2024-08-30,Family Reasons,34,Yes
+EMP42867,2025-02-19,Better Opportunity,43,Yes
+EMP42876,2025-06-24,Better Opportunity,18,Yes
+EMP42882,2023-04-05,End of Contract,46,Yes
+EMP42891,2025-01-25,Health Issues,38,No
+EMP42901,2024-08-16,Better Opportunity,42,Yes
+EMP42905,2023-05-05,Better Opportunity,38,Yes
+EMP42922,2024-02-13,End of Contract,32,Yes
+EMP42937,2024-10-13,Better Opportunity,14,Yes
+EMP42954,2022-09-19,Better Opportunity,40,Yes
+EMP42981,2023-08-16,End of Contract,44,Yes
+EMP42986,2024-02-07,Better Opportunity,42,Yes
+EMP42989,2025-07-23,Better Opportunity,32,Yes
+EMP43014,2023-11-15,End of Contract,27,Yes
+EMP43019,2025-03-06,End of Contract,22,Yes
+EMP43042,2024-05-11,Family Reasons,26,Yes
+EMP43087,2023-01-21,Family Reasons,46,Yes
+EMP43105,2025-07-14,Salary Issues,24,No
+EMP43142,2025-09-12,End of Contract,3,Yes
+EMP43146,2023-11-18,End of Contract,47,Yes
+EMP43158,2025-10-26,Family Reasons,3,Yes
+EMP43164,2025-09-16,End of Contract,22,Yes
+EMP43178,2024-07-19,Salary Issues,32,No
+EMP43207,2023-12-08,Terminated,44,No
+EMP43218,2025-01-26,Better Opportunity,15,Yes
+EMP43251,2024-09-09,End of Contract,36,Yes
+EMP43258,2024-09-18,Family Reasons,28,Yes
+EMP43266,2024-05-10,End of Contract,25,Yes
+EMP43277,2022-12-16,End of Contract,41,Yes
+EMP43317,2025-08-17,Better Opportunity,31,Yes
+EMP43319,2024-08-21,Family Reasons,31,Yes
+EMP43323,2025-03-14,End of Contract,10,Yes
+EMP43348,2025-07-22,Better Opportunity,6,Yes
+EMP43359,2025-02-23,Better Opportunity,12,Yes
+EMP43365,2024-06-09,End of Contract,20,Yes
+EMP43370,2025-02-24,Better Opportunity,10,Yes
+EMP43394,2024-11-15,Salary Issues,46,No
+EMP43420,2024-04-12,Better Opportunity,30,Yes
+EMP43425,2025-04-19,Better Opportunity,45,Yes
+EMP43430,2023-12-19,Better Opportunity,41,Yes
+EMP43435,2023-06-30,End of Contract,40,Yes
+EMP43450,2025-01-15,End of Contract,31,Yes
+EMP43488,2025-10-11,End of Contract,15,Yes
+EMP43545,2023-08-25,Better Opportunity,41,Yes
+EMP43557,2025-01-29,Family Reasons,44,Yes
+EMP43558,2024-12-14,Better Opportunity,26,Yes
+EMP43565,2025-02-02,Better Opportunity,40,Yes
+EMP43568,2025-03-31,Family Reasons,20,Yes
+EMP43571,2024-08-30,Family Reasons,23,Yes
+EMP43588,2025-09-08,Better Opportunity,6,Yes
+EMP43592,2025-08-10,Family Reasons,22,Yes
+EMP43597,2025-10-19,Health Issues,3,No
+EMP43598,2025-07-23,Better Opportunity,33,Yes
+EMP43600,2024-03-10,Family Reasons,37,Yes
+EMP43601,2022-09-21,Better Opportunity,42,Yes
+EMP43611,2024-08-22,Work Conditions,27,No
+EMP43632,2023-04-16,End of Contract,43,Yes
+EMP43675,2025-01-15,Salary Issues,23,No
+EMP43688,2025-07-28,Family Reasons,4,Yes
+EMP43723,2022-09-06,Salary Issues,42,No
+EMP43726,2024-06-14,Family Reasons,24,Yes
+EMP43735,2023-01-21,End of Contract,38,Yes
+EMP43740,2025-10-22,Salary Issues,8,No
+EMP43742,2025-11-06,Better Opportunity,9,Yes
+EMP43756,2024-04-27,Better Opportunity,32,Yes
+EMP43763,2025-03-15,End of Contract,44,Yes
+EMP43774,2023-05-12,Better Opportunity,32,Yes
+EMP43805,2024-01-15,End of Contract,46,Yes
+EMP43835,2023-08-05,Salary Issues,32,No
+EMP43838,2025-05-26,Work Conditions,19,No
+EMP43851,2024-04-17,End of Contract,38,Yes
+EMP43854,2025-02-01,Family Reasons,10,Yes
+EMP43908,2024-04-26,End of Contract,43,Yes
+EMP43910,2025-07-07,Better Opportunity,17,Yes
+EMP43945,2024-08-05,Better Opportunity,22,Yes
+EMP43946,2024-01-16,Better Opportunity,23,Yes
+EMP43974,2024-11-20,End of Contract,38,Yes
+EMP43987,2025-02-17,End of Contract,15,Yes
+EMP43990,2024-10-21,Family Reasons,22,Yes
+EMP43994,2025-11-03,Better Opportunity,45,Yes
+EMP43995,2024-03-10,Better Opportunity,27,Yes
+EMP44003,2024-01-08,End of Contract,37,Yes
+EMP44016,2025-11-13,Better Opportunity,45,Yes
+EMP44019,2025-11-09,Better Opportunity,3,Yes
+EMP44031,2023-10-08,Better Opportunity,27,Yes
+EMP44058,2024-11-20,End of Contract,25,Yes
+EMP44071,2024-10-10,Family Reasons,16,Yes
+EMP44112,2025-02-19,Work Conditions,14,No
+EMP44120,2025-09-17,Work Conditions,5,No
+EMP44121,2023-05-02,End of Contract,37,Yes
+EMP44123,2024-08-14,Better Opportunity,26,Yes
+EMP44132,2025-05-21,Better Opportunity,10,Yes
+EMP44133,2025-02-04,End of Contract,14,Yes
+EMP44153,2025-07-30,Health Issues,5,No
+EMP44158,2024-06-02,Better Opportunity,33,Yes
+EMP44197,2025-03-16,Salary Issues,25,No
+EMP44221,2024-02-29,Better Opportunity,24,Yes
+EMP44224,2025-02-28,Salary Issues,25,No
+EMP44231,2025-08-30,Family Reasons,15,Yes
+EMP44254,2023-04-05,Better Opportunity,35,Yes
+EMP44255,2024-01-26,Salary Issues,44,No
+EMP44264,2022-09-25,Better Opportunity,43,Yes
+EMP44281,2024-01-14,Better Opportunity,43,Yes
+EMP44287,2025-08-29,End of Contract,19,Yes
+EMP44288,2025-01-28,Family Reasons,20,Yes
+EMP44311,2024-02-19,Work Conditions,37,No
+EMP44319,2024-01-22,Terminated,35,No
+EMP44327,2025-03-14,End of Contract,11,Yes
+EMP44336,2025-06-14,Family Reasons,41,Yes
+EMP44350,2024-05-20,Family Reasons,28,Yes
+EMP44365,2025-05-27,End of Contract,37,Yes
+EMP44370,2025-08-24,End of Contract,17,Yes
+EMP44372,2025-11-07,Work Conditions,32,No
+EMP44377,2025-09-04,Salary Issues,20,No
+EMP44382,2024-11-11,Better Opportunity,34,Yes
+EMP44411,2025-08-28,Family Reasons,18,Yes
+EMP44485,2024-06-23,End of Contract,40,Yes
+EMP44501,2025-10-17,Family Reasons,6,Yes
+EMP44514,2023-10-14,Family Reasons,27,Yes
+EMP44520,2023-11-01,Terminated,41,No
+EMP44541,2025-05-20,Better Opportunity,13,Yes
+EMP44543,2025-10-05,End of Contract,10,Yes
+EMP44544,2025-09-05,Better Opportunity,4,Yes
+EMP44545,2023-10-17,Work Conditions,35,No
+EMP44549,2024-11-26,End of Contract,21,Yes
+EMP44563,2024-07-07,Better Opportunity,28,Yes
+EMP44595,2025-08-29,End of Contract,9,Yes
+EMP44627,2025-07-26,Family Reasons,20,Yes
+EMP44631,2024-06-07,Better Opportunity,33,Yes
+EMP44647,2023-07-07,End of Contract,33,Yes
+EMP44656,2025-09-04,Better Opportunity,43,Yes
+EMP44673,2025-11-09,End of Contract,21,Yes
+EMP44693,2025-02-27,Better Opportunity,11,Yes
+EMP44699,2024-03-10,Salary Issues,23,No
+EMP44709,2024-12-04,End of Contract,25,Yes
+EMP44715,2025-10-07,End of Contract,42,Yes
+EMP44727,2025-01-27,End of Contract,11,Yes
+EMP44760,2024-11-23,Better Opportunity,37,Yes
+EMP44773,2025-02-14,Better Opportunity,14,Yes
+EMP44774,2025-09-15,Better Opportunity,34,Yes
+EMP44787,2025-07-28,Better Opportunity,11,Yes
+EMP44793,2025-05-17,Family Reasons,12,Yes
+EMP44821,2023-12-20,Salary Issues,26,No
+EMP44827,2025-08-04,Salary Issues,34,No
+EMP44841,2025-02-23,Better Opportunity,30,Yes
+EMP44842,2023-09-16,End of Contract,46,Yes
+EMP44846,2025-07-29,Family Reasons,25,Yes
+EMP44860,2023-01-18,End of Contract,35,Yes
+EMP44872,2025-08-20,Salary Issues,4,No
+EMP44873,2025-10-31,Family Reasons,15,Yes
+EMP44903,2025-10-24,Work Conditions,38,No
+EMP44906,2025-07-17,Family Reasons,31,Yes
+EMP44909,2025-04-23,Family Reasons,19,Yes
+EMP44917,2025-06-13,End of Contract,19,Yes
+EMP44936,2025-06-05,Salary Issues,20,No
+EMP44939,2025-06-04,Family Reasons,15,Yes
+EMP44951,2025-05-08,Better Opportunity,8,Yes
+EMP44953,2023-03-09,Family Reasons,38,Yes
+EMP44967,2025-08-19,Better Opportunity,5,Yes
+EMP44991,2025-02-11,End of Contract,10,Yes
+EMP44993,2025-06-21,Better Opportunity,15,Yes
+EMP45008,2024-11-29,End of Contract,34,Yes
+EMP45009,2025-02-05,End of Contract,17,Yes
+EMP45024,2024-06-05,Better Opportunity,22,Yes
+EMP45027,2025-04-07,Family Reasons,36,Yes
+EMP45032,2025-07-02,End of Contract,12,Yes
+EMP45058,2024-04-02,End of Contract,39,Yes
+EMP45078,2025-03-01,Salary Issues,21,No
+EMP45093,2024-09-29,Family Reasons,38,Yes
+EMP45106,2025-10-13,Health Issues,21,No
+EMP45119,2023-02-10,Better Opportunity,47,Yes
+EMP45131,2024-12-28,Family Reasons,23,Yes
+EMP45177,2025-10-15,Better Opportunity,7,Yes
+EMP45216,2023-01-28,Better Opportunity,40,Yes
+EMP45256,2025-08-04,Salary Issues,8,No
+EMP45269,2024-04-20,End of Contract,29,Yes
+EMP45284,2024-05-10,End of Contract,32,Yes
+EMP45298,2025-04-27,Family Reasons,20,Yes
+EMP45336,2022-09-26,End of Contract,42,Yes
+EMP45342,2025-03-08,Family Reasons,35,Yes
+EMP45344,2024-09-06,Better Opportunity,45,Yes
+EMP45356,2024-01-02,End of Contract,45,Yes
+EMP45358,2024-12-23,Better Opportunity,12,Yes
+EMP45362,2024-03-09,Terminated,46,No
+EMP45370,2024-05-18,Better Opportunity,27,Yes
+EMP45383,2025-09-01,Better Opportunity,7,Yes
+EMP45399,2025-07-07,End of Contract,20,Yes
+EMP45418,2025-10-05,Better Opportunity,19,Yes
+EMP45428,2023-03-27,End of Contract,45,Yes
+EMP45434,2024-01-22,Terminated,25,No
+EMP45449,2024-06-27,End of Contract,18,Yes
+EMP45462,2025-07-09,Better Opportunity,40,Yes
+EMP45465,2024-08-20,Salary Issues,19,No
+EMP45479,2025-02-11,Better Opportunity,23,Yes
+EMP45515,2025-09-17,End of Contract,7,Yes
+EMP45519,2022-10-25,Better Opportunity,40,Yes
+EMP45526,2024-06-12,Better Opportunity,31,Yes
+EMP45530,2024-08-02,Better Opportunity,40,Yes
+EMP45534,2025-05-12,End of Contract,19,Yes
+EMP45547,2024-04-21,Family Reasons,26,Yes
+EMP45552,2025-11-10,Family Reasons,4,Yes
+EMP45562,2025-07-27,Better Opportunity,12,Yes
+EMP45566,2024-05-05,Better Opportunity,23,Yes
+EMP45568,2025-11-05,End of Contract,5,Yes
+EMP45570,2025-10-20,Salary Issues,15,No
+EMP45573,2022-10-01,Family Reasons,39,Yes
+EMP45597,2025-08-05,Better Opportunity,35,Yes
+EMP45604,2024-03-24,End of Contract,32,Yes
+EMP45607,2025-10-28,Better Opportunity,24,Yes
+EMP45610,2025-09-22,Better Opportunity,21,Yes
+EMP45639,2025-09-17,Better Opportunity,12,Yes
+EMP45648,2024-07-17,End of Contract,39,Yes
+EMP45660,2025-06-21,Salary Issues,11,No
+EMP45668,2025-10-24,End of Contract,7,Yes
+EMP45692,2025-06-05,End of Contract,11,Yes
+EMP45694,2025-10-30,Better Opportunity,24,Yes
+EMP45713,2025-07-02,Family Reasons,12,Yes
+EMP45726,2025-01-08,Family Reasons,15,Yes
+EMP45731,2025-01-28,End of Contract,38,Yes
+EMP45737,2025-09-16,Better Opportunity,5,Yes
+EMP45739,2024-02-22,End of Contract,30,Yes
+EMP45757,2025-06-08,Family Reasons,44,Yes
+EMP45768,2025-08-02,Family Reasons,6,Yes
+EMP45769,2023-02-10,Work Conditions,37,No
+EMP45778,2025-03-24,Better Opportunity,22,Yes
+EMP45796,2024-02-05,End of Contract,25,Yes
+EMP45802,2024-08-13,Better Opportunity,26,Yes
+EMP45816,2024-12-15,Salary Issues,22,No
+EMP45842,2025-06-23,Family Reasons,6,Yes
+EMP45844,2025-09-22,Family Reasons,28,Yes
+EMP45859,2024-12-27,Better Opportunity,33,Yes
+EMP45860,2024-07-15,Family Reasons,40,Yes
+EMP45884,2025-03-06,Work Conditions,18,No
+EMP45887,2025-05-11,Work Conditions,43,No
+EMP45888,2025-03-23,Better Opportunity,14,Yes
+EMP45896,2024-01-06,Family Reasons,27,Yes
+EMP45899,2025-09-28,Better Opportunity,3,Yes
+EMP45905,2025-06-13,End of Contract,35,Yes
+EMP45922,2025-09-20,End of Contract,23,Yes
+EMP45935,2024-08-04,End of Contract,27,Yes
+EMP45939,2023-11-10,End of Contract,41,Yes
+EMP45940,2025-03-13,Work Conditions,25,No
+EMP45951,2024-03-25,Better Opportunity,42,Yes
+EMP45956,2025-01-19,Better Opportunity,38,Yes
+EMP45963,2025-10-04,Salary Issues,8,No
+EMP45966,2025-10-12,Better Opportunity,20,Yes
+EMP45997,2025-04-25,Salary Issues,21,No
+EMP45999,2025-08-02,Better Opportunity,9,Yes
+EMP46013,2025-07-15,Salary Issues,45,No
+EMP46014,2025-05-21,End of Contract,13,Yes
+EMP46016,2025-11-10,End of Contract,3,Yes
+EMP46024,2024-12-08,Better Opportunity,32,Yes
+EMP46033,2024-06-20,End of Contract,28,Yes
+EMP46046,2024-07-16,End of Contract,29,Yes
+EMP46070,2024-08-28,End of Contract,22,Yes
+EMP46072,2023-11-09,Better Opportunity,36,Yes
+EMP46089,2024-07-12,End of Contract,23,Yes
+EMP46090,2025-05-13,Better Opportunity,25,Yes
+EMP46096,2025-01-07,Better Opportunity,20,Yes
+EMP46100,2025-03-10,End of Contract,45,Yes
+EMP46120,2024-01-14,Family Reasons,32,Yes
+EMP46130,2024-10-08,Better Opportunity,34,Yes
+EMP46141,2025-03-07,Better Opportunity,13,Yes
+EMP46143,2024-05-12,Work Conditions,34,No
+EMP46153,2025-04-04,Work Conditions,46,No
+EMP46154,2023-10-31,Better Opportunity,37,Yes
+EMP46178,2025-04-01,Better Opportunity,36,Yes
+EMP46190,2025-08-13,Health Issues,34,No
+EMP46198,2025-06-12,Terminated,46,No
+EMP46203,2025-05-29,Better Opportunity,9,Yes
+EMP46246,2024-12-03,Work Conditions,35,No
+EMP46248,2025-10-02,Family Reasons,20,Yes
+EMP46256,2025-10-23,Terminated,11,No
+EMP46261,2025-01-01,Better Opportunity,14,Yes
+EMP46278,2025-04-17,Work Conditions,9,No
+EMP46309,2025-09-21,End of Contract,9,Yes
+EMP46314,2025-04-04,Better Opportunity,21,Yes
+EMP46327,2025-07-11,End of Contract,38,Yes
+EMP46332,2025-05-10,End of Contract,8,Yes
+EMP46334,2025-08-16,Better Opportunity,15,Yes
+EMP46384,2024-10-03,Family Reasons,33,Yes
+EMP46416,2025-09-15,End of Contract,7,Yes
+EMP46429,2025-08-29,Salary Issues,7,No
+EMP46440,2025-07-19,End of Contract,14,Yes
+EMP46445,2024-08-15,Better Opportunity,24,Yes
+EMP46470,2025-08-18,Family Reasons,19,Yes
+EMP46482,2025-06-30,End of Contract,21,Yes
+EMP46498,2025-06-15,End of Contract,45,Yes
+EMP46503,2025-07-25,Family Reasons,40,Yes
+EMP46518,2025-01-05,End of Contract,33,Yes
+EMP46519,2025-05-06,Better Opportunity,25,Yes
+EMP46524,2025-03-29,Better Opportunity,12,Yes
+EMP46557,2024-08-11,End of Contract,45,Yes
+EMP46559,2025-08-19,Better Opportunity,5,Yes
+EMP46581,2025-05-22,Family Reasons,7,Yes
+EMP46588,2024-09-12,End of Contract,17,Yes
+EMP46610,2024-03-11,Better Opportunity,33,Yes
+EMP46620,2023-06-06,Better Opportunity,35,Yes
+EMP46621,2025-08-06,Health Issues,10,No
+EMP46635,2023-10-24,End of Contract,31,Yes
+EMP46636,2025-05-01,Better Opportunity,25,Yes
+EMP46645,2023-09-24,Health Issues,33,No
+EMP46675,2025-04-22,Salary Issues,11,No
+EMP46681,2025-07-23,Better Opportunity,14,Yes
+EMP46696,2025-10-14,End of Contract,3,Yes
+EMP46709,2024-03-04,Salary Issues,26,No
+EMP46714,2025-07-07,Family Reasons,25,Yes
+EMP46727,2025-11-09,End of Contract,12,Yes
+EMP46730,2024-03-26,Better Opportunity,35,Yes
+EMP46741,2025-08-18,End of Contract,25,Yes
+EMP46749,2024-10-23,Family Reasons,28,Yes
+EMP46767,2023-08-04,End of Contract,46,Yes
+EMP46786,2024-10-04,Work Conditions,21,No
+EMP46788,2024-11-24,Better Opportunity,29,Yes
+EMP46789,2025-05-04,Better Opportunity,22,Yes
+EMP46830,2025-09-15,Better Opportunity,6,Yes
+EMP46832,2024-12-25,Better Opportunity,15,Yes
+EMP46834,2025-02-08,Family Reasons,14,Yes
+EMP46845,2025-02-26,Better Opportunity,30,Yes
+EMP46870,2025-10-04,Family Reasons,7,Yes
+EMP46886,2024-08-02,Better Opportunity,25,Yes
+EMP46890,2025-05-30,Better Opportunity,10,Yes
+EMP46914,2023-12-28,Better Opportunity,26,Yes
+EMP46919,2024-10-10,Better Opportunity,15,Yes
+EMP46927,2024-12-09,Better Opportunity,41,Yes
+EMP46929,2025-04-02,Better Opportunity,8,Yes
+EMP46939,2024-08-24,Better Opportunity,39,Yes
+EMP46954,2023-03-10,Family Reasons,47,Yes
+EMP46964,2023-12-27,Better Opportunity,29,Yes
+EMP46965,2025-10-19,Better Opportunity,32,Yes
+EMP46970,2024-04-16,Family Reasons,24,Yes
+EMP46973,2024-05-27,Salary Issues,27,No
+EMP46982,2025-07-24,End of Contract,28,Yes
+EMP47004,2025-10-25,Better Opportunity,6,Yes
+EMP47064,2024-08-03,Salary Issues,33,No
+EMP47074,2025-06-19,Work Conditions,9,No
+EMP47091,2024-10-31,Better Opportunity,20,Yes
+EMP47097,2025-09-18,Better Opportunity,14,Yes
+EMP47104,2024-10-06,Salary Issues,43,No
+EMP47117,2025-05-09,Better Opportunity,9,Yes
+EMP47139,2024-03-01,Terminated,25,No
+EMP47141,2024-08-10,Better Opportunity,16,Yes
+EMP47149,2024-04-05,Better Opportunity,23,Yes
+EMP47161,2023-05-27,Better Opportunity,43,Yes
+EMP47168,2025-11-05,End of Contract,33,Yes
+EMP47171,2025-11-07,Better Opportunity,45,Yes
+EMP47175,2025-03-31,Health Issues,35,No
+EMP47184,2025-01-29,Family Reasons,10,Yes
+EMP47191,2024-12-14,Terminated,21,No
+EMP47208,2025-09-26,Salary Issues,11,No
+EMP47209,2025-10-27,Family Reasons,4,Yes
+EMP47223,2023-06-07,Better Opportunity,38,Yes
+EMP47242,2024-07-09,Health Issues,31,No
+EMP47247,2025-07-06,End of Contract,6,Yes
+EMP47251,2024-12-28,End of Contract,12,Yes
+EMP47252,2025-09-10,Better Opportunity,3,Yes
+EMP47254,2023-12-14,Salary Issues,34,No
+EMP47293,2025-10-15,Work Conditions,7,No
+EMP47296,2025-04-27,Salary Issues,8,No
+EMP47308,2024-08-07,Family Reasons,31,Yes
+EMP47310,2025-04-28,Better Opportunity,34,Yes
+EMP47313,2024-11-22,End of Contract,14,Yes
+EMP47363,2023-02-26,Family Reasons,37,Yes
+EMP47367,2024-10-08,Better Opportunity,36,Yes
+EMP47377,2025-10-12,Work Conditions,31,No
+EMP47385,2024-04-23,End of Contract,23,Yes
+EMP47387,2025-03-10,Work Conditions,23,No
+EMP47392,2023-11-10,Family Reasons,35,Yes
+EMP47394,2025-03-01,Better Opportunity,17,Yes
+EMP47396,2023-05-04,End of Contract,33,Yes
+EMP47400,2025-07-06,End of Contract,11,Yes
+EMP47406,2025-02-17,Better Opportunity,14,Yes
+EMP47418,2025-05-15,Salary Issues,16,No
+EMP47437,2025-09-16,Better Opportunity,11,Yes
+EMP47442,2024-09-19,Work Conditions,38,No
+EMP47454,2024-11-03,Work Conditions,13,No
+EMP47463,2025-02-27,Better Opportunity,25,Yes
+EMP47469,2024-07-13,Work Conditions,23,No
+EMP47483,2024-07-28,Better Opportunity,25,Yes
+EMP47486,2025-10-10,Better Opportunity,6,Yes
+EMP47488,2025-03-05,Work Conditions,23,No
+EMP47496,2025-01-21,Better Opportunity,16,Yes
+EMP47505,2025-01-17,Better Opportunity,24,Yes
+EMP47523,2025-10-05,Family Reasons,14,Yes
+EMP47532,2025-06-21,Family Reasons,6,Yes
+EMP47536,2025-10-26,Better Opportunity,12,Yes
+EMP47548,2024-09-29,Family Reasons,23,Yes
+EMP47553,2025-03-11,End of Contract,39,Yes
+EMP47558,2023-10-31,Better Opportunity,27,Yes
+EMP47563,2024-07-06,Family Reasons,17,Yes
+EMP47567,2025-02-18,Health Issues,32,No
+EMP47572,2025-01-23,Family Reasons,32,Yes
+EMP47580,2023-02-02,End of Contract,45,Yes
+EMP47581,2024-01-27,Better Opportunity,40,Yes
+EMP47586,2022-12-06,Better Opportunity,46,Yes
+EMP47595,2025-07-21,Better Opportunity,6,Yes
+EMP47597,2023-09-06,Better Opportunity,36,Yes
+EMP47622,2025-08-10,Health Issues,18,No
+EMP47645,2024-11-18,Work Conditions,17,No
+EMP47651,2024-04-08,End of Contract,34,Yes
+EMP47662,2025-08-25,Family Reasons,45,Yes
+EMP47672,2024-02-06,Better Opportunity,33,Yes
+EMP47677,2025-07-10,Salary Issues,18,No
+EMP47685,2024-01-19,Family Reasons,39,Yes
+EMP47695,2024-04-02,Better Opportunity,42,Yes
+EMP47700,2022-05-07,Work Conditions,44,No
+EMP47705,2025-08-17,Better Opportunity,19,Yes
+EMP47716,2025-06-13,Better Opportunity,9,Yes
+EMP47742,2024-05-10,End of Contract,20,Yes
+EMP47756,2024-02-06,Better Opportunity,28,Yes
+EMP47783,2025-07-10,Better Opportunity,33,Yes
+EMP47799,2025-05-12,Better Opportunity,7,Yes
+EMP47808,2025-04-11,Work Conditions,34,No
+EMP47820,2025-10-20,Better Opportunity,10,Yes
+EMP47839,2025-01-12,End of Contract,23,Yes
+EMP47858,2025-07-12,Better Opportunity,7,Yes
+EMP47867,2025-05-29,Salary Issues,35,No
+EMP47909,2024-09-06,Better Opportunity,20,Yes
+EMP47914,2024-02-03,Salary Issues,39,No
+EMP47945,2025-01-15,Better Opportunity,46,Yes
+EMP47956,2024-12-24,Health Issues,46,No
+EMP47965,2024-08-08,Salary Issues,22,No
+EMP47968,2025-09-13,Better Opportunity,19,Yes
+EMP47974,2024-01-08,Better Opportunity,37,Yes
+EMP47984,2024-10-24,Better Opportunity,21,Yes
+EMP48005,2025-10-25,Health Issues,6,No
+EMP48017,2025-01-28,Salary Issues,20,No
+EMP48022,2025-09-10,Better Opportunity,5,Yes
+EMP48023,2025-05-20,End of Contract,13,Yes
+EMP48046,2025-01-18,Better Opportunity,34,Yes
+EMP48076,2025-10-02,Better Opportunity,39,Yes
+EMP48083,2025-06-19,Better Opportunity,14,Yes
+EMP48087,2025-08-24,Salary Issues,8,No
+EMP48103,2023-02-24,End of Contract,35,Yes
+EMP48110,2024-06-28,Better Opportunity,34,Yes
+EMP48112,2022-05-13,Better Opportunity,44,Yes
+EMP48145,2024-09-20,Salary Issues,38,No
+EMP48152,2025-05-30,Better Opportunity,9,Yes
+EMP48155,2025-01-02,Work Conditions,12,No
+EMP48170,2024-01-03,Work Conditions,47,No
+EMP48174,2025-04-20,Better Opportunity,10,Yes
+EMP48184,2022-12-26,Better Opportunity,39,Yes
+EMP48185,2025-10-02,Better Opportunity,30,Yes
+EMP48186,2024-08-03,End of Contract,35,Yes
+EMP48217,2023-11-08,Better Opportunity,35,Yes
+EMP48241,2025-09-06,End of Contract,30,Yes
+EMP48256,2025-02-05,End of Contract,26,Yes
+EMP48266,2025-03-28,Work Conditions,10,No
+EMP48280,2025-10-06,End of Contract,18,Yes
+EMP48304,2025-11-07,Work Conditions,5,No
+EMP48310,2024-10-01,End of Contract,18,Yes
+EMP48317,2023-04-25,Better Opportunity,35,Yes
+EMP48321,2025-04-10,End of Contract,13,Yes
+EMP48322,2025-10-23,End of Contract,3,Yes
+EMP48336,2023-07-17,Better Opportunity,33,Yes
+EMP48406,2025-03-12,End of Contract,11,Yes
+EMP48423,2024-01-03,Family Reasons,25,Yes
+EMP48428,2024-09-05,End of Contract,37,Yes
+EMP48494,2024-03-05,Better Opportunity,23,Yes
+EMP48519,2025-05-01,Better Opportunity,17,Yes
+EMP48531,2025-06-03,End of Contract,44,Yes
+EMP48562,2023-07-13,Salary Issues,32,No
+EMP48580,2023-03-28,End of Contract,41,Yes
+EMP48600,2023-03-26,Salary Issues,35,No
+EMP48601,2024-08-01,Better Opportunity,21,Yes
+EMP48620,2025-07-11,Better Opportunity,24,Yes
+EMP48641,2024-12-01,End of Contract,15,Yes
+EMP48642,2025-06-29,Better Opportunity,20,Yes
+EMP48646,2025-05-12,End of Contract,22,Yes
+EMP48667,2025-06-11,Family Reasons,40,Yes
+EMP48669,2025-04-16,Better Opportunity,16,Yes
+EMP48691,2024-07-15,Family Reasons,18,Yes
+EMP48717,2025-09-27,Better Opportunity,5,Yes
+EMP48722,2025-06-03,End of Contract,35,Yes
+EMP48726,2025-08-24,Salary Issues,4,No
+EMP48773,2023-11-01,Better Opportunity,41,Yes
+EMP48788,2024-03-02,Better Opportunity,46,Yes
+EMP48805,2023-07-19,Salary Issues,44,No
+EMP48839,2024-06-27,Better Opportunity,37,Yes
+EMP48843,2023-06-16,Family Reasons,37,Yes
+EMP48859,2025-09-25,Family Reasons,5,Yes
+EMP48864,2024-04-29,Salary Issues,24,No
+EMP48912,2024-08-12,Family Reasons,24,Yes
+EMP48922,2024-02-22,Better Opportunity,28,Yes
+EMP48927,2025-05-16,Better Opportunity,14,Yes
+EMP48941,2025-08-04,Salary Issues,5,No
+EMP48944,2025-11-04,Family Reasons,4,Yes
+EMP48979,2025-10-28,Better Opportunity,33,Yes
+EMP49007,2023-08-18,Family Reasons,41,Yes
+EMP49010,2025-07-26,Family Reasons,7,Yes
+EMP49013,2025-09-23,Better Opportunity,44,Yes
+EMP49037,2024-11-15,Better Opportunity,29,Yes
+EMP49038,2025-10-23,Family Reasons,6,Yes
+EMP49056,2025-09-27,End of Contract,3,Yes
+EMP49076,2024-10-09,End of Contract,31,Yes
+EMP49105,2025-09-18,Family Reasons,3,Yes
+EMP49111,2025-07-04,Better Opportunity,16,Yes
+EMP49129,2025-06-12,Health Issues,39,No
+EMP49133,2023-09-29,Work Conditions,30,No
+EMP49145,2025-07-29,Better Opportunity,11,Yes
+EMP49149,2025-08-25,Family Reasons,8,Yes
+EMP49172,2025-09-01,Family Reasons,46,Yes
+EMP49183,2023-11-13,End of Contract,42,Yes
+EMP49219,2024-09-08,Work Conditions,39,No
+EMP49224,2024-10-08,End of Contract,17,Yes
+EMP49232,2025-05-12,Better Opportunity,11,Yes
+EMP49241,2024-08-26,Family Reasons,33,Yes
+EMP49267,2025-07-30,Better Opportunity,6,Yes
+EMP49279,2023-05-10,Better Opportunity,33,Yes
+EMP49309,2025-10-30,Better Opportunity,13,Yes
+EMP49316,2023-10-30,Better Opportunity,34,Yes
+EMP49320,2024-09-26,End of Contract,41,Yes
+EMP49325,2024-07-31,Salary Issues,46,No
+EMP49338,2025-02-02,Health Issues,18,No
+EMP49387,2025-08-19,Better Opportunity,27,Yes
+EMP49398,2025-01-28,Better Opportunity,30,Yes
+EMP49406,2025-08-23,Health Issues,4,No
+EMP49412,2024-09-26,Health Issues,38,No
+EMP49416,2025-09-29,Family Reasons,13,Yes
+EMP49448,2025-10-08,End of Contract,32,Yes
+EMP49460,2025-08-28,End of Contract,33,Yes
+EMP49462,2023-06-21,Family Reasons,46,Yes
+EMP49472,2025-06-03,Better Opportunity,7,Yes
+EMP49480,2025-09-01,End of Contract,5,Yes
+EMP49495,2025-07-08,End of Contract,44,Yes
+EMP49499,2023-06-19,Family Reasons,45,Yes
+EMP49503,2025-08-23,End of Contract,17,Yes
+EMP49521,2025-07-15,Salary Issues,29,No
+EMP49568,2025-11-15,Family Reasons,16,Yes
+EMP49617,2025-08-29,Family Reasons,9,Yes
+EMP49619,2025-04-24,Better Opportunity,9,Yes
+EMP49642,2025-04-16,End of Contract,42,Yes
+EMP49659,2025-03-06,Better Opportunity,12,Yes
+EMP49667,2025-10-04,End of Contract,7,Yes
+EMP49678,2025-07-25,End of Contract,10,Yes
+EMP49688,2025-03-24,Better Opportunity,41,Yes
+EMP49703,2024-12-06,End of Contract,19,Yes
+EMP49739,2025-05-03,Better Opportunity,27,Yes
+EMP49757,2024-10-09,Better Opportunity,14,Yes
+EMP49758,2025-01-15,Better Opportunity,11,Yes
+EMP49811,2025-08-16,Better Opportunity,9,Yes
+EMP49813,2025-02-01,Salary Issues,20,No
+EMP49830,2025-06-18,Salary Issues,7,No
+EMP49839,2024-11-26,End of Contract,15,Yes
+EMP49863,2025-05-06,End of Contract,32,Yes
+EMP49864,2025-11-03,Work Conditions,7,No
+EMP49877,2023-11-25,Better Opportunity,26,Yes
+EMP49892,2024-05-29,Work Conditions,30,No
+EMP49895,2023-05-01,Salary Issues,46,No
+EMP49896,2023-09-29,Work Conditions,33,No
+EMP49907,2025-10-31,Better Opportunity,14,Yes
+EMP49913,2024-12-08,End of Contract,13,Yes
+EMP49950,2025-02-12,Better Opportunity,18,Yes
+EMP49951,2025-10-21,End of Contract,4,Yes
+EMP49976,2024-08-01,Salary Issues,26,No
+EMP49979,2025-09-10,Better Opportunity,7,Yes
+EMP49983,2023-12-14,End of Contract,40,Yes
+EMP49994,2025-03-25,Better Opportunity,11,Yes
+EMP49997,2023-10-03,Better Opportunity,26,Yes
+EMP50029,2024-12-16,End of Contract,24,Yes
+EMP50043,2023-07-14,End of Contract,30,Yes
+EMP50057,2025-09-08,End of Contract,6,Yes
+EMP50063,2024-11-22,Family Reasons,15,Yes
+EMP50099,2025-09-29,End of Contract,13,Yes
+EMP50109,2025-08-22,End of Contract,7,Yes
+EMP50110,2025-01-17,End of Contract,21,Yes
+EMP50113,2025-10-22,Better Opportunity,13,Yes
+EMP50127,2024-10-06,Better Opportunity,17,Yes
+EMP50141,2025-01-04,Better Opportunity,31,Yes
+EMP50160,2023-05-24,Better Opportunity,36,Yes
+EMP50171,2025-11-12,Salary Issues,4,No
+EMP50172,2023-09-19,Better Opportunity,28,Yes
+EMP50174,2024-07-10,End of Contract,25,Yes
+EMP50179,2024-11-14,End of Contract,19,Yes
+EMP50191,2024-11-28,End of Contract,30,Yes
+EMP50201,2023-12-23,Work Conditions,37,No
+EMP50220,2024-07-30,End of Contract,22,Yes
+EMP50221,2025-06-13,Better Opportunity,28,Yes
+EMP50225,2025-02-02,Better Opportunity,13,Yes
+EMP50227,2025-04-05,Better Opportunity,16,Yes
+EMP50238,2025-02-26,Better Opportunity,9,Yes
+EMP50246,2024-12-31,Work Conditions,31,No
+EMP50254,2025-07-04,Family Reasons,33,Yes
+EMP50273,2025-01-06,End of Contract,31,Yes
+EMP50274,2024-01-06,End of Contract,27,Yes
+EMP50278,2024-02-09,Work Conditions,33,No
+EMP50283,2025-10-18,End of Contract,3,Yes
+EMP50285,2024-05-16,End of Contract,28,Yes
+EMP50293,2024-09-16,Salary Issues,23,No
+EMP50303,2025-08-25,Family Reasons,11,Yes
+EMP50316,2025-09-23,Health Issues,6,No
+EMP50322,2023-10-01,Salary Issues,35,No
+EMP50323,2024-03-17,Better Opportunity,24,Yes
+EMP50370,2025-03-04,End of Contract,23,Yes
+EMP50385,2025-06-13,End of Contract,21,Yes
+EMP50386,2025-09-26,Work Conditions,45,No
+EMP50440,2025-11-04,End of Contract,18,Yes
+EMP50445,2025-08-11,Salary Issues,32,No
+EMP50450,2025-02-19,End of Contract,19,Yes
+EMP50524,2025-07-01,Better Opportunity,15,Yes
+EMP50526,2025-07-11,Better Opportunity,12,Yes
+EMP50539,2025-10-30,Better Opportunity,28,Yes
+EMP50541,2025-06-20,End of Contract,27,Yes
+EMP50555,2023-05-28,Better Opportunity,33,Yes
+EMP50580,2025-06-16,Better Opportunity,17,Yes
+EMP50581,2025-10-09,Family Reasons,3,Yes
+EMP50584,2025-07-09,Better Opportunity,24,Yes
+EMP50585,2025-06-30,Salary Issues,24,No
+EMP50597,2023-09-14,Better Opportunity,40,Yes
+EMP50614,2025-07-24,End of Contract,19,Yes
+EMP50616,2024-11-10,Better Opportunity,17,Yes
+EMP50627,2025-03-08,Better Opportunity,10,Yes
+EMP50632,2025-09-23,End of Contract,15,Yes
+EMP50653,2024-12-16,Family Reasons,27,Yes
+EMP50689,2025-09-13,End of Contract,4,Yes
+EMP50715,2025-05-14,Better Opportunity,36,Yes
+EMP50719,2025-10-02,Better Opportunity,15,Yes
+EMP50735,2025-09-06,Salary Issues,9,No
+EMP50742,2025-08-23,Better Opportunity,31,Yes
+EMP50745,2024-12-29,Work Conditions,14,No
+EMP50772,2025-08-04,Better Opportunity,7,Yes
+EMP50779,2025-05-14,End of Contract,8,Yes
+EMP50783,2025-08-09,Better Opportunity,38,Yes
+EMP50784,2024-07-28,Better Opportunity,38,Yes
+EMP50802,2025-01-15,Family Reasons,13,Yes
+EMP50809,2024-10-12,Salary Issues,38,No
+EMP50810,2025-10-20,Family Reasons,7,Yes
+EMP50821,2025-07-04,Family Reasons,32,Yes
+EMP50825,2025-07-18,End of Contract,33,Yes
+EMP50838,2025-07-29,Health Issues,19,No
+EMP50855,2022-06-21,End of Contract,45,Yes
+EMP50864,2025-03-09,Family Reasons,45,Yes
+EMP50875,2025-05-28,Better Opportunity,9,Yes
+EMP50886,2025-08-07,Better Opportunity,19,Yes
+EMP50907,2024-03-09,Work Conditions,38,No
+EMP50908,2025-03-28,Better Opportunity,10,Yes
+EMP50917,2025-07-01,End of Contract,27,Yes
+EMP50941,2025-07-06,End of Contract,5,Yes
+EMP50947,2025-08-08,Family Reasons,27,Yes
+EMP50962,2025-01-17,End of Contract,11,Yes
+EMP50968,2025-05-27,Better Opportunity,30,Yes
+EMP50982,2025-07-21,End of Contract,13,Yes
+EMP50989,2023-01-31,End of Contract,40,Yes

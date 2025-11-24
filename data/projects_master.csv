@@ -1,0 +1,23 @@
+ProjectID,ProjectName,ProjectType,StartDate,PlannedEndDate,ProjectStatus,BudgetAED_Millions,Location,ClientType
+PRJ1000,Dubai Creek Tower,Commercial,2022-10-26,2024-07-08,Under Construction,646,Dubai South,Corporate
+PRJ1001,Palm Jebel Ali,Hospitality,2022-12-31,2024-01-14,Under Construction,560,Business Bay,Private Developer
+PRJ1002,Dubai Marina Heights,Hospitality,2022-09-11,2025-05-01,Under Construction,440,Dubai Hills,Private Developer
+PRJ1003,Business Bay Twin Towers,Hospitality,2022-09-01,2023-12-29,Completion Phase,298,Dubai South,Private Developer
+PRJ1004,Al Maktoum International Expansion,Infrastructure,2022-06-30,2024-06-17,Completion Phase,179,Dubai South,Private Developer
+PRJ1005,Dubai Hills Estate Phase 3,Residential,2022-11-27,2024-09-08,Planning,54,Downtown Dubai,Private Developer
+PRJ1006,Expo City Development,Mixed-Use,2022-06-15,2024-01-18,Planning,291,JBR,Government
+PRJ1007,Bluewaters Island Extension,Commercial,2022-08-16,2025-04-25,Under Construction,394,Dubai Marina,Private Developer
+PRJ1008,JBR Tower Complex,Hospitality,2022-05-02,2024-08-30,Under Construction,397,Dubai Marina,Private Developer
+PRJ1009,Downtown Dubai Metro Link,Infrastructure,2022-01-07,2024-09-28,Under Construction,686,Downtown Dubai,Private Developer
+PRJ1010,Dubai South Residential,Mixed-Use,2022-07-19,2025-06-21,Under Construction,159,JBR,Private Developer
+PRJ1011,Jumeirah Lakes Towers Phase 2,Commercial,2022-03-05,2023-12-17,Planning,80,Downtown Dubai,Corporate
+PRJ1012,Arabian Ranches III,Mixed-Use,2022-05-06,2025-02-14,Under Construction,498,Downtown Dubai,Private Developer
+PRJ1013,Dubai Silicon Oasis Expansion,Infrastructure,2022-12-19,2025-11-24,Under Construction,158,Downtown Dubai,Government
+PRJ1014,Al Furjan Community Center,Infrastructure,2022-09-16,2023-11-19,Under Construction,354,Business Bay,Government
+PRJ1015,Nad Al Sheba Sports Complex,Commercial,2022-06-11,2024-10-24,Completion Phase,75,Downtown Dubai,Private Developer
+PRJ1016,Dubai Water Canal Bridge,Residential,2022-01-29,2023-09-28,Under Construction,391,Downtown Dubai,Private Developer
+PRJ1017,Al Jaddaf Waterfront,Commercial,2022-09-22,2025-06-25,Under Construction,550,Dubai South,Private Developer
+PRJ1018,Dubai Design District Phase 4,Commercial,2022-10-23,2024-12-24,Planning,500,Dubai Marina,Private Developer
+PRJ1019,Meydan One Mall,Hospitality,2023-02-02,2025-10-19,Under Construction,343,Dubai Marina,Private Developer
+PRJ1020,Sustainable City Phase 2,Hospitality,2022-03-18,2024-05-25,Under Construction,454,Dubai South,Private Developer
+PRJ1021,Dubai Maritime City,Infrastructure,2022-08-11,2025-02-28,Under Construction,247,Downtown Dubai,Private Developer
